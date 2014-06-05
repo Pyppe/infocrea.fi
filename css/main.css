@@ -2,6 +2,7 @@
 #topbar { background: white; margin: 20px; }
 #topbar .title-area { background: white; }
 #topbar .title-area img { height: 35px; }
+#topbar li:not(.has-form).active a:not(.button) { background: #b1b1b1 !important; color: white !important; }
 #topbar li:not(.has-form) a:not(.button) { background: white; color: #333; height: 45px; line-height: 45px; padding: 0 15px; font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size: 1.4rem; }
 #topbar li:not(.has-form) a:not(.button):hover { background-color: #f1f1f1; }
 #topbar .fa-rss-square { font-size: 120%; vertical-align: middle; color: #ee802f; }
@@ -70,9 +71,9 @@ html.en .lang-en { display: inherit !important; }
 
 h1, h2, h3, h4, h5, h6 { font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-weight: 300; }
 
-body { background: #F1F1F1; }
+body { background: #F1F1F1; padding-top: 20px; }
 
-#header { margin-top: 20px; margin-bottom: 10px; }
+#header { margin-bottom: 10px; }
 #header img { width: 150px; }
 #header ul { margin: 0; float: right; }
 

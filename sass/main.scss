@@ -1,8 +1,8 @@
 @charset "UTF-8";
 @import "compass";
 @import "_foundation.scss";
-@import "_topbar.scss";
 @import "_mixins.scss";
+@import "_topbar.scss";
 @import "_images.scss";
 @import "_fancybox.scss";
 @import "_localization.scss";
@@ -18,10 +18,10 @@ h1,h2,h3,h4,h5,h6 {
 
 body {
   background: /*image-url('bg.png') repeat*/ #F1F1F1;
+  padding-top: 20px;
 }
 
 #header {
-  margin-top: 20px;
   margin-bottom: 10px;
   img {
     width: 150px;

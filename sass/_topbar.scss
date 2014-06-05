@@ -12,6 +12,11 @@
 
   li:not(.has-form) {
 
+    &.active a:not(.button) {
+      background: darken(#f1f1f1, 25%) !important;
+      color: white !important;
+    }
+
     a:not(.button) {
       background: white;
       color: #333;

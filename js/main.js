@@ -23,8 +23,8 @@ if (!window.console) {
   // Localization
   (function() {
     var settings = {
-      '/': { otherLanguage: '/frontpage/' },
-      'frontpage': { otherLanguage: '/' },
+      '/': { otherLanguage: '/home/', nav: 'home' },
+      'home': { otherLanguage: '/', nav: 'home' },
       'elamantarina': { otherLanguage: '/life-story/', nav: 'lifeStory' },
       'life-story': { otherLanguage: '/elamantarina/', nav: 'lifeStory' },
       'blog': { otherLanguage: window.location.pathname.replace('/blog/', '/blogi/'), nav: 'blog' },
@@ -40,6 +40,9 @@ if (!window.console) {
     }
     $('#topbar .change-lang').attr('href', current.otherLanguage);
     moment.lang($('html').hasClass('fi') ? 'fi' : 'en');
+    if ($('html'.hasClass('en'))) {
+      $('#header a[href]').attr('href', '/home/');
+    }
   })();
 
   // Date-times / localization

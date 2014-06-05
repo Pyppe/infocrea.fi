@@ -2,6 +2,7 @@
 @import "_foundation";
 
 $cyan: #008CBA;
+$red: #dd2c2c;
 
 @mixin title-cover($imageUrl) {
   background: image-url($imageUrl);
