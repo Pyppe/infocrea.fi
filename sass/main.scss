@@ -9,60 +9,42 @@
 @import "_blog.scss";
 @import "_post.scss";
 
-@import url("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700");
+@import url("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700|Open+Sans+Condensed:300");
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 
+body {
+  background: /*image-url('bg.png') repeat*/ #F1F1F1;
+}
+
+#header {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  img {
+    width: 150px;
+  }
+  ul {
+    margin: 0;
+    float: right;
+  }
+}
+#pageWrapper {
+  background: white;
+  @include box-shadow(0 1px 3px rgba(34, 25, 25, 0.4));
+}
+
 #title {
-  &.cover {
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-clip: border-box;
-    margin-bottom: 20px;
-    overflow: hidden;
-    min-height: 150px;
-
-    h1, h3 {
-      //position: absolute;
-      //bottom: 0;
-      color: white;
-      @include text-shadow(0 0 6px rgba(black, 0.8));
-    }
-
-    @media #{$medium-up} {
-      //height: 200px;
-      h1 {
-        font-size: 3.25rem;
-      }
-    }
-    @media #{$large-up} {
-      //height: 200px;
-    }
-  }
-  /*
-  background: image-url("tiles.png") repeat scroll center center $cyan;
-  h1, h5 {
+  background: image-url('home_bg.jpg');
+  height: 250px;
+  .description {
+    margin-top: 20px;
+    float: right;
     color: white;
+    @include text-shadow(1px 1px 2px rgba(black, 0.8));
   }
-  h1 {
-    padding: 10px 0;
-    small {
-      color: white;
-      vertical-align: middle;
-    }
-    &.withTime {
-      margin-bottom: 0;
-      padding-bottom: 0;
-    }
-  }
-  .time {
-    padding-bottom: 10px;
-  }
-  */
 }
 
 span.hilight, em.hilight {
@@ -72,48 +54,4 @@ span.hilight, em.hilight {
 
 body {
   font-family: "Open Sans", "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif
-}
-
-#footer {
-  $textColor: #666;
-  background: #333;
-  padding: 20px 0;
-  color: $textColor;
-  margin-top: 40px;
-  h5 {
-    color: $textColor;
-    margin-top: 10px;
-  }
-  .fa-flash {
-    font-size: 150%;
-    color: white;
-    vertical-align: middle;
-  }
-  ul {
-    float: right;
-    margin: 0;
-  }
-
-  @media #{$small-only} {
-    .columns {
-      text-align: center;
-    }
-    ul {
-      float: none;
-      display: inline-block;
-      > li:first-child {
-        margin-left: 0;
-      }
-    }
-  }
-
-}
-
-#notFoundGif {
-  width: 100%;
-  @media #{$small-only} {
-    width: 70%;
-    display: block;
-    margin: 0 auto;
-  }
 }

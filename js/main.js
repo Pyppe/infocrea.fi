@@ -155,6 +155,6 @@ if (!window.console) {
     });
   });
 
-})(pyppe.main = {});
+})(infocrea.main = {});
 
 $(document).foundation();

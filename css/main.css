@@ -1,12 +1,10 @@
-@import url("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700");
-#topbar .name h1 { margin-left: 45px; }
-#topbar.expanded + #title { background-color: #777; opacity: 0.85; }
-
-#topbar .fa-rss-square { font-size: 150%; vertical-align: middle; color: #ee802f; }
-
-#selfie { width: 40px; height: 40px; margin-left: 5px; margin-top: 2px; position: absolute; -webkit-border-radius: 50px; -moz-border-radius: 50px; -ms-border-radius: 50px; -o-border-radius: 50px; border-radius: 50px; }
-
-#selectLanguage .fa-inverse { color: #222; }
+@import url("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700|Open+Sans+Condensed:300");
+#topbar { background: white; margin: 20px; }
+#topbar .title-area { background: white; }
+#topbar .title-area img { height: 35px; }
+#topbar li:not(.has-form) a:not(.button) { background: white; color: #333; height: 45px; line-height: 45px; padding: 0 15px; font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size: 1.4rem; }
+#topbar li:not(.has-form) a:not(.button):hover { background-color: #f1f1f1; }
+#topbar .fa-rss-square { font-size: 120%; vertical-align: middle; color: #ee802f; }
 
 .filler > * { width: 100%; }
 
@@ -51,7 +49,7 @@ html.en .lang-en { display: inherit !important; }
 .postSeparator { height: 20px; }
 .postSeparator:last-child { height: 0; }
 
-@media only screen and (max-width: 40em) { .postSeparator { background: url('/img/tiles.png?1400491736') repeat scroll center center #008cba; } }
+@media only screen and (max-width: 40em) { .postSeparator { background: url('/img/tiles.png?1401997926') repeat scroll center center #008cba; } }
 .post div.cover { height: 150px; background-size: cover; background-repeat: no-repeat; background-position: center; background-clip: border-box; }
 
 .readMoreButton { margin-top: 10px; }
@@ -70,32 +68,19 @@ html.en .lang-en { display: inherit !important; }
   #post .rightSideContent.wide { width: 450px; } }
 @media only screen and (max-width: 40em) { #post .rightSideContent { width: 100%; } }
 
-h1, h2, h3, h4, h5, h6 { font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-weight: 300; }
+h1, h2, h3, h4, h5, h6 { font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-weight: 300; }
 
-#title { /*
-background: image-url("tiles.png") repeat scroll center center $cyan;
-h1, h5 { color: white;
-}
-h1 { padding: 10px 0; small { color: white; vertical-align: middle; } &.withTime { margin-bottom: 0; padding-bottom: 0; }
-}
-.time { padding-bottom: 10px;
-}
-*/ }
-#title.cover { background-size: cover; background-repeat: no-repeat; background-position: center; background-clip: border-box; margin-bottom: 20px; overflow: hidden; min-height: 150px; }
-#title.cover h1, #title.cover h3 { color: white; text-shadow: 0 0 6px rgba(0, 0, 0, 0.8); }
-@media only screen and (min-width: 40.063em) { #title.cover h1 { font-size: 3.25rem; } }
+body { background: #F1F1F1; }
+
+#header { margin-top: 20px; margin-bottom: 10px; }
+#header img { width: 150px; }
+#header ul { margin: 0; float: right; }
+
+#pageWrapper { background: white; -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); -moz-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); }
+
+#title { background: url('/img/home_bg.jpg?1402003196'); height: 250px; }
+#title .description { margin-top: 20px; float: right; color: white; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); }
 
 span.hilight, em.hilight { color: black; font-size: 120%; }
 
 body { font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
-
-#footer { background: #333; padding: 20px 0; color: #666666; margin-top: 40px; }
-#footer h5 { color: #666666; margin-top: 10px; }
-#footer .fa-flash { font-size: 150%; color: white; vertical-align: middle; }
-#footer ul { float: right; margin: 0; }
-@media only screen and (max-width: 40em) { #footer .columns { text-align: center; }
-  #footer ul { float: none; display: inline-block; }
-  #footer ul > li:first-child { margin-left: 0; } }
-
-#notFoundGif { width: 100%; }
-@media only screen and (max-width: 40em) { #notFoundGif { width: 70%; display: block; margin: 0 auto; } }
