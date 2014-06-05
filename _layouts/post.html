@@ -1,0 +1,18 @@
+---
+layout: page
+rowless: true
+---
+
+<div class="row">
+  <div id="post" class="columns large-10">
+    {{ content }}
+  </div>
+  <div class="columns large-2">&nbsp;</div>
+</div>
+
+<div class="row">
+  <div id="comments" class="columns large-10">
+    {% include disqus.html %}
+  </div>
+  <div class="columns large-2">&nbsp;</div>
+</div>

@@ -1,0 +1,36 @@
+#topbar {
+  .name h1 {
+    margin-left: 45px;
+  }
+
+  &.expanded + #title {
+    background-color: #777;
+    opacity: 0.85;
+  }
+
+}
+
+
+#topbar {
+  .fa-rss-square {
+    font-size: 150%;
+    vertical-align: middle;
+    color: #ee802f;
+  }
+}
+
+#selfie {
+  $size: 40px; // 45px
+  width: $size;
+  height: $size;
+  margin-left: 5px;
+  margin-top: 2px;
+  position: absolute;
+  @include border-radius(50px);
+}
+
+#selectLanguage {
+  .fa-inverse {
+    color: #222;
+  }
+}

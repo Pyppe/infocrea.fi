@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html class="{{ page.language }}">
+
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+    <script type="text/javascript" src="/js/lib/foundation.min.js"></script>
+    <script type="text/javascript" src="/js/lib/moment.min.js"></script>
+    <script type="text/javascript" src="/js/lib/moment-fi.js"></script>
+    <script type="text/javascript" src="/js/lib/fancybox/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+    {% if page.js %}<script type="text/javascript" src="/js/{{ page.js }}"></script>{% endif %}
+  </body>
+</html>

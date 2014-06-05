@@ -1,0 +1,13 @@
+.fancybox-skin { -webkit-border-radius: 0; -moz-border-radius: 0; -ms-border-radius: 0; -o-border-radius: 0; border-radius: 0; }
+
+.fancybox-opened .fancybox-skin { -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5); -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5); box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5); }
+
+.fancybox-overlay { background: rgba(0, 0, 0, 0.75); }
+
+.fancybox-title { font-family: "Open Sans", "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif; font-weight: 300; color: #666; font-size: 18px; line-height: 1.2; }
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { .fancybox-title { font-size: 20px; } }
+@media only screen and (min-width: 64.063em) { .fancybox-title { font-size: 24px; } }
+
+#searchForm { margin-top: 20px; }
+
+#searchResults .match { font-weight: bold; }

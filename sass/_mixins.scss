@@ -1,0 +1,72 @@
+@import "compass";
+@import "_foundation";
+
+$cyan: #008CBA;
+
+@mixin title-cover($imageUrl) {
+  background: image-url($imageUrl);
+  background-size: cover;
+
+  @media #{$medium-up} {
+    height: 200px;
+    h1 {
+      font-size: 4rem;
+    }
+  }
+  @media #{$large-up} {
+    height: 300px;
+  }
+  h1 {
+    @include text-shadow(0 0 5px rgba(0,0,0,0.75));
+  }
+}
+
+@mixin vertical-gradient($startColor, $endColor) {
+  background-color: $startColor;
+  @include filter-gradient($startColor, $endColor);
+  @include background(linear-gradient(top, $startColor, $endColor));
+}
+
+@mixin vertical-gradient-darken($color, $percentage) {
+  @include vertical-gradient($color, darken($color, $percentage));
+}
+
+// ----- START ANIMATION ----- //
+
+@mixin animation($anim) {
+  animation: $anim;
+  -webkit-animation: $anim;
+  -moz-animation: $anim;
+  -o-animation: $anim;
+}
+
+@mixin animation-name($n) {
+  -webkit-animation-name: $n;
+  -moz-animation-name: $n;
+  -o-animation-name: $n;
+  animation-name: $n;
+}
+
+@mixin animation-duration($d) {
+  -webkit-animation-duration: $d;
+  -moz-animation-duration: $d;
+  -o-animation-duration: $d;
+  animation-duration: $d;
+}
+
+@mixin animation-fill-mode($m) {
+  -webkit-animation-fill-mode: $m;
+  -moz-animation-fill-mode: $m;
+  -o-animation-fill-mode: $m;
+  animation-fill-mode: $m;
+}
+
+@mixin keyframes($name) {
+  @keyframes $name { @content; }
+  @-webkit-keyframes $name { @content; }
+  @-moz-keyframes $name { @content; }
+  @-ms-keyframes $name { @content; }
+}
+
+// ----- END ANIMATION ----- //
+

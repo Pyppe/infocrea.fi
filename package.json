@@ -1,0 +1,7 @@
+{
+  "name": "pyppe.fi",
+  "author": "Pyppe",
+  "dependencies": {
+    "underscore.string": "~2.3.3"
+  }
+}

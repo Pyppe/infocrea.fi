@@ -1,0 +1,4 @@
+<div class="filler frame {{ include.css }}">
+  <img src="{{ page.id | content_path }}/{{ include.src | img_size:'aside' }}">
+  {% if include.title %}<div class="title">{{ include.title }}</div>{% endif %}
+</div>

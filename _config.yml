@@ -1,0 +1,10 @@
+# Site settings
+title: "Infocrea Oy"
+description: "Infocrea Oy - Information w. Creativity  | Luovaa tiedonjalostusta"
+baseurl: ""
+url: "http://www.infocrea.fi"
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:title/
+highlighter: pygments

@@ -1,0 +1,42 @@
+.imageCollage {
+  .frame {
+    &:hover {
+      .title {
+        opacity: 1;
+      }
+    }
+    .title {
+      opacity: 0;
+      @include transition(opacity 0.5s ease-in-out);
+    }
+  }
+}
+
+#comments {
+  margin-top: 20px;
+}
+
+#post {
+  margin-top: 20px;
+  .rightSideContent {
+    @media #{$medium-up} {
+      float: right;
+      margin-left: 10px;
+    }
+    @media #{$medium-only} {
+      width: 300px;
+      &.wide {
+        width: 400px;
+      }
+    }
+    @media #{$large-up} {
+      width: 350px;
+      &.wide {
+        width: 450px;
+      }
+    }
+    @media #{$small-only} {
+      width: 100%;
+    }
+  }
+}

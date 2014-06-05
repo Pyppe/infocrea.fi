@@ -1,0 +1,7 @@
+_site
+/infocrea.fi.iml
+/.sass-cache/
+/data/
+/environment.sh
+/node_modules/
+

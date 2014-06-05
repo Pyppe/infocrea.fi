@@ -1,0 +1,12 @@
+<li>
+  <a href="{{ page.id | content_path }}/{{ include.src | img_size:'large' }}" rel="grid_image">
+    <div class="frame filler">
+      <img src="{{ page.id | content_path }}/{{ include.src | img_size:'crop' }}" />
+      {% if include.title %}
+      <div class="title hide-for-small">
+        {{ include.title }}
+      </div>
+      {% endif %}
+    </div>
+  </a>
+</li>

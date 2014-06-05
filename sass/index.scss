@@ -1,0 +1,13 @@
+@charset "UTF-8";
+@import "compass";
+
+#header {
+  background: image-url("header.jpg") no-repeat center center;
+  .row {
+    background-color: rgba(white, 0.5);
+  }
+  .fa {
+    font-size: 120%;
+  }
+}
+

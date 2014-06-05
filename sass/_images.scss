@@ -1,0 +1,85 @@
+.filler {
+  > * {
+    width: 100%;
+  }
+}
+
+.frame {
+  position: relative;
+  > .title {
+    position: absolute;
+    bottom: 0;
+    background: rgba(black, 0.5);
+    color: white;
+    padding: 0.7rem 1.25rem;
+  }
+}
+
+div.center {
+  > img, > a > img {
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 10px;
+  }
+}
+
+img.polaroid {
+  float: left;
+  padding: 10px 10px 30px 10px;
+  background: #eee;
+  border: 1px solid #fff;
+  @include single-box-shadow;
+}
+
+div.polaroid {
+  background: #fff;
+  padding: 10px;
+  text-align: center;
+  @include box-shadow(#222 2px 2px 5px);
+  display: inline-block;
+  &.funky {
+    @include rotate(-5deg);
+  }
+  > img, > iframe {
+    display: block;
+    margin-bottom: 5px;
+  }
+}
+
+.illustration {
+  //float: right;
+  //margin: 0px 10px 20px 50px;
+  margin: 20px auto;
+  width: 550px;
+
+  &.funky {
+    width: inherit;
+    margin: 0px 5px 20px 30px;
+    float: right;
+
+    .polaroid {
+      @include rotate(-3deg);
+    }
+  }
+}
+
+img.photo {
+  border: 1px solid #fff;
+  @include single-box-shadow;
+}
+
+img.thumb {
+  background: #eee;
+  padding: 5px;
+  padding-bottom: 10px;
+  border: 1px solid #fff;
+  @include single-box-shadow;
+  margin: 10px 10px 5px 0;
+}
+
+.pyppeImages {
+  text-align: center;
+  a {
+    vertical-align: top;
+  }
+}

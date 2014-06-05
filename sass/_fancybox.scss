@@ -1,0 +1,26 @@
+
+.fancybox-skin {
+  @include border-radius(0);
+}
+
+.fancybox-opened .fancybox-skin {
+  @include box-shadow(0 5px 10px rgba(black, 0.5));
+}
+
+.fancybox-overlay {
+  background: rgba(black, 0.75);
+}
+
+.fancybox-title {
+  font-family: "Open Sans", "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+  font-weight: 300;
+  color: #666;
+  font-size: 18px;
+  line-height: 1.2;
+  @media #{$medium-only} {
+    font-size: 20px;
+  }
+  @media #{$large-up} {
+    font-size: 24px;
+  }
+}

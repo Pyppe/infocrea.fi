@@ -1,0 +1,18 @@
+
+.lang-fi, .lang-en {
+  display: none !important;
+}
+
+html {
+  &.fi {
+    .lang-fi {
+      display: inherit !important;
+    }
+  }
+  &.en {
+    .lang-en {
+      display: inherit !important;
+    }
+  }
+
+}

@@ -1,0 +1,2 @@
+#notFoundGif { width: 100%; }
+@media only screen and (max-width: 40em) { #notFoundGif { width: 70%; display: block; margin: 0 auto; } }
