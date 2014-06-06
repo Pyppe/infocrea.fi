@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="{{ page.language }}">
+<html class="{{ page.language }}" {% if page.htmlId %}id="{{ page.htmlId }}"{% endif %}>
   {% include head.html %}
   <body>
     <div id="header" class="row">
@@ -24,6 +24,8 @@
     <!--
     {% include footer.html %}
     -->
+    <script type="text/javascript" src="/js/lib/jquery.velocity.min.js"></script>
+    <script type="text/javascript" src="/js/lib/velocity.ui.js"></script>
     <script type="text/javascript" src="/js/lib/foundation.min.js"></script>
     <script type="text/javascript" src="/js/lib/moment.min.js"></script>
     <script type="text/javascript" src="/js/lib/moment-fi.js"></script>

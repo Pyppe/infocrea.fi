@@ -150,6 +150,23 @@ if (!window.console) {
     createFancyboxImages();
     bindBlogPostsPage();
 
+    $('.columns.large-4').velocity("transition.expandIn", {stagger: 175});
+    $('#topbar .toggle-topbar a').click(function() {
+      $(this).blur();
+      var $topbar = $('#topbar');
+      var $menu = $topbar.find('.top-bar-section');
+      if ($topbar.hasClass('expanded')) {
+        $menu.velocity("transition.slideRightOut", 300, function() {
+          $topbar.removeClass('expanded');
+          $menu.show();
+        });
+      } else {
+        $topbar.addClass('expanded');
+        $menu.velocity("transition.slideRightIn");
+      }
+      return false;
+    });
+
     // Life-story page
     $("#showMoreNostalgia").prop('disabled', false).click(function() {
       $(this).off("click").prop('disabled', true);
