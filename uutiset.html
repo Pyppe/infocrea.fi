@@ -1,0 +1,18 @@
+---
+layout: default
+language: fi
+permalink: /uutiset/
+title: Uutiset
+---
+
+<div class="columns">
+  <h1>Uutiset</h1>
+  {% for post in site.posts %}
+  <div class="post">
+    <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+    <h5 class="timeTitle">{{ post.date | date_to_xmlschema }}</h5>
+    <p>{{ post.excerpt }}</p>
+  </div>
+  {% endfor %}
+
+</div>

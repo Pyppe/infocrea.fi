@@ -4,4 +4,5 @@ _site
 /data/
 /environment.sh
 /node_modules/
+/.tweet-cache/
 

@@ -1,18 +1,24 @@
 ---
 layout: page
-rowless: true
 ---
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1455910231321967&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <div class="row">
-  <div id="post" class="columns large-10">
+  <div id="post" class="columns">
     {{ content }}
   </div>
-  <div class="columns large-2">&nbsp;</div>
 </div>
 
 <div class="row">
-  <div id="comments" class="columns large-10">
+  <div id="comments" class="columns">
     {% include disqus.html %}
   </div>
-  <div class="columns large-2">&nbsp;</div>
 </div>
