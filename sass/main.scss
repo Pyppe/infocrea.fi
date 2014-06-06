@@ -9,6 +9,8 @@
 @import "_blog.scss";
 @import "_post.scss";
 
+@import "_cv.scss";
+
 @import url("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700|Open+Sans+Condensed:300");
 
 h1,h2,h3,h4,h5,h6 {
@@ -34,6 +36,16 @@ body {
 #pageWrapper {
   background: white;
   @include box-shadow(0 1px 3px rgba(34, 25, 25, 0.4));
+}
+
+@media #{$large-up} {
+  #pageWrapper {
+    padding: 10px;
+  }
+  #title {
+    margin-right: -10px;
+    margin-left: -10px;
+  }
 }
 
 #title {

@@ -1,0 +1,14 @@
+
+#cvImage {
+  width: 100px;
+  height: 100px;
+  float: right;
+  @include border-radius(200px);
+  background: $red;
+  padding: 5px;
+  //@include box-shadow(0 0 2px rgba(black, 0.25));
+  @media #{$medium-up} {
+    width: 200px;
+    height: 200px;
+  }
+}

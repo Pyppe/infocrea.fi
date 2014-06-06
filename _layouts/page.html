@@ -2,21 +2,6 @@
 layout: default
 ---
 
-<div id="title"  class="cover"
-     style="background-image: url('{% if page.titleCover %}{% if page.id %}{{ page.id | content_path }}/{% endif %}{{ page.titleCover }}{% else %}/img/blog_bg.jpg{% endif %}');">
-  <div class="row">
-    <h1 class="column">{{ page.title }}</h1>
-    {% if page.date %}
-      <h3 class="column">{{ page.date | date_to_xmlschema }}</h3>
-    {% endif %}
-  </div>
+<div class="columns">
+  {{ content }}
 </div>
-{% if page.rowless %}
-{{ content }}
-{% else %}
-<div class="row">
-  <div class="columns large-12">
-    {{ content }}
-  </div>
-</div>
-{% endif %}
