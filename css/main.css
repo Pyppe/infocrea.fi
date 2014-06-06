@@ -50,7 +50,7 @@ html.en .lang-en { display: inherit !important; }
 .postSeparator { height: 20px; }
 .postSeparator:last-child { height: 0; }
 
-@media only screen and (max-width: 40em) { .postSeparator { background: url('/img/tiles.png?1400491736') repeat scroll center center #008cba; } }
+@media only screen and (max-width: 40em) { .postSeparator { background: url('/img/tiles.png?1402069445') repeat scroll center center #008cba; } }
 .post div.cover { height: 150px; background-size: cover; background-repeat: no-repeat; background-position: center; background-clip: border-box; }
 
 .readMoreButton { margin-top: 10px; }
@@ -84,7 +84,7 @@ body { background: #F1F1F1; padding-top: 20px; }
 
 @media only screen and (min-width: 64.063em) { #pageWrapper { padding: 10px; }
   #title { margin-right: -10px; margin-left: -10px; } }
-#title { background: url('/img/home_bg.jpg?1402031672'); height: 250px; }
+#title { background: url('/img/home_bg.jpg?1402069445'); height: 250px; }
 #title .description { margin-top: 20px; float: right; color: white; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); }
 
 span.hilight, em.hilight { color: black; font-size: 120%; }
