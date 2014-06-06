@@ -5,14 +5,20 @@ readonly PROGDIR=$(readlink -m $(dirname $0))
 readonly ARGS="$@"
 readonly TARGET="$PROGDIR/_site"
 readonly JEKYLL=`which jekyll`
+readonly ENV_SRC="$PROGDIR/environment.sh"
 
 if [ ! -f $JEKYLL ]; then
   echo "Jekyll not found. Exiting..."
   exit 1
 fi
 
+if [ ! -f $ENV_SRC ]; then
+  echo "$(basename $ENV_SRC) not found. Exiting..."
+  exit 1
+fi
+. $ENV_SRC
+
 cd $PROGDIR
-. $PROGDIR/environment.sh
 
 shopt -s globstar
 rm -rf $TARGET
