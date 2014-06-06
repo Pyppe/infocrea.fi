@@ -40,7 +40,7 @@ if (!window.console) {
     }
     $('#topbar .change-lang').attr('href', current.otherLanguage);
     moment.lang($('html').hasClass('fi') ? 'fi' : 'en');
-    if ($('html'.hasClass('en'))) {
+    if ($('html').hasClass('en')) {
       $('#header a[href]').attr('href', '/home/');
     }
   })();
