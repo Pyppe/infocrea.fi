@@ -3,6 +3,17 @@
   margin: 20px;
   $height: 45px;
 
+
+  @media #{$small-only} {
+    .top-bar-section {
+      @include transition(all 0.6s ease-in-out);
+      opacity: 0;
+    }
+    &.expanded .top-bar-section {
+      opacity: 1;
+    }
+  }
+
   .title-area {
     background: white;
     img {

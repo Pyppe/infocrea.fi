@@ -1,5 +1,7 @@
 @import url("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700|Open+Sans+Condensed:300");
 #topbar { background: white; margin: 20px; }
+@media only screen and (max-width: 40em) { #topbar .top-bar-section { -webkit-transition: all 0.6s ease-in-out; -moz-transition: all 0.6s ease-in-out; -o-transition: all 0.6s ease-in-out; transition: all 0.6s ease-in-out; opacity: 0; }
+  #topbar.expanded .top-bar-section { opacity: 1; } }
 #topbar .title-area { background: white; }
 #topbar .title-area img { height: 35px; }
 #topbar li:not(.has-form).active a:not(.button) { background: #b1b1b1 !important; color: white !important; }
