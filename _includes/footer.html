@@ -1,20 +1,5 @@
 <footer id="footer">
   <div class="row">
-    <div class="columns medium-6">
-      <h5>
-        <i class="fa fa-flash"></i>
-        Pyppe productions &copy;
-        {{ site.time | date: "%Y" }}
-      </h5>
-    </div>
-    <div class="columns medium-6">
-      <ul class="inline-list">
-        <li><a href="http://twitter.com/pyrylahti">{% include roundIcon.html icon="twitter" %}</a></li>
-        <li><a href="https://www.facebook.com/Pyppe">{% include roundIcon.html icon="facebook" %}</a></li>
-        <li><a href="http://www.linkedin.com/in/pyppe">{% include roundIcon.html icon="linkedin" %}</a></li>
-        <li><a href="mailto:pyppe@iki.fi">{% include roundIcon.html icon="envelope" %}</a></li>
-      </ul>
-    </div>
     {% comment %}
     {% for page in site.pages %}
       <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>

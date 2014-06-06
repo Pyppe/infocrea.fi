@@ -80,9 +80,13 @@ body { background: #F1F1F1; padding-top: 20px; }
 
 #header { margin-bottom: 10px; }
 #header img { width: 150px; }
-#header ul { margin: 0; float: right; }
+#header ul { margin: 0; margin-top: 2px; float: right; }
+#header ul li { padding-top: 2px; }
 
-#pageWrapper { background: white; -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); -moz-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); }
+a { color: #dd2c2c; }
+a:hover { color: #c52020; }
+
+#pageWrapper { background: white; -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); -moz-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); padding-bottom: 40px !important; }
 
 @media only screen and (min-width: 64.063em) { #pageWrapper { padding: 10px; }
   #title { margin-right: -10px; margin-left: -10px; } }
