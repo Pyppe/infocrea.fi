@@ -63,7 +63,9 @@ html.en .lang-en { display: inherit !important; }
 @media only screen and (max-width: 40em) { .postSeparator { background: url('/img/tiles.png?1402069445') repeat scroll center center #008cba; } }
 .post div.cover { height: 150px; background-size: cover; background-repeat: no-repeat; background-position: center; background-clip: border-box; }
 
-.readMoreButton { margin-top: 10px; }
+.readMoreButton, ul.pagination li.current a { background-color: #dd2c2c; }
+.readMoreButton:hover, .readMoreButton:focus, ul.pagination li.current a:hover, ul.pagination li.current a:focus { background-color: #b81e1e; }
+
 .readMoreButton .fa { font-size: 150%; margin-left: 10px; vertical-align: middle; }
 
 .imageCollage .frame:hover .title { opacity: 1; }

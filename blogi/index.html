@@ -20,6 +20,11 @@ title: Blogi
       </h2>
     </a>
     <p>{{ post.excerpt }}</p>
+    <a href="{{ post.url }}" class="button small readMoreButton">
+      Näytä koko kirjoitus
+      <i class="fa fa-arrow-circle-right"></i>
+    </a>
+    <div style="clear: both;"></div>
   </div>
   {% endfor %}
 </div>

@@ -29,17 +29,25 @@
   }
 }
 
-.post div.cover {
-  height: 150px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-clip: border-box;
+.post {
+
+  div.cover {
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+  }
 }
 
+.readMoreButton, ul.pagination li.current a {
+  background-color: $red;
+  &:hover, &:focus {
+    background-color: darken($red, 10%);
+  }
+}
 
 .readMoreButton {
-  margin-top: 10px;
   .fa {
     font-size: 150%;
     margin-left: 10px;
