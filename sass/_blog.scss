@@ -1,8 +1,21 @@
+/*
 @media #{$medium-up} {
   .timeTitle {
     margin-top: 15px;
   }
 }
+*/
+.timeTitle {
+  white-space: nowrap;
+}
+
+@media #{$large-up} {
+  .flex-video.narrow {
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+}
+
 
 .postSeparator {
   height: 20px;

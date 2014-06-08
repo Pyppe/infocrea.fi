@@ -50,7 +50,13 @@ img.thumb { background: #eee; padding: 5px; padding-bottom: 10px; border: 1px so
 html.fi .lang-fi { display: inherit !important; }
 html.en .lang-en { display: inherit !important; }
 
-@media only screen and (min-width: 40.063em) { .timeTitle { margin-top: 15px; } }
+/*
+@media only screen and (min-width:40.063em) { .timeTitle { margin-top: 15px; }
+}
+*/
+.timeTitle { white-space: nowrap; }
+
+@media only screen and (min-width: 64.063em) { .flex-video.narrow { margin-left: 80px; margin-right: 80px; } }
 .postSeparator { height: 20px; }
 .postSeparator:last-child { height: 0; }
 

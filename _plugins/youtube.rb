@@ -22,7 +22,7 @@ module Jekyll
     end
 
     def render(context)
-      "<div class=\"flex-video\">" +
+      "<div class=\"flex-video widescreen narrow\">" +
         "<iframe width=\"#{@width}\" height=\"#{@height}\" frameborder=\"0\"  allowfullscreen=\"\" src=\"http://www.youtube.com/embed/#{@id}\"></iframe>" +
       "</div>"
     end
