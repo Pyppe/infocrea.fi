@@ -150,7 +150,7 @@ if (!window.console) {
     createFancyboxImages();
     bindBlogPostsPage();
 
-    $('.columns.large-4').velocity("transition.expandIn", {stagger: 175});
+    $('.columns.example').velocity("transition.expandIn", {stagger: 175});
     $('#topbar .toggle-topbar a').click(function() {
       $(this).blur();
       var $topbar = $('#topbar');
