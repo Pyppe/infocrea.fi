@@ -60,6 +60,8 @@ html.en .lang-en { display: inherit !important; }
 .postSeparator { height: 10px; background: url('/img/grey_dots.png?1402328593') repeat scroll center center #f1f1f1; margin: 10px 0; }
 .postSeparator:last-child { height: 0; }
 
+.pagination-centered { margin-top: 20px; }
+
 #blog .post div.cover { height: 150px; background-size: cover; background-repeat: no-repeat; background-position: center; background-clip: border-box; }
 
 .readMoreButton, ul.pagination li.current a { background-color: #dd2c2c; }
