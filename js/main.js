@@ -74,7 +74,8 @@ if (!window.console) {
   })();
 
   function bindCoverTitleScrolling() {
-    if ($('#title').length === 0) {
+    var $title = $('#title');
+    if ($title.length === 0) {
       return;
     }
     function setY($elem, value) {
@@ -92,9 +93,13 @@ if (!window.console) {
       var fromTop = $(window).scrollTop();
       var height = $(window).height();
 
-      var $bg = $('#title');
+      var titleBottom = $title.position().top + $title.height();
+      if (fromTop > titleBottom) {
+        return;
+      }
+
       var offset = 50 - (fromTop / height) * 100;
-      $bg.css("background-position", "center " + offset + "%");
+      $title.css("background-position", "center " + offset + "%");
       setY($('#title h1'), +fromTop/2);
       setY($('#title h2'), +fromTop/2.4);
       setY($('#title h4'), +fromTop/2.5);
@@ -122,34 +127,9 @@ if (!window.console) {
     });
   }
 
-  function bindBlogPostsPage() {
-    var $asideImages = $('.post .aside');
-    if ($asideImages.length === 0) {
-      return;
-    }
-    adjustSideImages();
-    var interval = setTimeout(adjustSideImages, 1500);
-
-    function adjustSideImages() {
-      $asideImages.each(function() {
-        var $aside = $(this).css('margin-top', '0');
-        var $post = $aside.closest('.post');
-        var $right = $post.find('.rightColumn');
-        var $left = $post.find('.leftColumn');
-        var diff = Math.floor($left.height() - $right.height()) - 11;
-        if (diff > 0) {
-          $aside.css('margin-top', diff + 'px');
-        }
-      });
-    }
-
-    $(window).resize(adjustSideImages);
-  }
-
   $(function() {
     bindCoverTitleScrolling();
     createFancyboxImages();
-    bindBlogPostsPage();
 
     $('#index div.example').velocity("transition.expandIn", {stagger: 175});
     $('#topbar .toggle-topbar a').click(function() {
@@ -168,12 +148,6 @@ if (!window.console) {
       return false;
     });
 
-    // Life-story page
-    $("#showMoreNostalgia").prop('disabled', false).click(function() {
-      $(this).off("click").prop('disabled', true);
-      $("#moreNostalgia").slideDown();
-      $('html, body').animate({scrollTop: $('#moreNostalgia').offset().top}, 400);
-    });
   });
 
 })(infocrea.main = {});
