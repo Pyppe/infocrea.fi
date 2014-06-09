@@ -51,30 +51,41 @@ a {
   padding-bottom: 40px !important;
 }
 
-@media #{$large-up} {
-  #pageWrapper {
-    padding: 10px;
-  }
-  #title {
-    margin-right: -10px;
-    margin-left: -10px;
-  }
-}
-
 #title {
-  background: image-url('home_bg.jpg');
-  height: 250px;
+  background-image: image-url('home_bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-clip: border-box;
+  overflow: hidden;
+
+  height: 220px;
+
   .description {
     margin-top: 20px;
     float: right;
+  }
+  h1, h2, .description {
     color: white;
     @include text-shadow(1px 1px 2px rgba(black, 0.8));
+  }
+  h1 {
+    @media #{$large-up} {
+      font-size: 3.25rem; // 2.75rem
+    }
   }
 }
 
 #index.js {
   .example {
     opacity: 0;
+  }
+}
+
+.columns.largeSpacing {
+  @media #{$large-up} {
+    padding-left: 1.3rem;
+    padding-right: 1.3rem;
   }
 }
 

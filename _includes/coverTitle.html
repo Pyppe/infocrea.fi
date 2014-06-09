@@ -1,0 +1,7 @@
+<div id="title" style="background-image: url('{{ include.img }}')">
+  <div class="columns largeSpacing">
+    <h1>{{ include.title }}</h1>
+    {% if include.subTitle %}<h2>{{ include.subTitle }}</h2>{% endif %}
+    {% if include.date %}<h2 class="timeTitle">{{ include.date | date_to_xmlschema }}</h2>{% endif %}
+  </div>
+</div>

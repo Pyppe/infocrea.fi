@@ -97,12 +97,14 @@ a:hover { color: #c52020; }
 
 #pageWrapper { background: white; -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); -moz-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); padding-bottom: 40px !important; }
 
-@media only screen and (min-width: 64.063em) { #pageWrapper { padding: 10px; }
-  #title { margin-right: -10px; margin-left: -10px; } }
-#title { background: url('/img/home_bg.jpg?1402069445'); height: 250px; }
-#title .description { margin-top: 20px; float: right; color: white; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); }
+#title { background-image: url('/img/home_bg.jpg?1402069445'); background-size: cover; background-repeat: no-repeat; background-position: center; background-clip: border-box; overflow: hidden; height: 220px; }
+#title .description { margin-top: 20px; float: right; }
+#title h1, #title h2, #title .description { color: white; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); }
+@media only screen and (min-width: 64.063em) { #title h1 { font-size: 3.25rem; } }
 
 #index.js .example { opacity: 0; }
+
+@media only screen and (min-width: 64.063em) { .columns.largeSpacing { padding-left: 1.3rem; padding-right: 1.3rem; } }
 
 span.hilight, em.hilight { color: black; font-size: 120%; }
 

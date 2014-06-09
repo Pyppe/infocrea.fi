@@ -13,13 +13,14 @@ BG options:
 - https://www.flickr.com/photos/jarmolahti/9247779808/in/set-72157634564179656
 --->
 
-<h1>Blogi</h1>
+{% include coverTitle.html img="/img/blog_bg.jpg" title="Infocrea blogi" %}
 
-{% if paginator.page != 1 %}
-  {% include pagination.html %}
-{% endif %}
+<div class="columns largeSpacing">
 
-<div>
+  {% if paginator.page != 1 %}
+    {% include pagination.html %}
+  {% endif %}
+
   {% for post in paginator.posts %}
   <div class="post">
     <a href="{{ post.url }}" class="title">
@@ -37,6 +38,6 @@ BG options:
   </div>
   <div class="postSeparator"></div>
   {% endfor %}
-</div>
 
-{% include pagination.html %}
+  {% include pagination.html %}
+</div>

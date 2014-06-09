@@ -11,14 +11,14 @@ layout: page
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="row">
-  <div id="post" class="columns">
+{% include coverTitle.html img="/img/blog_bg.jpg" title=page.title date=page.date %}
+
+<div class="columns largeSpacing">
+  <div id="post">
     {{ content }}
   </div>
-</div>
 
-<div class="row">
-  <div id="comments" class="columns">
+  <div id="comments">
     {% include disqus.html %}
   </div>
 </div>
