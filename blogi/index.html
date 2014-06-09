@@ -4,7 +4,15 @@ language: fi
 title: Blogi
 ---
 
-<h1>Uutiset</h1>
+<!--
+BG options:
+- https://www.flickr.com/photos/jarmolahti/13560358605/in/set-72157643260480523
+- https://www.flickr.com/photos/jarmolahti/9335297000/in/set-72157634726759395
+- https://www.flickr.com/photos/jarmolahti/9244996969/in/set-72157634564179656
+- https://www.flickr.com/photos/jarmolahti/9247779808/in/set-72157634564179656
+--->
+
+<h1>Blogi</h1>
 
 {% if paginator.page != 1 %}
   {% include pagination.html %}
@@ -13,7 +21,7 @@ title: Blogi
 <div>
   {% for post in paginator.posts %}
   <div class="post">
-    <a href="{{ post.url }}">
+    <a href="{{ post.url }}" class="title">
       <h2>
         {{ post.title }}
         <small class="timeTitle">{{ post.date | date_to_xmlschema }}</small>
@@ -26,6 +34,7 @@ title: Blogi
     </a>
     <div style="clear: both;"></div>
   </div>
+  <div class="postSeparator"></div>
   {% endfor %}
 </div>
 
