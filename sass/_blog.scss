@@ -41,13 +41,6 @@
   }
 }
 
-.readMoreButton, ul.pagination li.current a {
-  background-color: $red;
-  &:hover, &:focus {
-    background-color: darken($red, 10%);
-  }
-}
-
 .readMoreButton {
   .fa {
     font-size: 150%;

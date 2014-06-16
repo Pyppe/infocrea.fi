@@ -89,6 +89,16 @@ a {
   }
 }
 
+button, a.button, ul.pagination li.current a {
+  background-color: $red;
+  &:hover, &:focus {
+    background-color: darken($red, 10%);
+  }
+  &.disabled, &[disabled] {
+    opacity: 0.5;
+  }
+}
+
 
 span.hilight, em.hilight {
   color: black;

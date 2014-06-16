@@ -1,0 +1,32 @@
+---
+layout: page
+language: fi
+permalink: /palaute/
+title: Anna palautetta
+js: feedback.js
+---
+
+<div class="columns largeSpacing">
+
+  <h1>Anna palautetta</h1>
+
+  <form id="feedback">
+    <fieldset>
+      <legend>Palaute</legend>
+      <div class="row">
+        <div class="medium-6 columns">
+          <label>Nimi <input type="text" placeholder="Anna nimesi"></label>
+        </div>
+        <div class="medium-6 columns">
+          <label>E-mail <input type="text" placeholder="Anna sähköpostiosoitteesi"></label>
+        </div>
+      </div>
+      <label>Otsikko <input type="text" placeholder="Anna otsikko"></label>
+      <label>Viesti <span style="color: red;">*</span> <textarea placeholder="Kirjoita viesti" rows="6"></textarea></label>
+      <button disabled="disabled">
+        <i class="fa fa-envelope"></i>&nbsp;&nbsp;Lähetä
+      </button>
+    </fieldset>
+  </form>
+
+</div>
