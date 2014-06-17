@@ -107,7 +107,10 @@ a:hover { color: #c52020; }
 
 button, a.button, ul.pagination li.current a { background-color: #dd2c2c; }
 button:hover, button:focus, a.button:hover, a.button:focus, ul.pagination li.current a:hover, ul.pagination li.current a:focus { background-color: #b81e1e; }
-button.disabled, button[disabled], a.button.disabled, a.button[disabled], ul.pagination li.current a.disabled, ul.pagination li.current a[disabled] { opacity: 0.5; }
+button.disabled, button[disabled], a.button.disabled, a.button[disabled], ul.pagination li.current a.disabled, ul.pagination li.current a[disabled] { background-color: #dd2c2c; border-color: #cc0000; opacity: 0.5; }
+button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, a.button.disabled:hover, a.button.disabled:focus, a.button[disabled]:hover, a.button[disabled]:focus, ul.pagination li.current a.disabled:hover, ul.pagination li.current a.disabled:focus, ul.pagination li.current a[disabled]:hover, ul.pagination li.current a[disabled]:focus { background-color: #dd2c2c; }
+
+form span.required { color: red; font-size: 140%; line-height: 0.5; }
 
 span.hilight, em.hilight { color: black; font-size: 120%; }
 

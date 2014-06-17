@@ -95,8 +95,19 @@ button, a.button, ul.pagination li.current a {
     background-color: darken($red, 10%);
   }
   &.disabled, &[disabled] {
+    background-color: $red;
+    border-color: darken(red, 10%);
     opacity: 0.5;
+    &:hover, &:focus {
+      background-color: $red;
+    }
   }
+}
+
+form span.required {
+  color: red;
+  font-size: 140%;
+  line-height: 0.5;
 }
 
 
