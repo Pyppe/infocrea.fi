@@ -22,7 +22,21 @@ js: feedback.js
           <small class="error" style="display: none;">Virheellinen sähköpostiosoite</small>
         </div>
       </div>
-      <label>Otsikko <input type="text" name="subject" placeholder="Anna otsikko"></label>
+      <div class="row">
+        <div class="medium-6 columns">
+          <label>Otsikko <input type="text" name="subject" placeholder="Anna otsikko"></label>
+        </div>
+        <div class="medium-6 columns">
+          <label>
+            Aihe
+            <select name="category">
+              <option value="Yleinen">Yleinen</option>
+              <option value="Diipa daapa">Diipa daapa</option>
+              <option value="SalamaPartio">Salamapartio</option>
+            </select>
+          </label>
+        </div>
+      </div>
       <label>
         Viesti <span class="required">*</span>
         <textarea placeholder="Kirjoita viesti" rows="6" name="message"></textarea>
