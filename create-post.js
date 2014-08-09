@@ -18,7 +18,7 @@ exec("date +%FT%T%z", function (error, date, stderr) {
   date = date.trim();
   var day = date.substr(0, 10)
   var slug = _str.slugify(title);
-  var filename = day + "-" + slug + ".html";
+  var filename = day + "-" + slug + ".markdown";
   var file = path.join(postsDir, filename);
   if (fs.existsSync(file)) {
     console.log('ERROR: %s already exists', file);
