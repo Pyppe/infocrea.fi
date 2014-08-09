@@ -4,7 +4,6 @@ UUSI BLOGIKIRJOITUS
 - Avaa terminaali ("Pääte")
 - `cd infocrea.fi`
 - `./create-post.sh "Title of my new post"`
-
 - Kaikki kirjoitukset ovat _posts -hakemiston alla.
 - Jekyll generoi sivuston _site -hakemiston alle. **ÄLÄ MUOKKAA NÄITÄ**
 
