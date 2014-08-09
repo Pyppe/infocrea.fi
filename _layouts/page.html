@@ -2,4 +2,10 @@
 layout: default
 ---
 
-{{ content }}
+{% include coverTitle.html img="/img/home_bg.jpg" title=page.title %}
+
+<div class="columns largeSpacing">
+  <div id="post">
+    {{ content }}
+  </div>
+</div>
