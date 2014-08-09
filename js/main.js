@@ -27,6 +27,8 @@ if (!window.console) {
       'home': { otherLanguage: '/', nav: 'home' },
       'elamantarina': { otherLanguage: '/life-story/', nav: 'lifeStory' },
       'life-story': { otherLanguage: '/elamantarina/', nav: 'lifeStory' },
+      'yhteystiedot': { nav: 'contact' },
+      'palvelut': { nav: 'services' },
       'blog': { otherLanguage: window.location.pathname.replace('/blog/', '/blogi/'), nav: 'blog' },
       'blogi': { otherLanguage: window.location.pathname.replace('/blogi/', '/blog/'), nav: 'blog' }
     };
