@@ -22,7 +22,7 @@ cd $PROGDIR
 
 shopt -s globstar
 rm -rf $TARGET
-#./process-content.sh
+./process-content.sh
 $JEKYLL build
 rm -rf $TARGET/content
 rm -f $TARGET/*.sh

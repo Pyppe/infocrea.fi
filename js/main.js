@@ -20,6 +20,12 @@ if (!window.console) {
 
 (function(exports, undefined) {
 
+  // Facebook posts
+  (function() {
+    var $posts = $('.fb-post');
+    $posts.attr('data-width', $posts.width());
+  })();
+
   // Localization
   (function() {
     var settings = {
