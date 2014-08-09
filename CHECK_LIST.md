@@ -7,6 +7,18 @@ UUSI BLOGIKIRJOITUS
 - Kaikki kirjoitukset ovat _posts -hakemiston alla.
 - Jekyll generoi sivuston _site -hakemiston alle. **ÄLÄ MUOKKAA NÄITÄ**
 
+## Kirjoituksen "ingressi"
+- Joko määritä "otsikkoalueeseen" `excerpt`, esim:
+```
+---
+layout: post
+...
+excerpt: |
+  <p>Tämä on listauksessa näkyvä osa.</p>
+---
+```
+- Tai käytä koodia `<!--more-->` katkaisemaan kirjoitus halutusta kohdasta.
+
 
 KÄYNNISTÄ JEKYLL LOKAALISTI
 ===========================

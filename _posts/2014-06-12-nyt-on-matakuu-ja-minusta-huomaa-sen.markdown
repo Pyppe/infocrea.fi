@@ -12,6 +12,8 @@ Mutta asiaan, johon mätäkuu ainakin aasinsillan kautta liittyy.
 
 Jostain nimittäin keksin, että tehdäänpä **"mätäkuun tarjous"**. Ja se on:
 
+<!--more-->
+
 > Elokuun 23. päivään mennessä (katso ensimmäinen linkki) tähän blogaukseen viitaten [tämän lomakkeen](/palaute/) kautta aloitetut striimaustilaukseen johtaneet keskustelut tuottavat 30 prosentin (%) alennuksen avaimet käteen -striimauksen jo valmiiksi erittäin edulliseen laskuun.
 
 (Tuota viimeistä kappaletta kun tässä nyt katselen, luen ja yritän ymmärtää, niin kerrottakoon että olen käynnistänyt suoramarkkinointiin tähtäävän harjoituksen Drayton Bird Associates Finlandin [Timo Jäppisen](http://www.markkinointikatsaus.com/p/tassa-muutamia-ihmisten-kommentteja.html) kanssa. Mutta ei siitä sen enempää tässä, kerron sitten joskus lisää:-)
