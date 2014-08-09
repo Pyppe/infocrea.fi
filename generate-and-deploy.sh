@@ -1,7 +1,7 @@
 #!/bin/bash
 
 readonly PROGNAME=$(basename $0)
-readonly PROGDIR=$(readlink -m $(dirname $0))
+readonly PROGDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 readonly ARGS="$@"
 readonly TARGET="$PROGDIR/_site"
 readonly JEKYLL=`which jekyll`
