@@ -61,7 +61,7 @@ Asiakkaan omilla tai Infocrea Oy:n/Jarmo Lahden Facebook-, Twitter-, Google+ ja 
 
 Hinnoitteluperusteet
 --------------------
-Ideointiin, briefauksiin, haastatteluihin, kuvauksiin, editointiin, nettijulkaisuun jne. - sovelletaan Suomen Freelance-journalistit ry:n hinnoitteluperusteiden mukaista taksa 78 €/h (ns. tuottavan työn nettoaika). Minilaskutus ja laskutusporras on 0,5 tuntia). Pääkaupunkiseudun ulkopuolelle tai muuten oman auton käyttöä vaativissa tehtävissä laskutetaan matkakustannukset ja päivärahat verottajan voimassaolevin taksoin.
+Ideointiin, briefauksiin, haastatteluihin, kuvauksiin, editointiin, nettijulkaisuun jne. - sovelletaan Infocrea Oy:n kokemus- ja osaamishistoriasta johtuen Suomen Freelance-journalistit ry:n [hinnoitteluperusteiden](http://uusi.freet.fi/palkkiot-ja-sopimukset/miten-free-journalisti-hinnoittelee-tyonsa/) mukaista sanoma- ja aikakauslehdistön toimittajan taksaa 78 €/h (+alv 24% paitsi lehtijuttujen teksteissä) ns. tuottavan työn nettoajasta. Minilaskutus ja laskutusporras on 0,5 tuntia). Pääkaupunkiseudun ulkopuolelle tai muuten oman auton käyttöä vaativissa tehtävissä laskutetaan matkakustannukset ja päivärahat verottajan voimassaolevin taksoin.
 
 Yhteistyömahdollisuuksia?
 -------------------------
