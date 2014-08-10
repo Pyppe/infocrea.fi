@@ -1,0 +1,39 @@
+#search {
+  .fa-spin {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+  }
+}
+
+#searchResults {
+  a.result {
+    display: block;
+    padding: 5px;
+    @include transition(background-color 0.5s ease-out);
+    background-color: rgba($red, 0);
+    &:hover {
+      background-color: rgba($red, 0.15);
+    }
+    .title {}
+    em {
+      font-weight: 700;
+      font-style: normal;
+      color: #58b374;
+    }
+    .excerpt {
+      color: #222;
+      .fa {
+        color: #666;
+      }
+      .fa-quote-left {
+        padding-right: 5px;
+        padding-bottom: 5px;
+      }
+      .fa-quote-right {
+        padding-left: 5px;
+        padding-top: 5px;
+      }
+    }
+  }
+}
