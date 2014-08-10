@@ -25,7 +25,7 @@ KÄYNNISTÄ JEKYLL LOKAALISTI
 Tällöin voit "esiakatsella" sivustoa ja tehdä muutoksia yms.
 - Avaa terminaali
 - `cd infocrea.fi`
-- `jekll serve -w`
+- `jekyll serve -w`
 
 MUUTOSTEN TALLENNUS GITHUBIIN
 =============================
