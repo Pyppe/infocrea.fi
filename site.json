@@ -6,7 +6,7 @@ permalink: /site.json
 {% for post in site.posts %}
   {
     "title" : {{ post.title | escape_json }},
-    "time" : "{{ post.date }}",
+    "time" : "{{ post.date | date_to_xmlschema }}",
     "url" : "{{ post.url }}",
     "content" : {{ post.content | markdownify | strip_html | escape_json }}
   }{% if forloop.last == false %},{% endif %}
