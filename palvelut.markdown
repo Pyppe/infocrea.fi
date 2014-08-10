@@ -6,4 +6,4 @@ title: "Palvelut"
 ---
 
 
-TODO: tarkemmat palvelukuvaukset [täältä](http://www.infocrea.fi/palvelukuvaukset-2013)
+Tarkemmat palvelukuvaukset toistaiseksi vanhasta webistä [täältä](http://www.infocrea.fi/palvelukuvaukset-2013)
