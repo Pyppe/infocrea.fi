@@ -8,7 +8,8 @@ permalink: /site.json
     "title" : {{ post.title | escape_json }},
     "time" : "{{ post.date | date_to_xmlschema }}",
     "url" : "{{ post.url }}",
-    "content" : {{ post.content | markdownify | strip_html | escape_json }}
+    "content" : {{ post.content | markdownify | strip_html | escape_json }},
+    "excerpt" : {{ post.excerpt | markdownify | strip_html | escape_json }}
   }{% if forloop.last == false %},{% endif %}
 {% endfor %}
 ]
