@@ -6,21 +6,18 @@ title: "Palvelut"
 ---
 
 
-Tarkemmat palvelukuvaukset toistaiseksi vanhasta webistä [täältä](http://www.infocrea.fi/palvelukuvaukset-2013)
-
-(Tai alta ilman muotoiluja:-)
-
 Palvelukuvaukset
 ================
+
 Ajantasavideo
 -------------
 **Tosiaikainen videostriimaus nettiin**
 
-Lähetykset toteutetaan Livestream.com palvelussa omalle tapahtumasivulle. Tapahtuman jälkeen video voidaan tallentaa ja striimitallenteita voidaan myös kevyesti editoida ja striimauslaatuisena (=kiinteällä nettiyhteydellä HD) katsella myös tapahtuman jälkeen. (Eli striimin lisäksi tallenne!) 
+Lähetykset toteutetaan joko asiakkaan omalle videopalvelimelle tai Livestream.com palvelussa omalle tapahtumasivulle. Tapahtuman jälkeen video voidaan tallentaa ja striimitallenteita voidaan myös kevyesti editoida ja striimauslaatuisena (=kiinteällä nettiyhteydellä HD) katsella myös tapahtuman jälkeen. (Eli striimin lisäksi tallenne!) 
 
 Erikseen sovittaessa striimattava materiaali voidaan tallentaa myös kameran hd-formaatissa erikseen ja se on asiakkaan vapaasti käytettävissä haluamallaan tavalla.
 
-IT-tapahtumien striimeille on oma kanava ITstriimIT. Sen lisäksi on Infocrean puolesta käytettävissä kanava Infocrea-fi 
+IT-tapahtumien striimeille Infocrea Oy:lla on oma kanava [ITstriimIT](https://new.livestream.com/ITstriimIT). Sen lisäksi on Infocrean puolesta käytettävissä kanava [Infocrea-fi](https://new.livestream.com/Infocrea-fi). 
 
 Videotallenne
 -------------
