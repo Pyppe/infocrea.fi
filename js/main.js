@@ -29,14 +29,13 @@ if (!window.console) {
   // Localization
   (function() {
     var settings = {
-      '/': { otherLanguage: '/home/', nav: 'home' },
-      'home': { otherLanguage: '/', nav: 'home' },
-      'elamantarina': { otherLanguage: '/life-story/', nav: 'lifeStory' },
-      'life-story': { otherLanguage: '/elamantarina/', nav: 'lifeStory' },
+      '/': { nav: 'home' },
+      'english': { nav: 'english' },
+      'haku': { nav: 'search' },
       'yhteystiedot': { nav: 'contact' },
       'palvelut': { nav: 'services' },
-      'blog': { otherLanguage: window.location.pathname.replace('/blog/', '/blogi/'), nav: 'blog' },
-      'blogi': { otherLanguage: window.location.pathname.replace('/blogi/', '/blog/'), nav: 'blog' }
+      'blog': { nav: 'blog' },
+      'blogi': { nav: 'blog' }
     };
     var path = window.location.pathname.split('/')[1] || '/';
     if (path === 'blog') $('html').addClass('en');
