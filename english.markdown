@@ -13,4 +13,4 @@ After graduating as MSc.EE from Technical University of Helsinki in late 1970´s
 
 Jarmo has been active also in virtual communities since bulletin board systems in 1980´s so social media culture is almost in his dna:-)
 
-You can find Jarmo's contact information [here](yhteystiedot)
+You can find Jarmo's contact information [here](./yhteystiedot)
