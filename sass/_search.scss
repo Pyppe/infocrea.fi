@@ -9,13 +9,16 @@
 #searchResults {
   a.result {
     display: block;
-    padding: 5px;
+    padding: 10px;
     @include transition(background-color 0.5s ease-out);
-    background-color: rgba($red, 0);
+    background-color: rgba(#aaa, 0);
     &:hover {
-      background-color: rgba($red, 0.15);
+      background-color: rgba(#aaa, 0.3);
     }
     .title {}
+    .time {
+      white-space: nowrap;
+    }
     em {
       font-weight: 700;
       font-style: normal;

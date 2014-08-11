@@ -160,4 +160,39 @@ if (!window.console) {
 
 })(infocrea.main = {});
 
+(function(exports) {
+  function parseQueryParams() {
+    var qs = window.location.search;
+    var params = {};
+    if (qs) {
+      for (var ps = qs.substring(1).split("&"); ps[0]; ps.shift()) {
+        var p = ps[0].replace(/\+/g, " ").split("=");
+        params[decodeURIComponent(p[0])] = p.length > 1 ? decodeURIComponent(p[1]) : true;
+      }
+    }
+    return params;
+  }
+
+  function parseMultiQueryParams() {
+    var qs = window.location.search;
+    var params = {};
+    if (qs) {
+      for (var ps = qs.substring(1).split("&"); ps[0]; ps.shift()) {
+        var p = ps[0].replace(/\+/g, " ").split("=");
+        var key = decodeURIComponent(p[0]);
+        var value = p.length > 1 ? decodeURIComponent(p[1]) : true;
+        if (params[key] === undefined) {
+          params[key] = [];
+        }
+        params[key].push(value);
+      }
+    }
+    return params;
+  }
+
+  exports.parseQueryParams = parseQueryParams;
+  exports.parseMultiQueryParams = parseMultiQueryParams;
+
+})(infocrea.util = {})
+
 $(document).foundation();

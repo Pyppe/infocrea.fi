@@ -6,17 +6,16 @@ title: "Haku"
 js: search.js
 ---
 
-<form id="search" method="post" action="/api/search">
-  <div class="row">
-    <div class="small-12 medium-8 columns">
-      <i class="fa fa-spin fa-spinner fa-lg" style="display: none;"></i>
-      <input type="text" name="q" placeholder="Etsi kirjoitusta..." />
-    </div>
-  </div>
-</form>
 
-<div id="searchResults">
-  <h2>Hakutulokset</h2>
+<div class="row" id="search">
+  <div class="small-12 medium-8 columns">
+    <i class="fa fa-spin fa-spinner fa-lg" style="display: none;"></i>
+    <input type="text" name="q" placeholder="Etsi kirjoitusta..." autocomplete="off" />
+  </div>
+</div>
+
+<div id="searchResults" style="display: none;">
+  <h2 count></h2>
   <div class="row">
     <div class="columns medium-6"></div>
     <div class="columns medium-6"></div>
