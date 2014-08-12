@@ -1,39 +1,39 @@
   <form id="feedback" method="post" action="/api/feedback">
     <fieldset>
-      <legend>Palaute tai yhteydenotto</legend>
+      <legend>Palaute tai yhteydenotto | Feedback or message</legend>
       <div class="row">
         <div class="medium-6 columns">
-          <label>Nimi <input type="text" name="name" placeholder="Anna nimesi"></label>
+          <label>Nimi <input type="text" name="name" placeholder="Anna nimesi | Your name"></label>
         </div>
         <div class="medium-6 columns">
-          <label>E-mail <input type="text" name="email" placeholder="Anna sähköpostiosoitteesi"></label>
-          <small class="error" style="display: none;">Virheellinen sähköpostiosoite</small>
+          <label>E-mail <input type="text" name="email" placeholder="Anna sähköpostiosoitteesi | Your e-mail"></label>
+          <small class="error" style="display: none;">Virheellinen sähköpostiosoite | Error in e-mail</small>
         </div>
       </div>
       <div class="row">
         <div class="medium-6 columns">
-          <label>Otsikko <input type="text" name="subject" placeholder="Anna otsikko"></label>
+          <label>Otsikko <input type="text" name="subject" placeholder="Anna otsikko | Subject"></label>
         </div>
         <div class="medium-6 columns">
           <label>
             Aihe
             <select name="category">
-              <option value="Yleinen">Yleinen</option>
+              <option value="Yleinen">Yleinen | General</option>
               <option value="Mätäkuun tarjous">Mätäkuun tarjous</option>
-              <option value="Yhteydenottopyyntö">Yhteydenottopyyntö</option>
+              <option value="Yhteydenottopyyntö">Yhteydenottopyyntö | Please contact</option>
             </select>
           </label>
         </div>
       </div>
       <label>
         Viesti <span class="required">*</span>
-        <textarea placeholder="Kirjoita viesti" rows="6" name="message"></textarea>
+        <textarea placeholder="Kirjoita viesti | Message" rows="6" name="message"></textarea>
       </label>
       <button disabled="disabled" type="submit">
         <i class="fa fa-envelope"></i>&nbsp;&nbsp;Lähetä
       </button>
       <div class="alert-box success radius" data-alert="" style="display: none;">
-        Kiitos viestistäsi!
+        Kiitos viestistäsi | Thank you!
       </div>
     </fieldset>
   </form>
