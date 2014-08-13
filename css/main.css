@@ -81,6 +81,7 @@ html.en .lang-en { display: inherit !important; }
 @media only screen and (max-width: 40em) { #post .rightSideContent { width: 100%; } }
 
 #search .fa-spin { position: absolute; top: 10px; right: 20px; }
+#search .toggle-help { color: #3fbf5a; cursor: pointer; margin-left: -15px; margin-top: 3px; }
 
 #searchResults a.result { display: block; padding: 10px; -webkit-transition: background-color 0.5s ease-out; -moz-transition: background-color 0.5s ease-out; -o-transition: background-color 0.5s ease-out; transition: background-color 0.5s ease-out; background-color: rgba(170, 170, 170, 0); }
 #searchResults a.result:hover { background-color: rgba(170, 170, 170, 0.3); }

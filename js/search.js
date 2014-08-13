@@ -1,7 +1,23 @@
 (function(exports, undefined) {
 
+  var $form = $('#search');
+  var $help = $form.find('.alert-box');
+
+  $help.find('.close').click(function(e) {
+    e.preventDefault();
+    $help.hide();
+    return false;
+  });
+
+  $form.find('.toggle-help').click(function() {
+    if ($help.is(':visible')) {
+      $help.hide();
+    } else {
+      $help.show();
+    }
+  });
+
   $(function() {
-    var $form = $('#search');
     var $input = $form.find('[name=q]');
     var $spinner = $form.find('.fa-spin');
     var timeoutId;
@@ -24,7 +40,7 @@
             }
             $('#searchResults').show();
             $('#searchResults .result').remove();
-            $('#searchResults [count]').html('Hakutermille <b>'+query+'</b> löytyi kirjoituksia: <b>' + response.total + ' kpl</b>');
+            $('#searchResults [count]').html('Hakutermillä <b>'+query+'</b> löytyi kirjoituksia: <b>' + response.total + ' kpl</b>');
             var $firstColumn = $('#searchResults div.columns:first');
             var $secondColumn = $('#searchResults div.columns:last');
             $.each(response.hits, function(idx, hit) {
