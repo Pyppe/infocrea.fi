@@ -2,28 +2,41 @@
 
   var $form = $('#search');
   var $help = $form.find('.alert-box');
+  var $input = $form.find('[name=q]');
 
   $help.find('.close').click(function(e) {
     e.preventDefault();
-    $help.hide();
+    hideHelp();
     return false;
   });
 
   $form.find('.toggle-help').click(function() {
     if ($help.is(':visible')) {
-      $help.hide();
+      hideHelp();
     } else {
+      //$help.velocity('transition.flipBounceYIn');
       $help.show();
     }
   });
 
+  $help.find('a:not(.close)').click(function(e) {
+    e.preventDefault();
+    var q = $(this).text();
+    $input.val(q).trigger('instant');
+  });
+
+  function hideHelp() {
+    //$help.velocity('transition.slideUpOut');
+    $help.hide();
+  }
+
   $(function() {
-    var $input = $form.find('[name=q]');
     var $spinner = $form.find('.fa-spin');
     var timeoutId;
     var ajaxReq;
 
-    $input.on('keyup input', function() {
+    $input.on('keyup input instant', function(e) {
+      var delay = (e && e.type === 'instant') ? 1 : 400;
       if (timeoutId) {
         clearTimeout(timeoutId);
       }
@@ -62,7 +75,7 @@
             });
             $spinner.hide();
           });
-        }, 400);
+        }, delay);
       } else {
         $spinner.hide();
       }
@@ -71,7 +84,7 @@
     (function() {
       var q = infocrea.util.parseQueryParams().q;
       if (q) {
-        $input.val(q).trigger('input');
+        $input.val(q).trigger('instant');
       }
     })();
 
