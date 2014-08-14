@@ -52,7 +52,7 @@ KUVIEN LISÄYS
 
 # Lisää thumbnail-joukko, joita voi klikata suuremmaksi
 # HUOM: nämä kuvat tulee aina olla content hakemistossa
-<ul class="imageCollage small-block-grid-3"> <!-- Lue grid-määrityksistä täältä:  -->
+<ul class="imageCollage small-block-grid-3"> <!-- Lue grid-määrityksistä täältä: http://foundation.zurb.com/docs/components/block_grid.html -->
   {% include gridImage.html name="kuva1.jpg" title="Ensimmäinen" %}
   {% include gridImage.html name="kuva2.jpg" title="Toinen" %}
 </ul>
