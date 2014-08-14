@@ -25,7 +25,7 @@ Proin nec tincidunt metus. Proin imperdiet in lectus vestibulum ultricies. Nunc 
 ### Kasa thumbnaileja:
 
 <ul class="imageCollage small-block-grid-3">
-  {% include gridImage.html src="tv.jpg" title="Ensimmäinen" %}
-  {% include gridImage.html src="tv.jpg" title="Toinen" %}
-  {% include gridImage.html src="tv.jpg" title="Kolmas" %}
+  {% include gridImage.html name="tv.jpg" title="Ensimmäinen" %}
+  {% include gridImage.html name="tv.jpg" title="Toinen" %}
+  {% include gridImage.html name="tv.jpg" title="Kolmas" %}
 </ul>

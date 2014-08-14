@@ -39,3 +39,21 @@ GITHUB SYNCIN JÄLKEEN: DEPLOYMENT
 SUBLIME TEXT -ASIOITA
 =====================
 `Cmd+p`: etsi tiedostoa nimeltä
+
+KUVIEN LISÄYS
+=============
+```
+# Lisää kuva absoluuttisella polulla
+{% include postImage.html path="/files/my-picture.jpg" title="Valinnainen otsikko" css="rightSideContent" %}
+
+# Lisää kuva content-hakemistosta blogikirjoitusta vastaavasta polusta
+# HUOM: content-hakemiston kuvista luodaan automaattisesti thumbnail, välikoko ja täysikoko
+{% include postImage.html name="my-picture.jpg" title="Valinnainen otsikko" css="rightSideContent" %}
+
+# Lisää thumbnail-joukko, joita voi klikata suuremmaksi
+# HUOM: nämä kuvat tulee aina olla content hakemistossa
+<ul class="imageCollage small-block-grid-3"> <!-- Lue grid-määrityksistä täältä:  -->
+  {% include gridImage.html name="kuva1.jpg" title="Ensimmäinen" %}
+  {% include gridImage.html name="kuva2.jpg" title="Toinen" %}
+</ul>
+```
