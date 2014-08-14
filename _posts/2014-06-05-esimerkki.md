@@ -16,7 +16,7 @@ excerpt: <p>Esimerkkejä upotuksista</p>
 
 ## Esimerkkejä kuvista:
 
-{% include postImage.html src="tv.jpg" title="Katso. Se on TV! (Upotettuna oikealle)" css="rightSideContent" %}
+{% include postImage.html name="tv.jpg" title="Katso. Se on TV! (Upotettuna oikealle)" css="rightSideContent" %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar, enim ut faucibus commodo, ante lorem eleifend sem, sit amet facilisis nibh lacus sit amet sapien. Duis enim erat, sodales a imperdiet id, suscipit et ante. In ligula dolor, ullamcorper quis vestibulum a, lacinia vitae enim. Curabitur ullamcorper eros nec lacus fringilla, vel placerat lectus porta. Aliquam mauris mi, aliquam vel congue sit amet, accumsan non erat. Aliquam rhoncus nunc ac odio mattis scelerisque. Nam lectus mi, volutpat eu libero sit amet, congue semper sapien.
 

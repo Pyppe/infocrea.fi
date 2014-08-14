@@ -5,4 +5,4 @@ _site
 /environment.sh
 /node_modules/
 /.tweet-cache/
-
+.DS_Store
