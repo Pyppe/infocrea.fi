@@ -18,25 +18,26 @@
 
 #post {
   margin-top: 20px;
-  .rightSideContent {
-    @media #{$medium-up} {
-      float: right;
-      margin-left: 10px;
+}
+
+.rightSideContent {
+  @media #{$medium-up} {
+    float: right;
+    margin-left: 10px;
+  }
+  @media #{$medium-only} {
+    width: 300px;
+    &.wide {
+      width: 400px;
     }
-    @media #{$medium-only} {
-      width: 300px;
-      &.wide {
-        width: 400px;
-      }
+  }
+  @media #{$large-up} {
+    width: 350px;
+    &.wide {
+      width: 450px;
     }
-    @media #{$large-up} {
-      width: 350px;
-      &.wide {
-        width: 450px;
-      }
-    }
-    @media #{$small-only} {
-      width: 100%;
-    }
+  }
+  @media #{$small-only} {
+    width: 100%;
   }
 }
