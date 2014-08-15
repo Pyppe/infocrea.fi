@@ -3,22 +3,18 @@ layout: post
 title: "Kesällä on aikaa leikkiä ja kokeilla"
 date: 2011-07-21T17:12:42+03:00
 categories: general
-excerpt: |
-  <p>Alkukesästä aikaa kului uuden Samsung Galaxy SII -puhelimen ja erilaisten android-sovellusten kanssa leikkimiseen ja kokeiluun. Heinäkuussa puolestaan ajankuluna on ollut paljolti Google+.</p>
-  <p>Tämäkin on vain kokeilu: miten Sports Trackerin embed- eli upotuskoodi toimii ja näkyy tässä Drupal-asennuksessa.</p>
-  <p>Ja eihän se näy. Mutta eivät näy YouTube-upotuksetkaan oletuksena tulevalla embed-koodilla, vaan pitää valita joku "vanha koodi". Sports Trackerissa mitään sellaista valintaa ei ole edes tarjolla.</p>
-  <p>No, annan tämän blogientryn näkyä tässä vähän aikaa, jos vaikka jostain löytyisi ratkaisu "ongelmaan".</p>
 ---
 <p>Alkukesästä aikaa kului uuden Samsung Galaxy SII -puhelimen ja erilaisten android-sovellusten kanssa leikkimiseen ja kokeiluun. Heinäkuussa puolestaan ajankuluna on ollut paljolti Google+.</p>
 <p>Tämäkin on vain kokeilu: miten Sports Trackerin embed- eli upotuskoodi toimii ja näkyy tässä Drupal-asennuksessa.</p>
 <p>Ja eihän se näy. Mutta eivät näy YouTube-upotuksetkaan oletuksena tulevalla embed-koodilla, vaan pitää valita joku "vanha koodi". Sports Trackerissa mitään sellaista valintaa ei ole edes tarjolla.</p>
 <p>No, annan tämän blogientryn näkyä tässä vähän aikaa, jos vaikka jostain löytyisi ratkaisu "ongelmaan".</p>
-...<p>
-No, tuo ylläoleva on tuossa ollut päivän verran, ja nyt tuli koodariammattilaispojaltani vastaus uteluuni: "Se WYSIWYG-editori ei näköjään vaan osaa. Pistä input-tyypiksi PHP, niin sitten toimii."<p>
-Joten eikun kokeilemaan eli copypastena Sports Trackerin embed-koodi tähän alle:<p>
-<iframe style='background-color: transparent;' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' width='650' height='500' src='http://www.sports-tracker.com/widgets/wdgt_workout.html?username=jal53&workout_key=6hi215pm5p14tn7g'></iframe> 
-<p>
-Ja heti huomaamme, että aika vajaanahan tuo kuitenkin koodin siirtää, pelkän lenkkin kuvana. Lenkin Sports Tracker -sivulla on katsottavissa myös kuvat lenkin kuvauspaikkoihin sidottuna:<p>
-<p>
-<a href="http://www.sports-tracker.com/#/workout/jal53/6hi215pm5p14tn7g">http://www.sports-tracker.com/#/workout/jal53/6hi215pm5p14tn7g</a><p>
-(Voisi muuten tuon embed-kuvan oikean alanurkan ST-ikonin klikkaaminen viedä ko. harjoitukseen eikä dashboardille; kun YouTube on moiseen jo suuret joukot opettanut.)
+<!--more-->
+<p>...</p>
+<p>No, tuo ylläoleva on tuossa ollut päivän verran, ja nyt tuli koodariammattilaispojaltani vastaus uteluuni: "Se WYSIWYG-editori ei näköjään vaan osaa. Pistä input-tyypiksi PHP, niin sitten toimii."</p>
+<p>Joten eikun kokeilemaan eli copypastena Sports Trackerin embed-koodi tähän alle:</p>
+<div class="flex-video">
+  <iframe style='background-color: transparent;' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' width='100%' height='500' src='http://www.sports-tracker.com/widgets/wdgt_workout.html?username=jal53&workout_key=6hi215pm5p14tn7g'></iframe>
+</div>
+<p>Ja heti huomaamme, että aika vajaanahan tuo kuitenkin koodin siirtää, pelkän lenkkin kuvana. Lenkin Sports Tracker -sivulla on katsottavissa myös kuvat lenkin kuvauspaikkoihin sidottuna:</p>
+<p><a href="http://www.sports-tracker.com/#/workout/jal53/6hi215pm5p14tn7g">http://www.sports-tracker.com/#/workout/jal53/6hi215pm5p14tn7g</a></p>
+<p>(Voisi muuten tuon embed-kuvan oikean alanurkan ST-ikonin klikkaaminen viedä ko. harjoitukseen eikä dashboardille; kun YouTube on moiseen jo suuret joukot opettanut.)</p>
