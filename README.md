@@ -56,8 +56,14 @@ Tällöin voit "esiakatsella" sivustoa ja tehdä muutoksia yms.
   {% include gridImage.html name="kuva2.jpg" title="Toinen" %}
 </ul>
 
-<!-- Lisää youtube-video -->
+<!-- Lisää Youtube-video -->
 {% youtube $VIDEO_ID %}
+
+<!-- Lisää Vimeo-video -->
+{% vimeo $VIDEO_ID %}
+
+<!-- Lisää SoundCloud-äänite -->
+{% sound_cloud $ID %}
 
 <!-- Lisää flickr set -->
 {% flickr_set $SET_ID [$USER_ID] %}

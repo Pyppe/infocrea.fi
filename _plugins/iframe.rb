@@ -7,7 +7,7 @@ module Jekyll
     end
 
     def render(context)
-      "<iframe src=\"#{@url}\" width=\"640\" height=\"480\" frameborder=\"o\" allowfullscreen=\"\"></iframe>"
+      "<iframe src=\"#{@url}\" width=\"640\" height=\"480\" frameborder=\"0\" allowfullscreen=\"\"></iframe>"
     end
   end
 end
