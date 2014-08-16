@@ -1,13 +1,19 @@
 module Jekyll
   class IframeTag < Liquid::Tag
 
-    def initialize(tag_name, text, tokens)
+    Regex = /\s*([^\s]+)\s*/
+
+    def initialize(tag_name, input, tokens)
       super
-      @url = text
+      if input =~ Regex then
+        @url = $1
+      else
+        raise "ERROR"
+      end
     end
 
     def render(context)
-      "<iframe src=\"#{@url}\" width=\"640\" height=\"480\" frameborder=\"0\" allowfullscreen=\"\"></iframe>"
+      "<iframe src=\"#{@url}\" width=\"480\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\"></iframe>"
     end
   end
 end

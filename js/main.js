@@ -26,6 +26,15 @@ if (!window.console) {
     $posts.attr('data-width', $posts.width());
   })();
 
+  // quoted
+  (function() {
+    var $quotes = $('blockquote.quoted');
+    if ($quotes.length > 0) {
+      $('<i class="fa fa-quote-left"></i>').prependTo($quotes);
+      $('<i class="fa fa-quote-right"></i>').appendTo($quotes);
+    }
+  })();
+
   // Localization
   (function() {
     var settings = {

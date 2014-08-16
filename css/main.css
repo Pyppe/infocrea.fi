@@ -57,7 +57,8 @@ html.en .lang-en { display: inherit !important; }
 */
 .timeTitle { white-space: nowrap; }
 
-@media only screen and (min-width: 64.063em) { .flex-video.narrow { margin-left: 80px; margin-right: 80px; } }
+@media only screen and (min-width: 64.063em) { .flex-video.narrow { margin-left: 80px; margin-right: 80px; }
+  iframe.livestream { padding-left: 80px; padding-right: 80px; } }
 .postSeparator { height: 10px; background: url('/img/grey_dots.png?1402328593') repeat scroll center center #f1f1f1; margin: 10px 0; }
 .postSeparator:last-child { height: 0; }
 

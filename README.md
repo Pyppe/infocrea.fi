@@ -68,6 +68,9 @@ Tällöin voit "esiakatsella" sivustoa ja tehdä muutoksia yms.
 <!-- Lisää flickr set -->
 {% flickr_set $SET_ID [$USER_ID] %}
 
+<!-- Lisää livestream -->
+{% livestream http://new.livestream.com/accounts/190565/events/1042748/videos/2636865/player %}
+
 <!-- Lisää vapaavalintainen flex + iframe (esim. QuickPrese) -->
 <div class="flex-video narrow">
   {% iframe http://www.quickprese.com/embed/x9Vkrp/nx300-sgs3-pikakoe-3-8-2014 %}
