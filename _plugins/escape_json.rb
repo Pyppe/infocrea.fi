@@ -1,6 +1,5 @@
 require 'json'
 
-
 module Jekyll
   module JsonFilter
     def escape_json(input)
