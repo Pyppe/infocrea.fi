@@ -9,6 +9,6 @@ email: "jarmo.lahti@infocrea.fi"
 markdown: kramdown
 permalink: /blogi/:year/:month/:title/
 paginate: 10
-paginate_path: '/blogi/page/:num/'
+paginate_path: '/blogi/:num/'
 highlighter: pygments
 excerpt_separator: <!--more-->
