@@ -1,13 +1,19 @@
 module Jekyll
   class FacebookPostTag < Liquid::Tag
 
-    def initialize(tag_name, text, tokens)
+    Regex = /\s*([^\s]+)\s*/
+
+    def initialize(tag_name, input, tokens)
       super
-      @url = text
+      if input =~ Regex then
+        @url = $1
+      else
+        raise "ERROR"
+      end
     end
 
     def render(context)
-      "<div class=\"fb-post\" data-href=\"#{@url}\" data-width=\"500\"></div>"
+      "<div style=\"margin-bottom: 20px;\" class=\"fb-post\" data-href=\"#{@url}\" data-width=\"500\"></div>"
     end
   end
 end
