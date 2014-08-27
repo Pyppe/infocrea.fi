@@ -11,13 +11,7 @@ title: Curriculum vitae
 <p>Jarmo Aarne Lahti, s. 31.1.1953</p>
 
 <h3>Yhteystiedot</h3>
-<ul class="vcard">
-  <li class="fn">Jarmo Lahti</li>
-  <li class="street-address">Neitojenranta 1 A 20</li>
-  <li class="locality"><span class="zip">00810</span> Helsinki</li>
-  <li class="email"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-  <li class="phone">+358 50 500 2796</li>
-</ul>
+{% include vcard.html email=site.email fn="Jarmo Lahti" %}
 
 <h2>Nykytila ja tavoite</h2>
 

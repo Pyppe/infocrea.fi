@@ -6,23 +6,29 @@ title: "Yhteystiedot"
 js: feedback.js
 ---
 
-<h3><a href="mailto:info@infocrea.fi">info@infocrea.fi</a></h3>
+<div class="row">
+  <div class="columns medium-5 large-6">
+    <h3>Yhteystiedot</h3>
+    {% include vcard.html fn="Infocrea Oy" email="info@infocrea.fi" %}
+  </div>
+  <div class="columns medium-7 large-6">
+    <h3>Yritystiedot</h3>
+    <!--
+    <dl>
+      <dt>Y-tunnus</dt>
+      <dd>0913338-7</dd>
+    </dl>
+    <p>Katso tarkemmat tiedot <a href="http://verkkolasku.tieke.fi/CompanyDetails.aspx?companyID=83997">Tieken palvelusta</a>.</p>
+    -->
+    <ul class="vcard">
+      <li><b>Y-tunnus</b></li>
+      <li class="uid">0913338-7</li>
+      <li>Katso tarkemmat tiedot <a href="http://verkkolasku.tieke.fi/CompanyDetails.aspx?companyID=83997">Tieken palvelusta</a>.</li>
+    </ul>
 
-<h3>+358 50 5002796</h3>
+  </div>
+</div>
 
-<h3><a href="https://twitter.com/jarmolahti">Twitter</a></h3>
 
-<h3><a href="https://www.facebook.com/jarmo.lahti">Facebook</a></h3>
-
-<h3><a href="https://www.linkedin.com/in/jarmolahti">LinkedIn</a></h3>
-
-<h3>Lähetä viesti tästä / Send message:</h3>
+<h3>Lähetä viesti / Send message</h3>
 {% include palauteForm.html %}
-
-<h3>Infocrea Oy</h3>
-Neitojenranta 1 A 20<br>
-00810 Helsinki<br>
-Finland<br>
-<i>(Kotitoimisto; vain postia | Home office; only for deliveries)</i>
-<h3>Verkkolaskutusosoite:</h3>
-<a href="http://verkkolasku.tieke.fi/CompanyDetails.aspx?companyID=83997">Katso Tieken palvelusta</a>
