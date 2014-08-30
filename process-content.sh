@@ -1,13 +1,13 @@
 #!/bin/bash
 
 readonly PROGNAME=$(basename $0)
-readonly PROGDIR=$(readlink -m $(dirname $0))
+readonly PROGDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 readonly ARGS="$@"
 readonly TARGET="data"
 
 cd $PROGDIR
 rm -rf $TARGET
-cp -ra content $TARGET
+cp -Ra content $TARGET
 for file in $(find $TARGET -type f -name "*.jpg" -o -name "*.png" -o -name "*.gif"); do
   filename=$(basename $file)
   extension="${filename##*.}"
