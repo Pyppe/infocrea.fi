@@ -20,6 +20,35 @@
   margin-top: 20px;
 }
 
+#share {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 10px;
+  background-color: rgba(black, 0.5);
+  margin: 0;
+  li {
+    cursor: pointer;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  @mixin shareColor($color) {
+    color: $color;
+    &:hover {
+      color: lighten($color, 10%);
+    }
+  }
+  .facebook i {
+    @include shareColor(#4a66a0);
+  }
+  .google-plus i {
+    @include shareColor(#be3628);
+  }
+  .twitter i {
+    @include shareColor(#00acee);
+  }
+}
+
 .rightSideContent {
   @media #{$medium-up} {
     float: right;

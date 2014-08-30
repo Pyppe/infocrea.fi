@@ -4,4 +4,11 @@
     {% if include.subTitle %}<h2>{{ include.subTitle }}</h2>{% endif %}
     {% if include.date %}<h2 class="timeTitle">{{ include.date | date_to_xmlschema }}</h2>{% endif %}
   </div>
+  {% if include.share %}
+  <ul id="share" class="inline-list">
+    {% include shareLink.html link="facebook" %}
+    {% include shareLink.html link="google-plus" %}
+    {% include shareLink.html link="twitter" %}
+  </ul>
+  {% endif %}
 </div>

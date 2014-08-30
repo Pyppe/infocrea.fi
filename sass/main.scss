@@ -59,12 +59,16 @@ a {
   background-position: center;
   background-clip: border-box;
   overflow: hidden;
+  position: relative;
 
   height: 220px;
 
   .description {
     margin-top: 20px;
     float: right;
+  }
+  .timeTitle {
+    display: inline-block;
   }
   h1, h2, .description {
     color: white;

@@ -77,6 +77,36 @@ if (!window.console) {
     formatTime($('.post .timeTitle'));
   })();
 
+  // Sharing
+  (function() {
+    var $share = $('#share');
+    if ($share.length === 0) return;
+    var t = encodeURIComponent(document.title);
+    var u = encodeURIComponent(location.protocol + '//' + location.host + location.pathname);
+    $share.find('[data-media]').each(function() {
+      var $el = $(this);
+      var media = $el.attr('data-media');
+      var tooltip;
+      var link;
+      if (media === 'facebook') {
+        link = 'https://www.facebook.com/sharer/sharer.php?t='+t+'&u='+u;
+        tooltip = 'Jaa Facebookissa';
+      } else if (media === 'twitter') {
+        link = 'http://twitter.com/share?text='+t+'&url='+u;
+        tooltip = 'Jaa Twitterissä';
+      } else if (media === 'google-plus') {
+        link = 'https://plus.google.com/share?url='+u+'&title='+t;
+        tooltip = 'Jaa Google-plussassa';
+      }
+      if (link && tooltip) {
+        $el.attr('title', tooltip).attr('data-tooltip', '');
+        $el.click(function () {
+          window.open(link, '_blank');
+        });
+      }
+    });
+  })();
+
   // Link to posts
   (function() {
     function localizeBlogLink() {

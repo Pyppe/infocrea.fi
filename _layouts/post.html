@@ -11,13 +11,12 @@ layout: default
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-{% include coverTitle.html img="/img/blog_bg.jpg" title=page.title date=page.date %}
+{% include coverTitle.html img="/img/blog_bg.jpg" title=page.title date=page.date share=true %}
 
 <div class="columns largeSpacing">
   <div id="post">
     {{ content }}
   </div>
-
   <div id="comments" style="clear:both;">
     {% include disqus.html %}
   </div>
