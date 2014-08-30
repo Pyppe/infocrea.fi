@@ -41,12 +41,13 @@ Tällöin voit "esiakatsella" sivustoa ja tehdä muutoksia yms.
 `Cmd+p`: etsi tiedostoa nimeltä
 
 ## Kuvat / media / yms.
+* Kun lisäät/muokkaat kuvaa content-hakemistossa, aja `./process-content.sh`.
 ```html
 <!-- Lisää kuva absoluuttisella polulla -->
 {% include postImage.html path="/files/my-picture.jpg" title="Valinnainen otsikko" css="rightSideContent" %}
 
 <!-- Lisää kuva content-hakemistosta blogikirjoitusta vastaavasta polusta
-     HUOM: content-hakemiston kuvista luodaan automaattisesti thumbnail, välikoko ja täysikoko -->
+     HUOM: content-hakemiston kuvista luodaan automaattisesti (= process-content.sh) thumbnail, välikoko ja täysikoko -->
 {% include postImage.html name="my-picture.jpg" title="Valinnainen otsikko" css="rightSideContent" %}
 
 <!-- Lisää thumbnail-joukko, joita voi klikata suuremmaksi
