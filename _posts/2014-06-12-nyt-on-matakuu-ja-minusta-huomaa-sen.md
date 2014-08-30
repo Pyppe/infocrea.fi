@@ -21,3 +21,5 @@ Jostain nimittäin keksin, että tehdäänpä **"mätäkuun tarjous"**. Ja se on
 No sen verran, että Timo on käynyt joitain "myyntitekstejäni" läpi ja mm. ehdottanut virkkeiden lyhentämistä ja yksinkertaistamista. Viimeisimmässä virtuaalipalaverissa hän muuten ehdotteli tällaistakin: "Tai, jos katteesi kestää, voisit ehkä tarjota ilmaisen 20 minuutin arviokäynnin". Ja perhana, katehan kestää **vaikka puolenkin tunnin juttutuokion**. Ainakin sähköpostissa, varsinkin jos se on aloitettu tuolla yllä linkatulla lomakkeella.)
 
 Niin ja joo, koko saitti on muuttumassa suhteellisen pian, ainakin ennen mätäkuun loppua. Sisältö ja muoto erotetaan toisistaan, muututaan responsiiviseksi yms.jne. - eli mitenkähän siinä vaiheessa toimii tuo "tämä lomake"...
+
+*Edit 30.8.2014: Mätäkuu on päättynyt ja sen myötä myös mätäkuun tarjous.*
