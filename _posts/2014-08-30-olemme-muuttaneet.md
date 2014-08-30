@@ -12,5 +12,7 @@ Www.infocrea.fi on muuttanut [Drupalista](https://www.drupal.org/) [Jekylliin](h
 
 Etusivun tekstejä lukuunottamatta sisältö ei vielä ole juurikaan muuttunut.
 
-Pelkästään ulkoasumuutokseen ei kuitenkaan tarkoitus ole jäädä. Sen lisäksi, että uusi web on ns. responsiivinen eli mukautuu automaattisesti myös pieninäyttöisillä mobiililaitteilla katsottavaksi, blogi tarjoaa jatkossa... miten se nyt sanoisi... no ehkä: asiallisempaa sisältöä.
+Pelkästään ulkoasumuutokseen ei kuitenkaan tarkoitus ole jäädä. Sen lisäksi, että uusi web on ns. responsiivinen eli mukautuu automaattisesti myös pieninäyttöisillä mobiililaitteilla katsottavaksi, blogi tarjoaa jatkossa entistä asiallisempaa sisältöä.
+
+(Tai ainakin erilaisiin kokeilu- ja testiblogauksiin sijoitetaan entistä enemmän ns. asiallista asiaa.) 
 
