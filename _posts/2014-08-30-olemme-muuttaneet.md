@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Olemme muuttaneet"
-date: 2014-08-309T18:40:00+0300
+date: 2014-08-30T18:40:00+0300
 ---
 
 Tarkemmin ottaen vain www-sivut ovat muuttaneet. 
