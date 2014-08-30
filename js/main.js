@@ -67,7 +67,10 @@ if (!window.console) {
       $elements.each(function() {
         var $el = $(this);
         var time = $el.text();
-        $el.text(moment(time, 'YYYY-MM-DD[T]HH:mm:ssZ').format('LL'));
+        var postMoment = moment(time, 'YYYY-MM-DD[T]HH:mm:ssZ');
+        $el.text(postMoment.format('LL'));
+        $el.attr('title', postMoment.format('LL[, klo ]HH:mm')).
+            attr('data-tooltip', '');
       });
     }
     formatTime($('#title .timeTitle'));
