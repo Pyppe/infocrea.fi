@@ -1,30 +1,24 @@
 <h2>Kommentit</h2>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
-  (function() {
-    var prodHost = 'www.infocrea.fi';
-    if (location.host !== prodHost) {
-      $('#disqus_thread').html('<div data-alert class="alert-box info radius">Näytetään vain live-sivustolla.<a href="#" class="close">&times;</a></div>');
-    } else {
-      showDisqus();
-    }
+  var prodHost = 'www.infocrea.fi';
+  if (location.host !== prodHost) {
+    $('#disqus_thread').html('<div data-alert class="alert-box info radius">Näytetään vain live-sivustolla.<a href="#" class="close">&times;</a></div>');
+  } else {
+    var disqus_shortname = 'infocreafi';
+    var disqus_identifier = '{{ page.id | replace: '/blog/', '/blogi/' }}';
+    var disqus_title = '{{ page.title }}';
+    var disqus_url = 'http://' + prodHost + location.pathname;
+    var disqus_config = function () {
+      this.language = 'fi';
+    };
 
-    function showDisqus() {
-      var disqus_shortname = 'infocreafi';
-      var disqus_identifier = '{{ page.id | replace: '/blog/', '/blogi/' }}';
-      var disqus_title = '{{ page.title }}';
-      var disqus_url = 'http://' + prodHost + location.pathname;
-      var disqus_config = function () {
-        this.language = 'fi';
-      };
-
-      /* * * DON'T EDIT BELOW THIS LINE * * */
-      (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
-    }
-  })();
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  }
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
