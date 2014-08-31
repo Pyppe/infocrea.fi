@@ -14,12 +14,21 @@
   <link rel="stylesheet" href="/css/lib/foundation.min.css" />
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" />
   <link rel="stylesheet" href="/css/lib/fancybox/jquery.fancybox.css" />
-  <!--
-  <link rel="stylesheet" href="/css/syntax.css" />
-  -->
   <link rel="stylesheet" href="/css/main.css" />
   {% if page.css %}<link rel="stylesheet" href="/css/{{ page.css }}" />{% endif %}
-  <script type="text/javascript">window.infocrea = {};</script>
+  <script type="text/javascript">
+    (function() {
+      var isProd = window.location.hostname === 'www.infocrea.fi';
+      window.infocrea = {
+        isProd: isProd,
+        showComments: isProd,
+        disqus: {
+          shortname: isProd ? 'infocreafi' : 'infocreafi-dev',
+          url: 'http://' + location.host + location.pathname
+        }
+      };
+    })();
+  </script>
   <script type="text/javascript" src="/js/lib/modernizr.js"></script>
   <script type="text/javascript" src="/js/lib/jquery.min.js"></script>
   {% include googleAnalytics.html %}

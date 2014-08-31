@@ -21,7 +21,8 @@ title: Blogi
         <small class="timeTitle">{{ post.date | date_to_xmlschema }}</small>
       </h2>
     </a>
-    <p>{{ post.excerpt }}</p>
+    <a style="display: none;" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
+    {{ post.excerpt }}
     <a href="{{ post.url }}" class="button small readMoreButton">
       Näytä koko kirjoitus
       <i class="fa fa-arrow-circle-right"></i>
@@ -33,3 +34,17 @@ title: Blogi
 
   {% include pagination.html %}
 </div>
+
+<script type="text/javascript">
+  var disqus_shortname = infocrea.disqus.shortname;
+
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  if (infocrea.showComments) {
+    (function () {
+      var s = document.createElement('script'); s.async = true;
+      s.type = 'text/javascript';
+      s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+      (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+  }
+</script>
