@@ -23,7 +23,7 @@
 .commentCount {
   display: none;
   position: relative;
-  line-height: 50px;
+  line-height: 30px;
   font-size: 30px;
   &.shown {
     display: inline-block;
@@ -37,7 +37,7 @@
   small {
     position: absolute;
     left: 10px;
-    bottom: 15px;
+    bottom: 8px;
     font-size: 16px;
     color: white;
   }
