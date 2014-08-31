@@ -3,7 +3,7 @@
 <script type="text/javascript">
   var prodHost = 'www.infocrea.fi';
   if (location.host !== prodHost) {
-    $('#disqus_thread').html('<div data-alert class="alert-box info radius">Näytetään vain live-sivustolla.<a href="#" class="close">&times;</a></div>');
+    $('#disqus_thread').html('<div data-alert class="alert-box info">Näytetään vain live-sivustolla.<a href="#" class="close">&times;</a></div>');
   } else {
     var disqus_shortname = 'infocreafi';
     var disqus_identifier = '{{ page.id | replace: '/blog/', '/blogi/' }}';

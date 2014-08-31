@@ -99,7 +99,7 @@ if (!window.console) {
         tooltip = 'Jaa Google-plussassa';
       }
       if (link && tooltip) {
-        $el.attr('title', tooltip).attr('data-tooltip', '');
+        $el.attr('title', tooltip).attr('data-tooltip', '').attr('data-options', 'disable_for_touch:true');
         $el.click(function () {
           window.open(link, '_blank');
         });
