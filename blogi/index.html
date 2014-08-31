@@ -19,9 +19,9 @@ title: Blogi
       <h2>
         {{ post.title }}
         <small class="timeTitle">{{ post.date | date_to_xmlschema }}</small>
+        <a class="commentCount" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
       </h2>
     </a>
-    <a style="display: none;" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
     {{ post.excerpt }}
     <a href="{{ post.url }}" class="button small readMoreButton">
       Näytä koko kirjoitus

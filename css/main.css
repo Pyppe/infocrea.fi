@@ -76,6 +76,12 @@ html.en .lang-en { display: inherit !important; }
 
 #post { margin-top: 20px; }
 
+.commentCount { display: none; position: relative; line-height: 50px; font-size: 30px; }
+.commentCount.shown { display: inline-block; }
+.commentCount i { font-size: 30px; }
+.commentCount i, .commentCount small { line-height: 1; }
+.commentCount small { position: absolute; left: 10px; bottom: 15px; font-size: 16px; color: white; }
+
 #share { position: absolute; bottom: 0; right: 0; padding: 10px; background-color: rgba(0, 0, 0, 0.5); margin: 0; }
 #share li { cursor: pointer; margin-right: 10px; margin-left: 10px; }
 #share .facebook i { color: #4a66a0; }

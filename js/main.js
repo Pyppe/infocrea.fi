@@ -119,6 +119,33 @@ if (!window.console) {
       $('.post a[href]').each(localizeBlogLink);
       $('#post a[href]').each(localizeBlogLink);
     }
+  })();
+
+  // Comment counts
+  (function() {
+    var $commentCounts = $('.commentCount');
+    if ($commentCounts.length === 0) return;
+    var startTime = (new Date()).getTime();
+    var ready = false;
+    function isStop() {
+      return ready || ((new Date()).getTime() - startTime) > 5000;
+    }
+    var intervalId = setInterval(function() {
+      $commentCounts.each(function() {
+        var $el = $(this);
+        var count = $el.text().replace(/[^\d]/g, '');
+        if (count !== NaN && count > 0) {
+          ready = true;
+          $el.addClass('shown').text('');
+          $('<i class="fa fa-comment"></i>').appendTo($el);
+          $('<small>'+count+'</small>').appendTo($el);
+          $el.hide().fadeIn(800);
+        }
+      });
+      if (isStop()) {
+        clearInterval(intervalId);
+      }
+    }, 250);
 
   })();
 

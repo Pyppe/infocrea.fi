@@ -20,6 +20,29 @@
   margin-top: 20px;
 }
 
+.commentCount {
+  display: none;
+  position: relative;
+  line-height: 50px;
+  font-size: 30px;
+  &.shown {
+    display: inline-block;
+  }
+  i {
+    font-size: 30px;
+  }
+  i, small {
+    line-height: 1;
+  }
+  small {
+    position: absolute;
+    left: 10px;
+    bottom: 15px;
+    font-size: 16px;
+    color: white;
+  }
+}
+
 #share {
   position: absolute;
   bottom: 0;
