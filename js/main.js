@@ -232,6 +232,7 @@ if (!window.console) {
     if ($container.length === 0) return;
 
     $.get('/api/livestream', function(events) {
+      if (events.length === 0) return;
       var $ul = $container.find('ul');
       $.each(events, function(idx, event) {
         var $li = $([
