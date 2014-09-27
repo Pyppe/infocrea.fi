@@ -135,6 +135,11 @@ a:hover { color: #c52020; }
 
 #index.js .example { opacity: 0; }
 
+#futureLivestreams h5 { margin: 0; }
+#futureLivestreams h5, #futureLivestreams div { position: relative; }
+#futureLivestreams .panel { background-color: white; position: relative; overflow: hidden; min-height: 120px; }
+#futureLivestreams img { z-index: 0; position: absolute; top: 0; right: 0; height: 153px; width: 102px; }
+
 @media only screen and (min-width: 64.063em) { .columns.largeSpacing { padding-left: 1.3rem; padding-right: 1.3rem; } }
 
 button, a.button, ul.pagination li.current a { background-color: #dd2c2c; }

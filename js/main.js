@@ -206,6 +206,7 @@ if (!window.console) {
   $(function() {
     bindCoverTitleScrolling();
     createFancyboxImages();
+    futureLivestreamEvents();
 
     $('#index div.example').velocity("transition.expandIn", {stagger: 175});
     $('#topbar .toggle-topbar a').click(function() {
@@ -225,6 +226,32 @@ if (!window.console) {
     });
 
   });
+
+  function futureLivestreamEvents() {
+    var $container = $('#futureLivestreams');
+    if ($container.length === 0) return;
+
+    $.get('/api/livestream', function(events) {
+      var $ul = $container.find('ul');
+      $.each(events, function(idx, event) {
+        var $li = $([
+          '<li>',
+          '  <div class="panel">',
+          '    <img src="#" />',
+          '    <h5><a href="">Otsikko</a></h5>',
+          '    <div class="time" style="font-size: 90%;"></div>',
+          '  </div>',
+          '</li>',
+        ].join(' '));
+        $li.find('img').attr('src', event.image);
+        $li.find('a').attr('href', event.url).text(event.name);
+        $li.find('.time').html(moment(event.time).format('dd l [<i class="fa fa-clock-o"></i>] HH:mm'));
+
+        $li.appendTo($ul);
+      });
+      $container.show();
+    });
+  }
 
 })(infocrea.main = {});
 
