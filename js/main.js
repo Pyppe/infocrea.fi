@@ -18,6 +18,96 @@ if (!window.console) {
   };
 }
 
+(function(moment) {
+  var STRINGS = {
+    nodiff: '',
+    year: 'v',
+    years: 'v',
+    month: 'kk',
+    months: 'kk',
+    day: 'pv',
+    days: 'pv',
+    hour: 'h',
+    hours: 'h',
+    minute: 'min',
+    minutes: 'min',
+    second: 's',
+    seconds: 's',
+    delimiter: ' '
+  };
+  moment.fn.smartDiff = function(d2) {
+    return moment.smartDiff(this, d2);
+  };
+  moment.smartDiff = function(d1, d2) {
+    var m1 = moment(d1), m2 = moment(d2);
+    if (m1.isSame(m2)) {
+      return STRINGS.nodiff;
+    }
+    if (m1.isAfter(m2)) {
+      var tmp = m1;
+      m1 = m2;
+      m2 = tmp;
+    }
+    var yDiff = m2.year() - m1.year();
+    var mDiff = m2.month() - m1.month();
+    var dDiff = m2.date() - m1.date();
+    var hourDiff = m2.hour() - m1.hour();
+    var minDiff = m2.minute() - m1.minute();
+    var secDiff = m2.second() - m1.second();
+    if (secDiff < 0) {
+      secDiff = 60 + secDiff;
+      minDiff--;
+    }
+    if (minDiff < 0) {
+      minDiff = 60 + minDiff;
+      hourDiff--;
+    }
+    if (hourDiff < 0) {
+      hourDiff = 24 + hourDiff;
+      dDiff--;
+    }
+    if (dDiff < 0) {
+      var daysInLastFullMonth = moment(m2.year() + '-' + (m2.month() + 1), "YYYY-MM").subtract('months', 1).daysInMonth();
+      if (daysInLastFullMonth < m1.date()) { // 31/01 -> 2/03
+        dDiff = daysInLastFullMonth + dDiff + (m1.date() - daysInLastFullMonth);
+      } else {
+        dDiff = daysInLastFullMonth + dDiff;
+      }
+      mDiff--;
+    }
+    if (mDiff < 0) {
+      mDiff = 12 + mDiff;
+      yDiff--;
+    }
+    function pluralize(num, word) {
+      return num + ' ' + STRINGS[word + (num === 1 ? '' : 's')];
+    }
+    var result = [];
+    if (yDiff) {
+      result.push(pluralize(yDiff, 'year'));
+    }
+    if (mDiff) {
+      result.push(pluralize(mDiff, 'month'));
+    }
+    if (dDiff) {
+      result.push(pluralize(dDiff, 'day'));
+    }
+    if (hourDiff) {
+      result.push(pluralize(hourDiff, 'hour'));
+    }
+    if (minDiff) {
+      result.push(pluralize(minDiff, 'minute'));
+    }
+    if (secDiff) {
+      result.push(pluralize(secDiff, 'second'));
+    }
+    if (result.length > 1) {
+      result = [result[0], result[1]];
+    }
+    return result.join(STRINGS.delimiter).replace(/(\d) (\w)/g, '$1$2');
+  };
+})(moment);
+
 (function(exports, undefined) {
 
   // Facebook posts
@@ -231,6 +321,11 @@ if (!window.console) {
     var $container = $('#futureLivestreams');
     if ($container.length === 0) return;
 
+    function timeDiff(eventTime) {
+      var now = moment();
+      return eventTime.isBefore(now) ? 'Juuri nyt' : moment.smartDiff(now, eventTime);
+    }
+
     $.get('/api/livestream', function(events) {
       if (events.length === 0) return;
       var $ul = $container.find('ul');
@@ -241,15 +336,26 @@ if (!window.console) {
           '    <img src="#" />',
           '    <h5><a href="">Otsikko</a></h5>',
           '    <div class="time" style="font-size: 90%;"></div>',
+          '    <span class="label secondary"></span>',
           '  </div>',
           '</li>',
         ].join(' '));
+        var eventTime = moment(event.time);
         $li.find('img').attr('src', event.image);
         $li.find('a').attr('href', event.url).text(event.name);
-        $li.find('.time').html(moment(event.time).format('dd l [<i class="fa fa-clock-o"></i>] HH:mm'));
+        $li.find('.time').html(eventTime.format('dd l [<i class="fa fa-clock-o"></i>] HH:mm'));
+        $li.find('.label').
+            text(timeDiff(eventTime)).
+            data('eventTime', eventTime);
 
         $li.appendTo($ul);
       });
+      setInterval(function() {
+        $ul.find('li .label').each(function() {
+          var $el = $(this);
+          $el.text(timeDiff($el.data('eventTime')));
+        });
+      }, 1*1000);
       $container.show();
     });
   }
@@ -289,6 +395,7 @@ if (!window.console) {
   exports.parseQueryParams = parseQueryParams;
   exports.parseMultiQueryParams = parseMultiQueryParams;
 
-})(infocrea.util = {})
+})(infocrea.util = {});
+
 
 $(document).foundation();
