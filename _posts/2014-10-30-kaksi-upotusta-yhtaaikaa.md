@@ -4,7 +4,7 @@ title: "Kaksi upotusta yhtäaikaa"
 date: 2014-10-30T21:05:20+0200
 ---
 
-Tämä on alusta, jossa kokeillaan kahden samanaikaisen striimin upotusta yhdelle sivulle.<!--more-->
+Tässä blogauksessa kokeillaan kahden samanaikaisen striimin upotusta yhdelle sivulle.<!--more-->
 
 Varsinainen striimi:
 
