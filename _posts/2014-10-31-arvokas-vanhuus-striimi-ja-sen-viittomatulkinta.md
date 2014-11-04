@@ -13,3 +13,5 @@ Arvokas vanhuus - Moninaisuus näkyväksi:
 Ylläolevan striimin viittomatulkkaus:
 
 {%  livestream http://new.livestream.com/accounts/2914987/events/3541763/player %}
+
+(Tekijänoikeus-, Kelan korvauskäytäntö- yms. -syistä viittomastriimiä ei tallenneta missään vaiheessa millään tavalla.)
