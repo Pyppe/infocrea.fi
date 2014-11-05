@@ -10,8 +10,8 @@ Arvokas vanhuus - Moninaisuus näkyväksi:
 
 {% livestream http://new.livestream.com/accounts/190565/events/3427667/player %}
 
-Ylläolevan striimin viittomatulkkaus:
+**Edit 5.11.2014 klo 14: 
 
-{%  livestream http://new.livestream.com/accounts/2914987/events/3541763/player %}
+Tässä alla oli ylläolevan striimin ajan sen viittomatulkkaus, mutta tekijänoikeus-, Kelan korvauskäytäntö- yms. -syistä vain todellakin liven ajan eikä viittomastriimiä myöskään tallennettu missään vaiheessa millään tavalla.
 
-(Tekijänoikeus-, Kelan korvauskäytäntö- yms. -syistä viittomastriimiä ei tallenneta missään vaiheessa millään tavalla.)
+Livestream.comin konesalissa New Yorkin Manhattanilla oli tapahtuman aikana [toimintakatkos](http://status.livestream.com/incidents/xcyqcy37cysj), minkä takia tallenteiden saaminen katsomiskuntoon kestää tavanomaista kauemmin. 
