@@ -171,7 +171,7 @@ if (!window.console) {
   (function() {
     var $share = $('#share');
     if ($share.length === 0) return;
-    var t = encodeURIComponent(document.title);
+    var t = encodeURIComponent($.trim($('meta[property="og:title"]').attr('content')) || document.title);
     var u = encodeURIComponent(location.protocol + '//' + location.host + location.pathname);
     $share.find('[data-media]').each(function() {
       var $el = $(this);
