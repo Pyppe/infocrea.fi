@@ -19,3 +19,5 @@ Vaan nyt ikäänkuin sattuma pökkii sitä asiaa eteenpäin: Ensin [nakittauduin
 Ja nyt siis tämä sosiaaliseen mediaan - Facebookiin tai Twitteriin:-) - linkatun jutun viesti muistutti aiheesta ja antoi myös idean yhdistää kahta asiaa: opasartikkelin ja oman sisältömarkkinoinnin luomista.
 
 Eli jos kiinnostaa lähitulevaisuudessa saada sähköpostiisi rauhalliseen tahtiin tilaisuuksien videosuoratoistoihin eli striimauksiin ja muuhun tapahtumien digitalisointiin liittyviä tieto- ja ideapaketteja tai linkkejä sellaisiin, niin täytä ja lähetä [yhteystietosivulta](http://www.infocrea.fi/yhteystiedot/) viesti "Tietoa tapahtumien digitalisoinnista" -aihevalinnalla.
+
+**PS** Tähän blogaukseen tuli puolivahingossa esimerkiksi hieman epätavallisemman tapahtuman digitalisointi, jonka jälkituunauskin oli/on normiaalia vähäisempi. Tyypillisemmistä tallenteista hieman [tässä blogauksessa](http://www.infocrea.fi/blogi/2014/11/ambientia-upotti-hienosti-konferenssin/).

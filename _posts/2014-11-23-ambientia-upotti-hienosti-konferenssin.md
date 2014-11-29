@@ -14,6 +14,6 @@ Yksittäisten videoiden upotuskoodi löytyy kunkin videon "kuvatekstin" alta "</
 
 Jos muuten upottaa koko striimitapahtuman (koodi löytyy striimisivun ylimmän otsikkolohkon alareunasta niinikään "</>Embed" -painikkeen alta), niin haluamalleen sivulle saa upotuksen, joka muuttuu "eläväksi" striimin eli tapahtuman ajaksi - ja valikollisen arkistoupotuksen tilaisuuden (ja striimin) päätyttyä.
 
-Allaolevasta arkistoupotusesta voi kokeilla "Watch again" ja sitten thumbnail-kuvien selailua niiden molemmin puolin olevien nuolien avulla. Halutun videon voi käynnistää kuvan keskellä olevasta nuolesta: 
+Allaolevasta arkistoupotuksesta voi kokeilla "Watch again" ja sitten thumbnail-kuvien selailua niiden molemmin puolin olevien nuolien avulla. Halutun videon voi käynnistää kuvan keskellä olevasta nuolesta: 
 
 {% livestream http://new.livestream.com/accounts/2914987/events/3466541/player %}
