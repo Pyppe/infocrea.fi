@@ -15,13 +15,14 @@ title: Blogi
 
   {% for post in paginator.posts %}
   <div class="post">
-    <a href="{{ post.url }}" class="title">
-      <h2>
+    <h2>
+      <a href="{{ post.url }}" class="title">
         {{ post.title }}
         <small class="timeTitle">{{ post.date | date_to_xmlschema }}</small>
-        <a class="commentCount" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
-      </h2>
-    </a>
+      </a>
+      <a class="commentCount" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
+    </h2>
+
     {{ post.excerpt }}
     <a href="{{ post.url }}" class="button small readMoreButton">
       Näytä koko kirjoitus

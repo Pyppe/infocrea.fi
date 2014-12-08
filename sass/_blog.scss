@@ -24,7 +24,6 @@
 .postSeparator {
   height: 10px;
   background: image-url("grey_dots.png") repeat scroll center center #f1f1f1;
-  margin: 10px 0;
   &:last-child {
     height: 0;
   }
@@ -35,6 +34,8 @@
 }
 
 #blog .post {
+  position: relative;
+  padding: 30px 0 25px 0;
 
   div.cover {
     height: 150px;
@@ -43,9 +44,24 @@
     background-position: center;
     background-clip: border-box;
   }
+
+  &:hover {
+    .readMoreButton {
+      opacity: 1;
+    }
+  }
 }
 
-.readMoreButton {
+.button.small.readMoreButton {
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  opacity: 0;
+  @include transition(opacity 0.8s ease-in-out);
+
   .fa {
     font-size: 150%;
     margin-left: 10px;
