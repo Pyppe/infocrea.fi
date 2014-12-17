@@ -9,7 +9,7 @@ Hyvää Joulua ja Onnellista Uutta Vuotta, Season Greetings:-)
 {% include postImage.html name="joululumiukko.jpg" title="Hyvää Joulua (kuva: freedigitalphotos.net)" %}
 <!--more-->
 
-Tuo ylläoleva kortti oli ilmainen. Joulutervehdysrahat Infocrea Oy pisti tänä Helsinki Mission senioripalveluiden tukemiseen. Kuva on napattu läppärin ruudulta vähän ennen nettipankkimaksua [täällä](https://lahjoita.helsinkimissio.fi/).  
+Tuo ylläoleva kortti oli ilmainen. Joulutervehdysrahat Infocrea Oy pisti tänä vuonna Helsinki Mission senioripalveluiden tukemiseen. Kuva on napattu läppärin ruudulta vähän ennen nettipankkimaksua [täällä](https://lahjoita.helsinkimissio.fi/).  
 
 {% include postImage.html name="helsinki-missio.jpg" title="Lahjoita, autat yksinäistä lähelläsi" %}
 
