@@ -31,7 +31,7 @@ Kahden edellisen yhdistelmä - jos esimerkiksi livestreamaustilanteessa riittäm
 Oma livekanava avaimet käteen
 -----------------------------
 **Infocrea Oy tekee kaiken**  
-Oma kanava mahdollistaa yrityksen tai organisaation omalta tuntuvan tunnuksen ja tapahtuman nettiosoitteet, logot jne. Hintavaikutus on kuitenkin vain yhden Livestream-tunnuksen verran, tyypillisesti vajaa 50 €/kk. Erikseen sovittavalla tavalla myös sisäänajo oman striimikanavan itsenäiseen käyttöön. 
+Oma kanava mahdollistaa yrityksen tai organisaation omalta tuntuvan tunnuksen ja tapahtuman nettiosoitteet, logot jne. Hintavaikutus on kuitenkin vain yhden Livestream-tunnuksen verran, luokkaa 50 €/kk. Erikseen sovittavalla tavalla myös toteutetaan sisäänajo oman striimikanavan itsenäiseen käyttöön. 
 
 Äänitetty valokuvatarina
 ------------------------
@@ -50,11 +50,11 @@ Esimerkiksi lehteen+nettisaitille tehtävää artikkelia varten haastattelut ja 
 Sometukset
 ----------
 **Eri esitysmuotojen linkitykset sosiaaliseen mediaan**  
-Asiakkaan omilla tai Infocrea Oy:n/Jarmo Lahden Facebook-, Twitter-, Google+ ja LinkedIn -tunnuksilla (ks. "contact"), sosiaalisten palveluiden netikettiä ja tyyliä kunnioittaen. Niin ennen tapahtumaa kuin myös sen jälkeen: striimille lisää katsojia tapahtuman aikaan ja tallenteille sen jälkeen.
+Asiakkaan omilla tai Infocrea Oy:n/Jarmo Lahden Facebook-, Twitter-, Google+ ja LinkedIn -tunnuksilla (ks. "[Yhteystiedot](http://www.infocrea.fi/yhteystiedot/)"), sosiaalisten palveluiden netikettiä ja tyyliä kunnioittaen. Niin ennen tapahtumaa kuin myös sen jälkeen: striimille lisää katsojia tapahtuman aikaan ja tallenteille sen jälkeen.
 
 Hinnoitteluperusteet
 --------------------
-Ideointiin, briefauksiin, haastatteluihin, kuvauksiin, editointiin, nettijulkaisuun jne. - sovelletaan Infocrea Oy:n kokemus- ja osaamishistoriasta johtuen Suomen Freelance-journalistit ry:n [hinnoitteluperusteiden](http://uusi.freet.fi/palkkiot-ja-sopimukset/miten-free-journalisti-hinnoittelee-tyonsa/) mukaista sanoma- ja aikakauslehdistön toimittajan taksaa 78 €/h (+alv 24% paitsi lehtijuttujen teksteissä) ns. tuottavan työn nettoajasta. Minilaskutus ja laskutusporras on 0,5 tuntia). Pääkaupunkiseudun ulkopuolelle tai muuten oman auton käyttöä vaativissa tehtävissä laskutetaan matkakustannukset ja päivärahat verottajan voimassaolevin taksoin.
+Ideointiin, briefauksiin, haastatteluihin, kuvauksiin, editointiin, nettijulkaisuun jne. - sovelletaan Infocrea Oy:n kokemus- ja osaamishistoriasta johtuen Suomen Freelance-journalistit ry:n [hinnoitteluperusteiden](http://uusi.freet.fi/palkkiot-ja-sopimukset/miten-free-journalisti-hinnoittelee-tyonsa/) mukaista sanoma- ja aikakauslehdistön toimittajan taksaa 78 €/h (+alv 24% paitsi lehtijuttujen teksteissä) ns. tuottavan työn nettoajasta toteutettaessa yhden kameran kuvauksia. Minilaskutus ja laskutusporras on 0,5 tuntia). Pääkaupunkiseudun ulkopuolelle tai muuten oman auton käyttöä vaativissa tehtävissä laskutetaan matkakustannukset ja päivärahat verottajan voimassaolevin taksoin. Huom: tapahtumapaikat saattavat laskuttaa tietoliikenne-, audio- ja jopa sähköliitännöistä; nämä kustannukset ovat tapauskohtaisia ja ne on syytä myös muistaa ja ottaa huomioon.
 
 Yhteistyömahdollisuuksia?
 -------------------------
