@@ -17,3 +17,5 @@ Quickprese-käyttäjätunnuksen pääsee tällä hetkellä luomaan ilmaiseksi ku
 Etsimme nyt pientä joukkoa sellaisia, joilla on mielenkiintoa kokeilla valokuvien ja äänen yhdistämistä miellyttäväksi tai informatiiviseksi audiovisuaaliseksi esitykseksi - nopeasti ja helposti. Melko helppoa parin harjoittelun jälkeen perusesityksen luonti on jo nytkin, mutta vielä ehkä melko hahmottomana tavoitteena on nykyistä oleellisesti helpompi ja ehkä ominaisuuksiltaankin vaikuttavampi palvelu.
 
 Jos pilotoinnin tuloksena Quickpresen ja/tai sen seuraavan version mahdollisuudet alkavat näyttää ns. mielenkiintoisilta, alamme ehkä miettiä crowdfunding- tms. -hanketta jo kaupallinen kiilto silmissämme. Ja siinä vaiheessa jonnekin pilveen perustettavassa Quickprese-kehittäjäyhteisössä ansioituneille pilot-käyttäjille löytyy paalupaikkoja. Siis **jos**...
+
+Edit 14.1.2015: Ainakin ensi alkuun pilotoijia/testaajia/kokeilijoita varten on perustettu salainen Facebook-ryhmä Quickprese-testaajat.
