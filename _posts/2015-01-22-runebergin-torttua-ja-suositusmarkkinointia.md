@@ -13,7 +13,7 @@ Koska luet tätä blogausta, saatat olla saanut (tai saamassa) kutsukirjeeni jok
 
 Jos nimittäin olet kutsuni jotain kautta saanut, olen ainakin itse vilpittömästi arvellut että BNI Premium Helsinki olisi yrityksellesi hyvä juttu.
 
-Kutsukirjeeni saajat olen valinnut aika huolella lähinnä [LinkedIn](https://www.linkedin.com/in/jarmolahti)-kontakteistani sekä [Helsingin Yrittäjät - Itäväylä](http://www.yrittajat.fi/fi-FI/helsinginyrittajat/itavayla/)n [jäsenistä](http://synergia.yrittajat.fi/Yritykset/Yrityshaku/?query=&localOrganization=1522).
+Kutsukirjeeni saajat olen valinnut aika huolella lähinnä [LinkedIn](https://www.linkedin.com/in/jarmolahti)-kontakteistani sekä [Helsingin Yrittäjät - Itäväylä](http://www.yrittajat.fi/fi-FI/helsinginyrittajat/itavayla/)n [jäsenistä](http://synergia.yrittajat.fi/Yritykset/Yrityshaku/?query=&localOrganization=1522), jollainen olen itsekin, tai siis Infocrea Oy on).
 
 Olen itse yksinyrittäjä, ja säännöllinen viikkokokous vähitellen yhä tutummaksi käyvän ja yhteen hiilen puhaltavan ryhmän kanssa tekee hyvää pelkästään sosiaalisessakin mielessä. 
 
@@ -27,4 +27,6 @@ Itse olen mukana yritysviestinnän Power Teamissa, jossa ovat mukana myös [Jari
 
 Joihinkin BNI Premium Helsinki -partnereihin voit tutustua "elävänä" ryhmän [YouTube-kanavalla](https://www.youtube.com/channel/UCmVjWgHy60CkF_WnBktUZ5A) vaikka heti. Mutta vieläkin elävämpinä heidät pääset kohtaamaan aamiaiskokouksen vieraana (max.) kahtena torstaiaamuna. Ja toivottavasti sen jälkeen partnerina säännöllisesti:-) (Ja kyllä me joskus tapaamme joukolla muulloinkin kuin jämptissä aamukokouksessa. Tosin vapaammissakin tilaisuuksissa on aina edistetty asiallisiakin hommia.)
 
-Vastaa siis "kyllä" kutsuuni, ja tule vieraakseni Runebergin päivän 5.2.2015 kasvupäiväaamiaiselle. Jos et vielä ole ilmoittautunut, niin vielä muutama päivä ennen H-hetkeä onnistuu [täälläkin](https://www.bniconnectglobal.com/web/open/visitorRegistration?chapterId=11830) (5.2. ja kutsujaksi Jarmo Lahti)
+Vastaa siis "kyllä" kutsuuni, ja tule vieraakseni Runebergin päivän 5.2.2015 kasvupäiväaamiaiselle. Jos et vielä ole ilmoittautunut, niin vielä muutama päivä ennen H-hetkeä onnistuu [täälläkin](https://www.bniconnectglobal.com/web/open/visitorRegistration?chapterId=11830) (5.2. ja kutsujaksi Jarmo Lahti).
+
+Omille vierailleni tarjoan tuon aamiaisen, ja sen lisäksi lupaan tutustumistarjouksena maksimissaan puolen päivän tilaisuuden striimauksen puoleen hintaan (jo valmiiksi edullisesta hinnasta) ennen maaliskuun loppua, kunhan tilaisuus ei mene päällekkäin jonkun jo tilatun kanssa. 
