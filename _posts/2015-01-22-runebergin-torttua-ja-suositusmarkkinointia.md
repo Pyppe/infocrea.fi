@@ -34,3 +34,7 @@ Omille vierailleni tarjoan tuon aamiaisen, ja sen lisäksi lupaan tutustumistarj
 **Edit 29.1.2015**: *Koska minulla on videokamera mukana kasvupäiväaamuna, voimme halukkaiden vieraideni kanssa ottaa kokeeksi videolle paikalla esitetyt pikapitchit ja vaikka pikauusinnat paikalla kaikessa rauhassa tilaisuuden jälkilämmössä. Jos tulee hyvä - ja miksei tulisi - niin tuloksena olisi kiva video pistää linkiksi mailiin tai sosiaalisen median viestiin. - Kannattaa kokeilla!*
 
 **Edit 2 29.1.2015**: *Juuri saamamme tiedon mukaan BNI:ssä on globaalisti vuonna 2014 rekisteröity 6,6 miljoonaa suositusta ja niiden avulla tehty lisäkauppaa 7,6 miljardin euron arvosta. Kasvuprosentit edellisestä vuodesta ovat merkittävät - ja HUOM: Suomessa BNI kasvaa globaalia keskiarvoa nopeammin. Todellakin: nyt on oikea aika tulla mukaan BNI:hin.*
+
+**PS (31.1.2015)**: Tuoretta tietoa globaalin BNI-verkoston perusluvuista Suomen BNI:n Talvijuhlatilaisuudessa 29.1. Hard Rock Cafessa:
+
+{% youtube Q_XnHsawREo %}
