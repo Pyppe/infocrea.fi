@@ -31,7 +31,7 @@ Kahden edellisen yhdistelmä - jos esimerkiksi livestreamaustilanteessa riittäm
 Oma livekanava avaimet käteen
 -----------------------------
 **Infocrea Oy tekee kaiken**  
-Oma kanava mahdollistaa yrityksen tai organisaation omalta tuntuvan tunnuksen ja tapahtuman nettiosoitteet, logot jne. Hintavaikutus on kuitenkin vain yhden Livestream-tunnuksen verran, luokkaa 50 €/kk. Erikseen sovittavalla tavalla myös toteutetaan sisäänajo oman striimikanavan itsenäiseen käyttöön. 
+Oma kanava mahdollistaa yrityksen tai organisaation omalta tuntuvan tunnuksen ja tapahtuman nettiosoitteet, logot jne. Hintavaikutus on kuitenkin vain yhden striimauspalvelun (esim. Livestream, Ustream jne.) tunnuksen kuukausimaksun verran. Erikseen sovittavalla tavalla voidaan myös toteuttaa sisäänajo oman striimikanavan itsenäiseen käyttöön. 
 
 Äänitetty valokuvatarina
 ------------------------
