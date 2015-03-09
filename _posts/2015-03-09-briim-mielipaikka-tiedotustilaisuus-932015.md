@@ -4,7 +4,7 @@ title: "BRIIM Mielipaikka - tiedotustilaisuus 9.3.2015"
 date: 2015-03-09T14:23:22+0200
 ---
 
-{% livestream http://new.livestream.com/accounts/190565/events/3868042/player %}
+{% livestream http://new.livestream.com/accounts/190565/events/3868042/player %}<!--more-->
 
 **Reidar Wasenius** tiedusteli viime viikon lopulla BRIIM Mielipaikka -tiedotustilaisuuden videotallennusta, jolloin ehdotin hänelle striimausta, koska tallenteethan tulevat silloin ikäänkuin kaupan päälle. Ja niin tiedotustilaisuus Kampin Sähkötalossa Kampinkuja 2:ssa striimattiin.
 
