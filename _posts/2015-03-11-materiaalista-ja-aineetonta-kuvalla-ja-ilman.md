@@ -35,7 +35,7 @@ Audiokilkkeistäni tuli mieleeen, että hiljan kasasin niistä pienen Flickr-alb
 Flickr-setistä puolestaan tuli mieleen Infocrea Oy:n beta- tai sivuraidemoodissa toimiva [Quikcprese-palvelu](), joka Flickr-palvelua hyväksikäyttäen pistää puheen (tai muun äänen) ja sen kanssa samaan aikaan otetut kuvat pelaamaan yhteen. Kokeilin hiljan taskukokoiselle Zoom H1 -audiotallentimelle jutellen ja Samsung-kännykällä kuvia napsien esitellä striimireppuani ja vähän muitakin striimikilkkeitä (joista muuten unohtui Aputure-LED-lisävalo):
 
 <div class="flex-video narrow">
-  {% iframe http://quickprese.com/KMvkQt/striimi-videointikamojen-esittelya %}
+  {% iframe http://quickprese.com/embed/KMvkQt/striimi-videointikamojen-esittelya %}
 </div>
 
 (Yo. Quickpresen on koodannut Infocrea Oy:n pienosakas ja "CIO", Pyry-Samuli ["Pyppe"](http://www.pyppe.fi/) Lahti, jonka toinen tuoreehko o.t.o. -koodaus on [#PinnallaFI](http://pinnalla.pyppe.fi/), joka antaa oivalliset työ- ja raporttityökalut Suomi-Twitteriin.)
