@@ -8,7 +8,7 @@ Ensimmäisen audio- eli siis äänistriimin oikeasta tapahtumasta pääsin "toim
 
 Testin tulos oli itse asiassa yllättävän hyvä, ottaen huomioon että ääni otettiin pienellä Roden kännykkämikrofonilla Office Nomadin kannettavasta mikseri/audio-boksista muutaman kymmenen sentin etäisyydeltä Samsung Galaxy S5 -kännykän Spreaker.com-apsille ja siitä suoraan striimiksi (nykyään alusta ja lopusta hieman turhia pois nipsaisten tehty tallenne):
 
-<iframe src="//www.spreaker.com/embed/player/standard?episode_id=5658248&autoplay=false" style="width: 100%; height: 131px;" frameborder="0" scrolling="no"></iframe>
+<iframe src="//www.spreaker.com/embed/player/standard?episode_id=5658248&autoplay=false" style="width: 100%; height: 131px;" frameborder="0" scrolling="no"></iframe><!--more-->
 
 Kun tuloksen oltua noinkin positiivinen minulta tiedusteltiin mielenkiintoa kokeilla striimausta seuraavastakin tapahtumasta eli [Pause by Office Nomad VOL5 featuring **Miikka Leinonen**](https://www.facebook.com/events/707404092706509/) 10.3., niin tarjosin jostain kuulemaani termiä "tuplastriimi". Itselleni se tarkoitti audio- ja videostriimiä. Halusin nimittäin kokeilla audiostriimiä videostriimin back-uppina ajatellen tapausta, jossa nettiyhteyden kaistanleveys tai muu laatu ei riitä tosiaikaisen videon siirtoon, mutta edes ääni mahtuu siitä kulkemaan.
 
