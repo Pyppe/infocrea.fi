@@ -12,4 +12,4 @@ Lyhyestä virsi kaunis eli tunnin "D-Day. Digistrategia" -Bisnestreffit nro. 111
 
 Ihan kaikki eivät satasella ole digitalisoimassa. Alla SoundCloud-palveluun ääniupotukseksi erotettu keskusteluosuuden ensimmäinen kysymys:-)
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/195684341&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+{% sound_cloud 195684341 %}
