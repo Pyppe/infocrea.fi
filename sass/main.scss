@@ -41,7 +41,7 @@ body {
 
 a {
   color: $red;
-  &:hover {
+  &:hover, &:focus {
     color: darken($red, 7%);
   }
 }

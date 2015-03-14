@@ -60,7 +60,7 @@ html.en .lang-en { display: inherit !important; }
 
 @media only screen and (min-width: 64.063em) { .flex-video.narrow { margin-left: 80px; margin-right: 80px; }
   iframe.livestream { padding-left: 80px; padding-right: 80px; } }
-.postSeparator { height: 10px; background: url('/img/grey_dots.png?1409420348') repeat scroll center center #f1f1f1; }
+.postSeparator { height: 10px; background: url('/img/grey_dots.png?1421765818') repeat scroll center center #f1f1f1; }
 .postSeparator:last-child { height: 0; }
 
 .pagination-centered { margin-top: 20px; }
@@ -126,11 +126,11 @@ body { background: #F1F1F1; padding-top: 20px; }
 #header ul li { padding-top: 2px; }
 
 a { color: #dd2c2c; }
-a:hover { color: #c52020; }
+a:hover, a:focus { color: #c52020; }
 
 #pageWrapper { background: white; -moz-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); padding-bottom: 40px !important; }
 
-#title { background-image: url('/img/home_bg.jpg?1409420348'); background-size: cover; background-repeat: no-repeat; background-position: center; background-clip: border-box; overflow: hidden; position: relative; height: 220px; }
+#title { background-image: url('/img/home_bg.jpg?1421765818'); background-size: cover; background-repeat: no-repeat; background-position: center; background-clip: border-box; overflow: hidden; position: relative; height: 220px; }
 #title .description { margin-top: 20px; float: right; }
 #title .timeTitle { display: inline-block; }
 #title h1, #title h2, #title .description { color: white; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); }
