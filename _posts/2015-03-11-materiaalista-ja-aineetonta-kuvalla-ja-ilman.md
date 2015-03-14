@@ -37,6 +37,6 @@ Flickr-setistä puolestaan tuli mieleen Infocrea Oy:n beta- tai sivuraidemoodiss
 <div class="flex-video narrow">
   {% iframe http://quickprese.com/embed/KMvkQt/striimi-videointikamojen-esittelya %}
 </div>
+(Yo. Quickpresen on koodannut Infocrea Oy:n pienosakas ja "CTO", Pyry-Samuli ["Pyppe"](http://www.pyppe.fi/) Lahti, jonka toinen tuoreehko o.t.o. -koodaus on [#PinnallaFI](http://pinnalla.pyppe.fi/), joka antaa oivalliset työ- ja raporttityökalut Suomi-Twitteriin.)
 
-(Yo. Quickpresen on koodannut Infocrea Oy:n pienosakas ja "CIO", Pyry-Samuli ["Pyppe"](http://www.pyppe.fi/) Lahti, jonka toinen tuoreehko o.t.o. -koodaus on [#PinnallaFI](http://pinnalla.pyppe.fi/), joka antaa oivalliset työ- ja raporttityökalut Suomi-Twitteriin.)
 
