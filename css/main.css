@@ -58,8 +58,10 @@ html.en .lang-en { display: inherit !important; }
 */
 .timeTitle { white-space: nowrap; }
 
-@media only screen and (min-width: 64.063em) { .flex-video.narrow { margin-left: 80px; margin-right: 80px; }
-  iframe.livestream { padding-left: 80px; padding-right: 80px; } }
+/*
+@media only screen and (min-width:64.063em) { .flex-video.narrow { margin-left: 80px; margin-right: 80px; } iframe.livestream { padding-left: 80px; padding-right: 80px; }
+}
+*/
 .postSeparator { height: 10px; background: url('/img/grey_dots.png?1421765818') repeat scroll center center #f1f1f1; }
 .postSeparator:last-child { height: 0; }
 
@@ -143,7 +145,7 @@ a:hover, a:focus { color: #c52020; }
 #futureLivestreams .panel { background-color: white; position: relative; overflow: hidden; min-height: 120px; }
 #futureLivestreams img { z-index: 0; position: absolute; top: 0; right: 0; height: 153px; width: 102px; }
 
-@media only screen and (min-width: 64.063em) { .columns.largeSpacing { padding-left: 1.3rem; padding-right: 1.3rem; } }
+@media only screen and (min-width: 64.063em) { .columns.largeSpacing { padding-left: 2rem; padding-right: 2rem; } }
 
 button, a.button, ul.pagination li.current a { background-color: #dd2c2c; }
 button:hover, button:focus, a.button:hover, a.button:focus, ul.pagination li.current a:hover, ul.pagination li.current a:focus { background-color: #b81e1e; }
