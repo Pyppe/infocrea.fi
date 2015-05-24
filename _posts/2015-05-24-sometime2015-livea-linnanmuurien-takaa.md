@@ -6,7 +6,7 @@ date: 2015-05-24T18:09:28+0300
 
 Olen ollut mukana uskoakseni kaikissa [Sometime](http://sometime.fi)-tapahtumissa eli vuodesta 2010 lähtien. Striimannutkin niistä olen, niin ideointivaiheen "sekouksia" kuin myös joitain osuuksia varsinaisista tapahtumista.<!--more-->
 
-Joka vuosi on ollut suorastaan voimaannuttavaa todistaa itseorganisoituneen ja jatkuvasti sen uudelleen tekevän tapahtuman synnyttämistä paljolti somevälinein. Myös Sometimessa ja Sometimestä nettisisältöjä ideoinut ja toteuttanut ["Sometime Live Task Force"]I(https://www.facebook.com/groups/198152433548525/) on ollut loistava ja paljon vinkkejä antanut yhteisö.
+Joka vuosi on ollut suorastaan voimaannuttavaa todistaa itseorganisoituneen ja jatkuvasti sen uudelleen tekevän tapahtuman synnyttämistä paljolti somevälinein. Myös Sometimessa ja Sometimestä nettisisältöjä ideoinut ja toteuttanut ["Sometime Live Task Force"](https://www.facebook.com/groups/198152433548525/) on ollut loistava ja paljon vinkkejä antanut yhteisö.
 
 Vuoden 2015 Sometime-tapahtuma oli kuitenkin melko vähällä jäädä toteutumatta. Onneksi tapahtuman "isä" **Heikki Hallantie** pisti tuulemaan ja sai sometime-heimon ryhdistäytymään. Paikka - [Hämeen linna](http://www.nba.fi/fi/museot/hameenlinna) - varattiin lauantaille 23.5.2015 ja ohjelmakin syntyi muutamassa viikossa.
 
@@ -30,4 +30,4 @@ Sain äänen lopulta edes johonkin kuntoon, minkä jälkeen pääsin striimaamis
 
 Ja kun ohjelma noin klo 17 loppui, niin kaapelit takaisin nippuun ja niput, kamerat, audiomikserit, mikrofonit, jalustat jne. reppuun ja laukkuihin, auto parkkipaikalta linnan pihalle, laukut autoon ja kotimatkalle kohti Helsinkiä.
 
-Hämeen linna ja mm. Katleena Kortesuon opastama kierros jäi käytännössä näkemättä. Onneksi se [löytyy](http://bambuser.com/v/5535508) JatsiTV:stä. 
+Hämeen linna ja mm. **Katleena Kortesuon** opastama kierros jäi käytännössä näkemättä. Onneksi vm. [löytyy](http://bambuser.com/v/5535508) JatsiTV:stä. 
