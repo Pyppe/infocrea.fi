@@ -30,4 +30,4 @@ Sain äänen lopulta edes johonkin kuntoon, minkä jälkeen pääsin striimaamis
 
 Ja kun ohjelma noin klo 17 loppui, niin kaapelit takaisin nippuun ja niput, kamerat, audiomikserit, mikrofonit, jalustat jne. reppuun ja laukkuihin, auto parkkipaikalta linnan pihalle, laukut autoon ja kotimatkalle kohti Helsinkiä.
 
-Hämeen linna ja mm. **Katleena Kortesuon** opastama kierros jäi käytännössä näkemättä. Onneksi vm. [löytyy](http://bambuser.com/v/5535508) JatsiTV:stä. 
+Hämeen linna ja mm. **Katleena Kortesuon** opastama kierros jäi käytännössä näkemättä. Onneksi vm. [löytyy](http://bambuser.com/v/5535508) JatsiTV:stä. Kännykkäkuviakin tulin ottaneeksi vain [muutaman](https://www.flickr.com/photos/jarmolahti/sets/72157651035961424). (Niissä sentään näkyy Cloudstreetin "hirviöantenni" perjantai-illan testissä kotona.)
