@@ -157,3 +157,11 @@ form span.required { color: red; font-size: 140%; line-height: 0.5; }
 span.hilight, em.hilight { color: black; font-size: 120%; }
 
 body { font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
+
+::-webkit-input-placeholder { color: #777; }
+
+:-moz-placeholder { color: #777; }
+
+::-moz-placeholder { color: #777; }
+
+:-ms-input-placeholder { color: #777; }

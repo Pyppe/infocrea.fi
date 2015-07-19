@@ -148,3 +148,17 @@ span.hilight, em.hilight {
 body {
   font-family: "Open Sans", "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif
 }
+
+$placeholder-color: #777;
+::-webkit-input-placeholder {
+  color: $placeholder-color;
+}
+:-moz-placeholder {
+  color: $placeholder-color;
+}
+::-moz-placeholder {
+  color: $placeholder-color;
+}
+:-ms-input-placeholder {
+  color: $placeholder-color;
+}
