@@ -15,3 +15,5 @@ Tuohon yo. upotukseen tulee tämän blogauksen kirjoitushetkellä vain otsikon k
 Tuolle striimisivulle on kuitenkin tarkoitus loppuvuoden aikana tulla suoria lähetyksiä, joissa aiheena on... niinpä niin: striimaus. Koska ja mitä, siitä saat tiedon ainakin jos käyt ilmoittautumassa *Striimauskirja. Nyt"* e-kirjan vinkki- ja odotuslistalle osoitteessa [striimauskirja.launchrock.com](http://striimauskirja.launchrock.com). Saat samalla tietoa siitä, miten itse kirjaprojekti etenee [Digivallankumouksen](http://www.digivallankumous.fi/) e-kirja [Mastermind](http://www.ekirjamastermind.fi/) III -kurssi tekopuitteenaan. 
 
 Tuo blogauksen yläosan upotus muuten muuttuu eläväksi "netti-tv:ksi" sillä hetkellä, kun striimattava tilaisuus joskus jossain alkaa.
+
+*Edit 14.8.2015:* Ensimmäinen edes hieman asiallisuutta tavoitteleva blogaus Striimauskirja-hankkeesta ilmestyi Infocrean Uusisuomi.fi:n Yrityskanava-blogissa eilen eli 13.8.2015: [http://infocrea.palvelut.uusisuomi.fi/2015/08/13/oma-tilaisuus-suorana-nettivideona/](http://infocrea.palvelut.uusisuomi.fi/2015/08/13/oma-tilaisuus-suorana-nettivideona/) 
