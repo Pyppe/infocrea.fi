@@ -12,6 +12,8 @@ Perjantaiaamuna 21.8.2015 kello 8 kannattaa siis virittäytyä ym. PersonalEU-Ba
 
 Ja pienen kahvi- (ja striimivirittelypaussin) jälkeen ehdottomasti siirtyä kello 9:30 Striimauskirja-kanavalle ja kysyä ja kommentoida mobiilistriimauksesta Twitter-hashtagilla [#striimauskirja](https://twitter.com/search?f=tweets&q=%23striimauskirja). Kysymyksiin ja kommentointiin on käytettävissä myös [Todaysmeet.com/striimauskirja-1](https://todaysmeet.com/striimauskirja-1) (Keksi tunnus (nickname), liity (join) ja kysy/kommentoi.).
 
+{% livestream http://new.livestream.com/accounts/190565/events/4221401/player %}
+
 **Striimauskirja?** 
 
 Vuoden loppupuolella on tarkoitus ilmestyä e-kirja *"Striimauskirja. Nyt"* avaamaan sitä, miksi ja miten tilaisuus kannattaa toteuttaa suorana videolähetyksenä netissä. Ja vähän yleisemminkin tapahtumien digitalisoinnista ja kaikesta, mikä siihen liittyy. Jos kirjan aihepiiri kiinnostaa, käy antamassa sähköpostiosoitteesi kirjan tiedotelistalle [täällä](http://striimauskirja.launchrock.com/). Saat syksyn aikana sähköpostiisi silloin tällöin vinkkejä ja tietoa striimaukseen liittyvistä aiheista ja myös Striimauskirjan etenemisestä. 
