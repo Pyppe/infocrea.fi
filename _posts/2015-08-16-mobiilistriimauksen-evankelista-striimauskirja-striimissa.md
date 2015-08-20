@@ -12,6 +12,8 @@ Perjantaiaamuna 21.8.2015 kello 8 kannattaa siis virittäytyä ym. PersonalEU-Ba
 
 Ja pienen kahvi- (ja striimivirittelypaussin) jälkeen ehdottomasti siirtyä kello 9:30 Striimauskirja-kanavalle ja kysyä ja kommentoida mobiilistriimauksesta Twitter-hashtagilla [#striimauskirja](https://twitter.com/search?f=tweets&q=%23striimauskirja). Kysymyksiin ja kommentointiin on käytettävissä myös [Todaysmeet.com/striimauskirja-1](https://todaysmeet.com/striimauskirja-1) (Keksi tunnus (nickname), liity (join) ja kysy/kommentoi.).
 
+*Alla Livestream.comin tarjoama ns. upotus (embed), joka muuttuu eläväksi striimin alkaessa:*
+
 {% livestream http://new.livestream.com/accounts/190565/events/4221401/player %}
 
 **Striimauskirja?** 
