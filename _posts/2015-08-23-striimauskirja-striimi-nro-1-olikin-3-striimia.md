@@ -12,7 +12,9 @@ Kuten [edellisessä blogauksessa](http://www.infocrea.fi/blogi/2015/08/mobiilist
 
 Ylläoleva varsinainen striimi on kuvattu Canon XA25-kameralla ja ääni otettu talteen kameran omalla mikrofonilla, kun Kurre oli tosiaan vain parin metrin päässä kamerasta. Otsikkoon viitaten: Kurre itse striimasi kuvassa näkyvällä Samsung Galaxy S5 -kännykällä koko ajan [Bambuser-kanavalleen](http://bambuser.com/channel/personaleu), josta ko. striimitallenne on upotettu Bambuserin tarjoamalla Share/Embed -koodilla tähän alle: 
 
+<div class="flex-video">
 <iframe src="http://embed.bambuser.com/broadcast/5737369" width="460" height="276" frameborder="0">Your browser does not support iframes.</iframe>
+</div>
 
 Se kolmas striimi samasta tilanteesta on niinikään Samsung Galaxy S5 -kännykällä ja sen [Livestream-apsilla](https://play.google.com/store/apps/details?id=com.livestream.livestream) kuvattu. Sen tallenne tässä alla (ja siihen liittyen huomio, että ei olisi kannattanut jättää kännykkää striimaamaan taustalla olevan ikkunaseinän antamaan vastavaloon):
 
@@ -32,7 +34,9 @@ Kenties seuraavassa striimissä tai ainakin blogauksessa saadaankin vimpan pää
 
 Koska Digi-ID -Bisnestreffien antia tuli omassakin striimissä ylistetyksi, niin tässä vielä alla PersonalEU:n striimitallenne siitä:
 
+<div class="flex-video">
 <iframe src="http://embed.bambuser.com/broadcast/5737258" width="460" height="345" frameborder="0">Your browser does not support iframes.</iframe>
+</div>
 
 Itse näpsin kännykälläni sen aikana vain kuvia, ja tuuppasin ne myöhemmin perjantaina Flick-albumiksi: 
 
