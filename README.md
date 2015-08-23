@@ -73,7 +73,7 @@ Tällöin voit "esiakatsella" sivustoa ja tehdä muutoksia yms.
 {% livestream http://new.livestream.com/accounts/190565/events/1042748/videos/2636865/player %}
 
 <!-- Lisää vapaavalintainen flex + iframe (esim. QuickPrese) -->
-<div class="flex-video narrow">
+<div class="flex-video">
   {% iframe http://www.quickprese.com/embed/x9Vkrp/nx300-sgs3-pikakoe-3-8-2014 %}
 </div>
 

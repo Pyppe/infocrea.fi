@@ -14,7 +14,7 @@ aloin (jälleen kerran) miettiä, minkä verran pelkkä kalvosetti, olkoon sitte
 
 Vm. tilanteesta alla esimerkkinä Tekesin **Karin Wikmanin** esitys Tekesin tuista pk-yrityksille LED-aamukahvitilaisuudessa viime perjantaina (pelkät kalvot löytyvät [Tekesin netistä](https://tapahtumat.tekes.fi/uploads/26408656/Karin_Wikman-6638.pdf))
 
-<div class="flex-video narrow">
+<div class="flex-video">
   {% iframe http://www.quickprese.com/embed/vhq02v/tekes-led-12-6-2015-karin-wikman-tekes %}
 </div>
 

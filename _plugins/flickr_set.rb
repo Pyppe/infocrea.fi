@@ -10,7 +10,7 @@ module Jekyll
 
     def render(context)
       flashvars = "offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F#{@username}%2Fsets%2F#{@set_id}%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F#{@username}%2Fsets%2F#{@set_id}%2F&amp;set_id=#{@set_id}&amp;jump_to="
-      "<div class=\"flex-video narrow\"><object width=\"400\" height=\"300\">" +
+      "<div class=\"flex-video\"><object width=\"400\" height=\"300\">" +
         "<param name=\"flashvars\" value=\"#{flashvars}\"></param>" +
         "<param name=\"movie\" value=\"https://www.flickr.com/apps/slideshow/show.swf?v=143270\"></param>" +
         "<param name=\"allowFullScreen\" value=\"true\"></param>" +
