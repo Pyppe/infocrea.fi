@@ -12,4 +12,4 @@ Tuo striimaus oli yhteistyökokeilu kirjoittajakollega **Janne Korhosen** kanssa
 
 Oman kirjani (siis "Striimauskirja. Nyt":-) tekstiä ei vielä ole kovin paljon syntynyt. Mutta [Striimauskirja-striimi](http://livestream.com/Infocrea-fi/Striimauskirja) #2 on jo aika pitkälle sovittu.
 
-Jos haluat sähköpostiisi tiedon aiheesta ja sen avaajasta sekä striimauksen ajankohdasta, niin käy pistämässä nimesi kirjan ["odotuslistalle"](http://striimauskirja.launcrock.com) (sitoutumatta tietenkään yhtään mihinkään). Itse olen ihan innoissani sen suhteen, mitä kaikkia vinkkejä seuraavalla vieraalla onkaan annettavana mm. antamaan lisää ilmaa striimattujen tapahtumien siipien alle:-).  
+Jos haluat sähköpostiisi tiedon aiheesta ja sen avaajasta sekä striimauksen ajankohdasta, niin käy pistämässä nimesi kirjan ["odotuslistalle"](http://striimauskirja.launchrock.com) (sitoutumatta tietenkään yhtään mihinkään). Itse olen ihan innoissani sen suhteen, mitä kaikkia vinkkejä seuraavalla vieraalla onkaan annettavana mm. antamaan lisää ilmaa striimattujen tapahtumien siipien alle:-).  
