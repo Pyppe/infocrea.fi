@@ -25,3 +25,5 @@ Turhan alhaisena ääni striimiin lähti, ja aika usein striimaaja joutui ohjail
 Kuvassa kameran näytön varjostin, mallia DIY. Ja koko setti ennen yleisöä (jota kuulemma oli paikalla 3000-3500).
 
 {% flickr_set 72157658156035569 %}
+
+PS: [http://striimauskirja.launchrock.com](http://striimauskirja.launchrock.com) 
