@@ -6,3 +6,4 @@ _site
 /node_modules/
 /.tweet-cache/
 .DS_Store
+.jekyll-metadata
