@@ -16,7 +16,7 @@ Bottan tilaisuudesta näytti kehittyvän konseptin happotesti: paikan  nettiyhte
 
 Striimasin siis torstaiaamuna itse muualla Helsingissä toista tilaisuutta, ja siinä ohessa katselin kännykästä että striimi Bottalta näytti käynnistyneen. Kunnes yhtäkkiä huomasin, että sehän oli väärän tapahtuman sivulla eli vasta seuraavana päivänä tapahtuvan TIEKEn Paikkatieto-[Bisnestreffien](https://livestream.com/ITstriimIT/bt122-paikkatieto) sivulla - eikä järjestösome-tapahtuman sivua ollut missään...
 
-Summa summarum ja lyhyestä itkuvirsi kaunis: Livestream.comin palvelimella oli juuri ennen striimin käynnistymistä tai ehkä sen käynnistysvaiheessa yhteysongelman takia tapahtunut jotain, jonka tuloksena järjestösomestriimin koko sivusto tuhoutui ja siihen striimaamaan ohjelmoitu enkooderi alkoi työntää striimiä lähimpää seuraavaan striimiosoitteeseen.
+Summa summarum ja lyhyestä itkuvirsi kaunis: [Livestream.comin](http://livestream.com) palvelimella oli juuri ennen striimin käynnistymistä tai ehkä sen käynnistysvaiheessa yhteysongelman takia tapahtunut jotain, jonka tuloksena järjestösomestriimin koko sivusto tuhoutui ja siihen striimaamaan ohjelmoitu enkooderi alkoi työntää striimiä lähimpään seuraavaan striimiosoitteeseen.
 
 Olin tilaisuuden jälkeen yhteydessä Livestream.comin supportiin ja sain sieltä nopean (mutta lyhyen) vastauksen **Pedrolta**: "Hi there and thanks for reaching out. There seems to have been an issue earlier that our developers are looking into so that it does not happen again. Sorry for any inconvenience."
 
