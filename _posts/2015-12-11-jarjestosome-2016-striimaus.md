@@ -10,9 +10,9 @@ Kun Piritta sitten lähempänä tilaisuutta palasi striimausajatukseen, lupasin 
 
 Tapahtumaa edeltävän päivän aamuna kävin **[Päivi Laakson](https://twitter.com/PLaakso)** kanssa tutustumassa Bottan striimausinfraan, näytin piuhojen kytkennät ja mitä tehdään missäkin järjestyksessä kameralla ja enkooderilla. Päivi teki muistiinpanoja eikä tuntunut olevan moksiskaan, vaikka videokuvauskokemuskin oli kuulemma lähinnä kännykkävideoinnin varassa.
 
-Ajatuksissani oli jo pidempään muhinut asiakkaalle edullinen **Tee Se Itse -Striimaus**-konsepti: Infocrea tekee striimaussivun "napin painallusta" vaille valmiiksi, pikaopastaa asiakkaalle striimauksen käytännön toimenpiteet ja viimeistelee striimauksen jälkeen striimisivulle tapahtuman "digitaalisen kopion".
+Ajatuksissani on jo pidempään muhinut asiakkaalle edullinen **Tee Se Itse -Striimaus**-konsepti: Infocrea tekee striimaussivun "napin painallusta" vaille valmiiksi, pikaopastaa asiakkaalle striimauksen käytännön toimenpiteet ja viimeistelee striimauksen jälkeen striimisivulle tapahtuman hd-laatuisen "digitaalisen kopion".
 
-Bottan tilaisuudesta näytti kehittyvän konseptin happotesti: paikan  nettiyhteyden kerrottiin olevan DNA:n 4G:llä toteutettu eli jos Bottalle Viestintä-Pirittan järjestösometilaisuuteen kokoontunut järjestösomeväki ei tukkisi paikallista DNA:n 4G-tukiasemaa ja striimi tilaisuudesta sen puolesta onnistuisi, niin konseptihan toimisi missä vain. Kun asiakkaan oma striimaajakin tuli minimiopastetuksi. 
+Bottan tilaisuudesta näytti kehittyvän konseptin varsinainen happotesti: paikan  nettiyhteyden kerrottiin olevan DNA:n 4G:llä toteutettu eli jos Bottalle Viestintä-Pirittan järjestösometilaisuuteen kokoontunut järjestösomeväki ei tukkisi paikallista DNA:n 4G-tukiasemaa ja striimi tilaisuudesta sen puolesta onnistuisi, niin konseptihan toimisi missä vain. Kun asiakkaan oma striimaajakin tuli tällä kertaa opastetuksi lyhimmän mahdollisen kaavan mukaan.  
 
 Striimasin siis torstaiaamuna itse muualla Helsingissä toista tilaisuutta, ja siinä ohessa katselin kännykästä että striimi Bottalta näytti käynnistyneen. Kunnes yhtäkkiä huomasin, että sehän oli väärän tapahtuman sivulla eli vasta seuraavana päivänä tapahtuvan TIEKEn Paikkatieto-[Bisnestreffien](https://livestream.com/ITstriimIT/bt122-paikkatieto) sivulla - eikä järjestösome-tapahtuman sivua ollut missään...
 
