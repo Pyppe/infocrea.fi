@@ -23,7 +23,7 @@ exec("date +%FT%T%z", function (error, dateTime, stderr) {
   var month = date.substr(5, 2);
   var day = date.substr(8,2);
 
-  var slug = _str.slugify(title);
+  var slug = _str.slugify(title).replace(/(-+)$/, '').replace(/^(-+)/, '');
   var filename = date + "-" + slug + ".md";
   var file = path.join(postsDir, filename);
   if (fs.existsSync(file)) {
