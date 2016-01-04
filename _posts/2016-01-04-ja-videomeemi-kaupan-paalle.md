@@ -11,4 +11,4 @@ Infocrea Oy tarjoaa striimaamistaan tilaisuuksista "kaupan päälle" yhden video
 
 <center><b>* * *</b></center>
 
-*(Tuo meemiesimerkki tuli muuten ns. rahi-menetelmällä tehdyksi 11.12.2015 pidetyn Bisnestreffit numeron 122:n kevyt[striimauksesta](https://livestream.com/ITstriimIT/bt122-paikkatieto), jolla tuurasin tilaisuuden vakiostriimaajaa hänen esteensä takia. "Kevytstriimaus" tarkoittaa sitä, että käytössä ei ollut ulkoisia mikrofoneja ja muutenkin mentiin enempi ad hoc - että sikäli huono valinta tällaiseen markkinointihenkiseen juttuun - mutta videomeenin perusidea kuitenkin selvinnee:-)*
+*(Tuo meemiesimerkki tuli muuten ns. rahi-menetelmällä tehdyksi 11.12.2015 pidetyn Bisnestreffit numeron 122:n kevyt[striimauksesta](https://livestream.com/ITstriimIT/bt122-paikkatieto), jolla tuurasin tilaisuuden vakiostriimaajaa hänen esteensä takia. "Kevytstriimaus" tarkoittaa sitä, että käytössä ei ollut ulkoisia mikrofoneja ja muutenkin mentiin enempi ad hoc - että sikäli huono valinta tällaiseen markkinointihenkiseen juttuun - mutta videomeemin perusidea kuitenkin selvinnee:-)*
