@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6 { font-family: "Open Sans Condensed", "Open Sans", "Helve
 body { background: #F1F1F1; padding-top: 20px; }
 
 #header { margin-bottom: 10px; }
-#header img { width: 150px; }
+#header img { width: 200px; padding-left: 10px; }
 #header ul { margin: 0; margin-top: 2px; float: right; }
 #header ul li { padding-top: 2px; }
 
