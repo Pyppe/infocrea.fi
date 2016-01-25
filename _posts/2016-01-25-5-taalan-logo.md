@@ -73,7 +73,7 @@ Ja painolaatuun riittävä tiedosto.
 
 Viikonlopun Antti sukuloi perheensä kanssa. Mutta heti seuraavan viikon alusssa eli maanantaina 18. tammikuuta valmistui logosta myös avatarkuvakäyttöön sopiva kahteen riviin jaettu neliömäinen versio - tai itse asiassa kaksikin eli valko- ja mustapohjainen.
 
-{% include postImage.html name="Antin-neli%C3%B6t.png" %}
+{% include postImage.html name="Antin-neliot.png" %}
 
 FullHD-mp4-animaatio logosta äänitehosteineen oli Dropboxissa tiistain puolella iltayötä. Audiopuoli assosioi omaan mieleeni välittömästi klassikkoleffa Avaruusseikkailu 2001:n alkupuolen [näiltä kohdin](https://youtu.be/ypEaGQb6dJk?t=7m3s) - mikä kuvapuolesta huolimatta tuntui ihan hyvältä jutulta:-) 
 
