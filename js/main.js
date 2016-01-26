@@ -266,9 +266,11 @@ if (!window.console) {
 
       var offset = 50 - (fromTop / height) * 100;
       $title.css("background-position", "center " + offset + "%");
+      /*
       setY($('#title h1'), +fromTop/2);
       setY($('#title h2'), +fromTop/2.4);
       setY($('#title h4'), +fromTop/2.5);
+      */
     });
     $(window).scroll();
   }
