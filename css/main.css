@@ -96,12 +96,16 @@ html.en .lang-en { display: inherit !important; }
 #share .twitter i { color: #00acee; }
 #share .twitter i:hover { color: #22c2ff; }
 
-@media only screen and (min-width: 40.063em) { .rightSideContent { float: right; margin-left: 10px; } }
-@media only screen and (min-width: 40.063em) and (max-width: 64em) { .rightSideContent { width: 300px; }
-  .rightSideContent.wide { width: 400px; } }
-@media only screen and (min-width: 64.063em) { .rightSideContent { width: 350px; }
-  .rightSideContent.wide { width: 450px; } }
-@media only screen and (max-width: 40em) { .rightSideContent { width: 100%; } }
+@media only screen and (min-width: 40.063em) { .rightSideContent, .leftSideContent { margin-bottom: 5px; } }
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { .rightSideContent, .leftSideContent { width: 300px; }
+  .rightSideContent.wide, .leftSideContent.wide { width: 400px; } }
+@media only screen and (min-width: 64.063em) { .rightSideContent, .leftSideContent { width: 350px; }
+  .rightSideContent.wide, .leftSideContent.wide { width: 450px; } }
+@media only screen and (max-width: 40em) { .rightSideContent, .leftSideContent { width: 100%; } }
+
+@media only screen and (min-width: 40.063em) { .rightSideContent { margin-left: 10px; float: right; } }
+
+@media only screen and (min-width: 40.063em) { .leftSideContent { margin-right: 10px; float: left; } }
 
 #search .fa-spin { position: absolute; top: 10px; right: 20px; }
 #search .toggle-help { color: #3fbf5a; cursor: pointer; margin-left: -15px; margin-top: 3px; }

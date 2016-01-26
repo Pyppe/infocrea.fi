@@ -72,10 +72,9 @@
   }
 }
 
-.rightSideContent {
+.rightSideContent, .leftSideContent {
   @media #{$medium-up} {
-    float: right;
-    margin-left: 10px;
+    margin-bottom: 5px;
   }
   @media #{$medium-only} {
     width: 300px;
@@ -91,5 +90,19 @@
   }
   @media #{$small-only} {
     width: 100%;
+  }
+}
+
+.rightSideContent {
+  @media #{$medium-up} {
+    margin-left: 10px;
+    float: right;
+  }
+}
+
+.leftSideContent {
+  @media #{$medium-up} {
+    margin-right: 10px;
+    float: left;
   }
 }
