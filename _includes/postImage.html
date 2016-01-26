@@ -1,4 +1,6 @@
 <div class="filler frame {{ include.css }}">
-  <img src="{% if include.name %}{{ page.path | content_path }}/{{ include.name | img_size:include.size }}{% else %}{{ include.path }}{% endif %}">
+  <img data-interchange="[{% if include.name %}{{ page.path | content_path }}/{{ include.name | img_size:'medium' }}{% else %}{{ include.path }}{% endif %}, (default)], [{% if include.name %}{{ page.path | content_path }}/{{ include.name | img_size:'large' }}{% else %}{{ include.path }}{% endif %}, (large)]" />
+  <noscript><img src="{% if include.name %}{{ page.path | content_path }}/{{ include.name | img_size:include.size }}{% else %}{{ include.path }}{% endif %}"></noscript>
+
   {% if include.title %}<div class="title">{{ include.title }}</div>{% endif %}
 </div>
