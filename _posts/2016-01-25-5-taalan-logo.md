@@ -34,6 +34,8 @@ Heti ensimmäiset ehdotukset tiistaina saatuani kirjoitin aiheesta myös [Linked
 
 Mutta siitäkin syystä - ja myös hyvien Facebook-kommenttien takia päätin jatkaa logoehdotusten tuunausta some-kaverini, suunnitteluammattilainen **[Antti Lindströmin](https://www.linkedin.com/in/lindstorm)** kanssa - etenkin kun hän pyytämättä oli pistänyt kivan näköisiä luonnoksia jo yllelinkattuun Facebook-ketjuun.
 
+{% include postImage.html name="Antin-luonnostelua.jpg" %}
+
 (Varsinkin kun Facebook-ketjuunkin ilmestyi linkki selkeästi Fiverr-logoista varoittavaan [nettijuttuun](https://medium.com/swlh/in-the-past-couple-years-startups-have-started-realizing-that-good-design-can-make-the-difference-2fdeb90d390a#.5qdov5o35) Medium.comissa.) 
 
 Vaikka Antin hintapyyntö oli moninkertainen Fiverr-prosessiin verrattuna, somelöimme kättä päälle Facebook-viestitse. Etenkin kun hän lupasi samaan hintaan myös animoidun version FullHD:nä, jollaisella on käyttöä mm. videotuotannoissa. - Kaikki yhteydenpito jatkossa tapahtui Facebook-viestein ja Dropbox-latauksin. 
