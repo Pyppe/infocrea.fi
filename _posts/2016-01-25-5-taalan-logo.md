@@ -67,11 +67,7 @@ Ja se puuttuva palanen siten, että siitä kokonaisesta kolmiosta irtoaisi/kää
 
 Logovalinnan avuksi kävi mielessä äänestyttäminen somessa, mutta päädyin ajan säästämiseksi kuitenkin “hallituksenkin” (eli vaimon:-) lievästi preferoimaan “play-nappi” -versioon.
 
-Jo torstaina eli saman päivän aikana Droboxissa oli gif-animaatio “play-nappi” -versiosta. (Tarkoitettu näkymään pienempänä kuin alla:-)
-
-{% include postImage.html name="infocrea-logo-a.gif" %} 
-
-Ja painolaatuun riittävä tiedosto.
+{% include postImage.html name="infocrea-logo-a.gif" css="rightSideContent" %}Jo torstaina eli saman päivän aikana Droboxissa oli gif-animaatio “play-nappi” -versiosta. Ja painolaatuun riittävä tiedosto. 
 
 Viikonlopun Antti sukuloi perheensä kanssa. Mutta heti seuraavan viikon alusssa eli maanantaina 18. tammikuuta valmistui logosta myös avatarkuvakäyttöön sopiva kahteen riviin jaettu neliömäinen versio - tai itse asiassa kaksikin eli valko- ja mustapohjainen.
 
