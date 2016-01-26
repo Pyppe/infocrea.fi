@@ -10,7 +10,7 @@ Pieneltä osin logotilannetta selittää yrityksen käytännössä täysin pöyt
 
 Tuo tekstilogo on sentään ehtinyt näkyä jossain muuallakin kuin omissa käyntikorteissa tai omilla nettisivuilla. Tai ainakin [Devopsdays.org](http://www.devopsdays.org/events/2014-helsinki/program/)in Suomen vuoden 2014 tapahtuman mediasponsorilistalla:-).
 
-{% include postImage.html name="Devopsdays-2014.png" %}
+{% include postImage.html name="Devopsdays-2014.png" size="large" %}
 
 Erään tulevan tapahtuman striimausponsoroinnin yhteydessä tuli logo puheeksi  vuoden alkupäivinä - että voisinko toimittaa sekä tapahtuman nettisivuille että painotarkoituksiin sopivat logotiedostot.
 
@@ -20,13 +20,13 @@ Lisäksi speksasin yhteensopivuutta vanhan logon kanssa ja pistin ne pohjatiedok
 
 Maanantaiaamuna Fiverr notifioi srishet123:n ottaneen työn vastaan. Ja tiistaina 12. tammikuuta klo 13:48 sain kaksi ihan kelpoisaa ehdotusta. Eli hyvinkin sen luvatun 48 tunnin sisällä.
 
-{% include postImage.html name="srishet123-1-ja-2.png" %}
+{% include postImage.html name="srishet123-1-ja-2.png" size="large" %}
 
 Tilasin 5 dollarilla vielä kolmannen ehdotuksen, jossa muutin toisen ehdotuksen infocrea oy:n infocrea.fi:ksi. Lisäksi kävin pari kierrosta muuttamalla muutamien pisteiden värejä mustasta punaiseen.
 
 Lopullinen versio jatkotyöstöön soveltuvine tiedostoineen (.ai ja .psd) oli Fiverssissä käytettävissäni keskiviikkona 13. tammikuuta aamuseitsemältä. Jatkotyöstökelpoiset tiedostot maksoivat 15 dollaria lisää.
 
-{% include postImage.html name="srishet123-final.png" %}
+{% include postImage.html name="srishet123-final.png" size="large" %}
 
 Heti sunnuntai-iltana aloitettuani logoprosessin Fiverrissä [avauduin](https://www.facebook.com/jarmo.lahti/posts/10153352787482963) aiheesta Facebook-seinälläni. Sain välittömästi rohkaisuakin, että “hyvä tulee varmasti”:-).
 
@@ -34,7 +34,7 @@ Heti ensimmäiset ehdotukset tiistaina saatuani kirjoitin aiheesta myös [Linked
 
 Mutta siitäkin syystä - ja myös hyvien Facebook-kommenttien takia päätin jatkaa logoehdotusten tuunausta some-kaverini, suunnitteluammattilainen **[Antti Lindströmin](https://www.linkedin.com/in/lindstorm)** kanssa - etenkin kun hän pyytämättä oli pistänyt kivan näköisiä luonnoksia jo yllelinkattuun Facebook-ketjuun.
 
-{% include postImage.html name="Antin-luonnostelua.jpg" %}
+{% include postImage.html name="Antin-luonnostelua.jpg" size="large" %}
 
 (Varsinkin kun Facebook-ketjuunkin ilmestyi linkki selkeästi Fiverr-logoista varoittavaan [nettijuttuun](https://medium.com/swlh/in-the-past-couple-years-startups-have-started-realizing-that-good-design-can-make-the-difference-2fdeb90d390a#.5qdov5o35) Medium.comissa.) 
 
@@ -46,7 +46,7 @@ Antti siis käyttii ideointinsa lähtökohtana Fiverr-versioita ja aihiona saama
 
 Jo myöhään samaisena keskiviikkoiltana (no, yli tunti oli mennyt torstain puolelle) sain linkin Dropbox-kansioon, jossaa oli kolme ehdotusta: “play-nappi”, “osiensa summa” ja “puuttuva palanen”. Jotka olisin pelkästään nimiensä takia voinut valita kaikki:-).
 
-{% include postImage.html name="Antin-kolme-ideaa.png" css="leftSideContent" %}
+{% include postImage.html name="Antin-kolme-ideaa.png" size="large" %}
 
 Sain saman tien myös tyylivinkkiä punaisten pisteiden käytöstä: “Jos jotain, niin jättäisin ehkä tuon viimeisen .fi:n i:stä pois punaisen pisteen. Se vähän viljelee samaa temppua liian moneen kertaan. Ensimmäisessä infon I:ssä se on vielä jännä yksityiskohta, mutta tuolla lopussa se on toistoa joka tylsyttää ekankin pointin minusta.”
 
@@ -67,13 +67,21 @@ Ja se puuttuva palanen siten, että siitä kokonaisesta kolmiosta irtoaisi/kää
 
 Logovalinnan avuksi kävi mielessä äänestyttäminen somessa, mutta päädyin ajan säästämiseksi kuitenkin “hallituksenkin” (eli vaimon:-) lievästi preferoimaan “play-nappi” -versioon.
 
+<<<<<<< HEAD
 {% include postImage.html name="infocrea-logo-a.gif" css="rightSideContent" %}Jo torstaina eli saman päivän aikana Droboxissa oli gif-animaatio “play-nappi” -versiosta. Ja painolaatuun riittävä tiedosto. 
+=======
+Jo torstaina eli saman päivän aikana Droboxissa oli gif-animaatio “play-nappi” -versiosta. (Tarkoitettu näkymään pienempänä kuin alla:-)
+
+{% include postImage.html name="infocrea-logo-a.gif" %}
+
+Ja painolaatuun riittävä tiedosto.
+>>>>>>> origin/master
 
 Viikonlopun Antti sukuloi perheensä kanssa. Mutta heti seuraavan viikon alusssa eli maanantaina 18. tammikuuta valmistui logosta myös avatarkuvakäyttöön sopiva kahteen riviin jaettu neliömäinen versio - tai itse asiassa kaksikin eli valko- ja mustapohjainen.
 
-{% include postImage.html name="Antin-neliot.png" %}
+{% include postImage.html name="Antin-neliot.png" size="large" %}
 
-FullHD-mp4-animaatio logosta äänitehosteineen oli Dropboxissa tiistain puolella iltayötä. Audiopuoli assosioi omaan mieleeni välittömästi klassikkoleffa Avaruusseikkailu 2001:n alkupuolen [näiltä kohdin](https://youtu.be/ypEaGQb6dJk?t=7m3s) - mikä kuvapuolesta huolimatta tuntui ihan hyvältä jutulta:-) 
+FullHD-mp4-animaatio logosta äänitehosteineen oli Dropboxissa tiistain puolella iltayötä. Audiopuoli assosioi omaan mieleeni välittömästi klassikkoleffa Avaruusseikkailu 2001:n alkupuolen [näiltä kohdin](https://youtu.be/ypEaGQb6dJk?t=7m3s) - mikä kuvapuolesta huolimatta tuntui ihan hyvältä jutulta:-)
 
 Anttia kommenttini kuitenkin jäi mietityttämään: “Nyt on hankala arvioida, että oliko tuo hyvä assosiaatio... Kuvamateriaali ei ainakaan ollut yltiöpositiivista tuossa kohtaa, vaikka elokuva loistava onkin:-). Mutta musiikillisestihan tuo biisi, Also sprach Zarathustra on kyllä melko eeppinen. Itsellä oli mielessä enemmänkin sellainen orkesterin jousien yhteenvirittäminen:-)” 
 
