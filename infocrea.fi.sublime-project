@@ -1,0 +1,12 @@
+{
+	"settings": {
+		"tab_size": 2,
+		"translate_tabs_to_spaces": true
+	},
+	"folders": [
+		{
+			"path": ".",
+			"folder_exclude_patterns": [".idea", ".sass-cache", "node_modules", ".tweet-cache", "_site", "data", "dist"]
+		}
+	]
+}
