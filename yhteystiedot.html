@@ -8,30 +8,33 @@ js: feedback.js
 
 <div class="row">
   <div class="columns medium-5 large-6">
-    <h3>Yhteystiedot</h3>
+    <h3>Osoite | Address</h3>
     {% include vcard.html fn="Infocrea Oy" email="info@infocrea.fi" %}
   </div>
   <div class="columns medium-7 large-6">
-    <h3>Yritystiedot</h3>
+    <h3>Laskutus | Invoicing</h3>
     <!--
     <dl>
       <dt>Y-tunnus</dt>
       <dd>0913338-7</dd>
     </dl>
-    <p>Verkkolaskutusosoite - katso <a href="http://verkkolasku.tieke.fi/CompanyDetails.aspx?companyID=83997">Tieken palvelusta</a>.</p>
+    <p>Verkkolaskutusosoite - katso <a href="http://verkkolasku.tieke.fi/CompanyDetails.aspx?companyID=83997">Tieken palvelusta</a></p>
     -->
     <ul class="vcard">
-      <li><b>Y-tunnus / VAT number</b></li>
+      <li><b>Y-tunnus</b></li>
       <li class="uid">0913338-7</li>
-      <li>Katso verkkolaskutustiedot <a href="http://verkkolasku.tieke.fi/CompanyDetails.aspx?companyID=83997">Tieken palvelusta</a>.</li>
-      <li>VAT number: FI09133387</li>
+      <li>Katso <b>verkkolasku</b>tustiedot <a href="http://verkkolasku.tieke.fi/CompanyDetails.aspx?companyID=83997">Tieken palvelusta</a>.<br>
+      
+      <li><b>VAT number</b>: FI09133387<br>
+        Invoicing: post or e-mail (left)</li>
+      </li>
     </ul>
 
   </div>
 </div>
 
 
-<h3>Lähetä viesti / Send message</h3>
+<h3>Lähetä viesti | Send message</h3>
 {% include palauteForm.html %}
 
 {% livestream http://new.livestream.com/accounts/190565/events/4745351/videos/110656386/player %}
