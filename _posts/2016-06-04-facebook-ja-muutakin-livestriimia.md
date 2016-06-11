@@ -6,7 +6,7 @@ date: 2016-06-04T19:20:45+0300
 
 Alkoi lopultakin näkyä minullekin Facebookissa mahdollisuus "livettää" eli livestriimata eli lähettää apsilla suoraa videolähetystä tässä muutama päivä sitten.
 
-Tosin vaihdettuani viikko, pari sitten Samsung Galaxy S5 -kännykästä S7:ään olin ihan vahingossa huomannut, että sen mukana tuli apsi, jolla pystyy livettämään YouTubeen ja tämän livetyksen erittäin helposti jakamaan Facebookiin - eli käytännössä livettämään Facebookiin(kin).
+Tosin vaihdettuani viikko, pari sitten Samsung Galaxy S5 -kännykästä S7:ään olin ihan vahingossa huomannut, että sen mukana tuli apsi, jolla pystyy livettämään YouTubeen ja tämän livetyksen erittäin helposti jakamaan Facebookiin - eli käytännössä livettämään Facebookiin(kin).<!--more-->
 
 Ehdin loppuviikosta hankkia kännykkävideointien ja -striimausten äänenlaadun parantamiseeen Verkkokauppa.comista pari laitetta eli Roden [Videomic Me](https://www.verkkokauppa.com/fi/product/48815/gsxhx/Rode-VideoMic-Me-mikrofoni-puhelimeen) -kännykkämikrofonin sekä IK Multimedian [iRig Pre](https://www.verkkokauppa.com/fi/product/24565/fdmnj/IK-Multimedia-iRig-Pre-etuaste) -kännykkäetuasteen, jonka avulla kännykkään voi tuoda audiota mistä mikrofonista tai mikseristä vain.
 
