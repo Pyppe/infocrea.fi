@@ -21,3 +21,5 @@ Lisäksi Flickr tarjoaa upotuskoodin; kokeillaanpa:
 Ja kyllä, toimii osittain eli kuvaa voi blogauksen sisällä käännellä. Mutta ei hiiren rullalla zoomailla, kuten ei Flickrissäkään kuvaa katsellessa. Mikä puolestaan onnistuu 360-kuvaa Facebookin sisällä katsellessa.
 
 Tässä vielä [linkki](https://www.facebook.com/jarmo.lahti/posts/10153802818857963) Gear 360 -unboxaus-facebookkaukseen, jonka kommenteista löytyy mm. **Pasi Örnin** löytämä ehkä toimivakin Googlen tarjoama upotuskoodi; Pasin kokeilu ainakin vielä tätä kirjoitettaessa löytyy [täältä](http://podstudio.fi/360-2/). 
+
+*Edit 5.8.2016*: Pasi kommentoi [LinkedInissä](https://www.linkedin.com/pulse/upottelin-360-kuvaa-jarmo-lahti), että ei saanutkaan Googlen upotusta toimimaan; esimerkkiupotuksensa hoituikin WordPress-pluginilla. 
