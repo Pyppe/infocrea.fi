@@ -24,4 +24,10 @@ Ja sekin toimii!
 
 Sellainen huomio ylläolevia upotuksia katsellen, että Facebook-upotus kertoo kyseessä olevan 360-kuvan, YouTube-upotus ei anna siitä mitään vihjettä eli YouTubessa vasemmassa yläkulmassa näkyvä symboli ei siirry upotuskuvaan. 
 
-No eipä tässä vaiheessa muuta kuin että kiva juttu jo näinkin. Etenkin jos vielä tuon videon tarkkuuden saa ns. siedettäväksi. 
+No eipä tässä vaiheessa muuta kuin että kiva juttu jo näinkin. Etenkin jos vielä tuon videon tarkkuuden saa ns. siedettäväksi.
+
+*Edit 6.8.2016*: Kokeillaanpa vielä se Pypen koodikin, kun ei YouTuben upotuskoodi sellaisenaan siirrä 360-ominaisuutta, kun blogausta katselee kännykällä (SGS7 + Chrome):
+
+{% youtube 5t6uSBjvY9s %}
+
+Ja näyttää toimivan Macbook Pro + Chromella. Kommenteissa kerron, miten kävi SGS7 + Chromella. 
