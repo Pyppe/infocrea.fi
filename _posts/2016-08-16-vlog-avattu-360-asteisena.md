@@ -12,7 +12,9 @@ Eli lyhyesti:
 
 {% youtube M6o1rWBUmgM %}
 
-Ja nyt hieman backstagea(-:
+Sen verran ajatusta jatkaakin on, että tein vlogauksia varten oikein [#Infocrea-#360vlog-#lista](https://www.youtube.com/playlist?list=PLub2C90bJnZOsD9bzckLYtXdrX5cQDbiT) -soittolistankin.
+
+**Mutta nyt hieman backstagea(-:**
 
 Eli noin puolet vlogahduksesta on kuvattu maanantai-iltana, jolloin oli ajatus se myös julkaista. "Käsikirjoitus" oli tällainen:
 
