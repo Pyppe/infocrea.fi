@@ -12,7 +12,7 @@ Tulkoon muuten mainituksi, että tulin ko. miitin vuosikokouksessa valituksi jat
 
 Tuo Yrittäjyys-verkoston vuosikokousmiitin pro bono -striimaisu oli muuten kevyin striimaukseni pitkään aikaan, sillä ehdin asiakastoteutuksen setupista irrottaa vain yhden kameran ja enkooderin ehtiäkseni puolijuoksua Forumin Kukontorille vuosikokouksen jälkeisen teemaosion alkuun.
 
-Mistä tulikin mieleeni: ensimmäinen pilotti Infocrea Oy:n "paketoimista" "tee-se-itse-striimistä" lokakuun lopussa onnistui mitä erinomaisimmin.
+Mistä tulikin mieleeni: ensimmäinen pilotti Infocrea Oy:n "paketoimasta" "tee-se-itse-striimistä" lokakuun lopussa onnistui mitä erinomaisimmin.
 
 Erään ison viraston viestintäaiheisen tilaisuuden järjestäjät tarttuivat tarjoukseen, jossa Infocrea Oy tekee aboutsiarallaa kaiken muun paitsi striimin käynnistämisen, varsinaisen kuvaamisen ja striimin lopetuksen. Striimialustana tässä casessa toimi salasanalla suojattu eli vain kohderyhmälle tarkoitettu [Ustream.tv](http://www.ustream.tv/) -kanava eli sitä ei voi linkata tänne. 
 
