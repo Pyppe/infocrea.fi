@@ -21,3 +21,6 @@ Jos kiinnostaa tapahtumasi striimaus, niin sivutuotteena saat nyt kaupan pääll
 Alkuun pääsee vaikka [yhteyssivun](http://www.infocrea.fi/yhteystiedot/) kautta. 
 
 (Infocrea Oy on muuten juuri saanut myöntävän vastauksen Innovaatioseteli-hakemukseen. Seteli on tarkoitus käyttää hankkeeseen, jonka tuloksena asiakas mm. saa striiminsä "omalla ilmeellään". Mutta siitä lisää myöhemmin.)
+
+<!-- Lisää livestream -->
+{% livestream http://livestream.com/accounts/190565/events/6870999/videos/146625610/player %}
