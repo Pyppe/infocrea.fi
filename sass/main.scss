@@ -107,8 +107,8 @@ a {
     top: 0;
     right: 0;
     $factor: 0.6;
-    height: 255px * $factor;
-    width: 170px * $factor;
+    max-height: 255px * $factor;
+    max-width: 170px * $factor;
   }
 }
 

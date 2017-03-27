@@ -18,9 +18,9 @@ title: Blogi
     <h2>
       <a href="{{ post.url }}" class="title">
         {{ post.title }}
-        <small class="timeTitle">{{ post.date | date_to_xmlschema }}</small>
+        <small class="timeTitle">{{ post.date | date_to_xmlschema }}</small>
       </a>
-      <a class="commentCount" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
+      <a class="commentCount" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
     </h2>
 
     {{ post.excerpt }}
