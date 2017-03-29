@@ -95,7 +95,6 @@ a {
     position: relative;
   }
   .panel {
-    background-color: white;
     position: relative;
     overflow: hidden;
     min-height: 120px;
@@ -104,8 +103,10 @@ a {
     z-index: 0;
     //@include opacity(0.7);
     position: absolute;
-    top: 0;
-    right: 0;
+    top: -1px;
+    right: -1px;
+    border-left: 1px solid #d8d8d8;
+    border-bottom: 1px solid #d8d8d8;
     $factor: 0.6;
     max-height: 255px * $factor;
     max-width: 170px * $factor;

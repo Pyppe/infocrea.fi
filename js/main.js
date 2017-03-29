@@ -328,6 +328,7 @@ if (!window.console) {
       return eventTime.isBefore(now) ? 'Juuri nyt' : moment.smartDiff(now, eventTime);
     }
 
+    //$.get('/files/mocked-livestream.json', function(events) {
     $.get('/api/livestream', function(events) {
       if (events.length === 0) return;
       var $ul = $container.find('ul');
