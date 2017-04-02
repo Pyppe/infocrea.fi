@@ -4,7 +4,7 @@ title: "Jos &quot;pelkäät&quot; liveä, kokeile Quickpreseä"
 date: 2017-03-19T18:41:01+0200
 ---
 
-[Quickprese](http://quickprese.com/) on palvelu, jonka vanhempi poikani, koodaajawizard Pyry-Samuli "[Pyppe](http://www.pyppe.fi/)" [Lahti](https://www.linkedin.com/in/pyppe/), koodasi minulle joululahjaksi vuosia sitten. Kun olin etsinyt helppoa tapaa synkronoida valokuvat ja niiden ottamisen yhteydessä tallennettu ääni helpolla tavalla nettiesitykseksi.<!--more-->
+[Quickprese](http://quickprese.com/) on palvelu, jonka vanhempi poikani, koodaajawizard Pyry-Samuli "[Pyppe](http://www.pyppe.fi/)" [Lahti](https://www.linkedin.com/in/pyppe/), koodasi minulle joululahjaksi vuosia sitten. Kun olin etsinyt helppoa tapaa synkronoida valokuvat ja niiden ottamisen yhteydessä tallennettu ääni nettiesitykseksi.<!--more-->
 
 Aika monta vuotta Quickprese on pyörinyt melko tyhjää pilvessä. Silloin tällöin olen pistänyt sinne ex tempore joistain seminaareista joitain esityksiä ja joskus taas yrittänyt motivoida Pyppeä koodaamaan siitä ihan oikea kaupallistettava palvelu loppukäyttäjien itse käytettäväksi. Vaan lähinnä tyhjääpä Quickprese on jäänyt pyörimään.
 
