@@ -12,6 +12,8 @@ Infocrean striimauspakettiin kuuluu web-hd-laatuisen striimin palvelintallenteid
 
 Ihan miten vain: joku herkkupätkä sellaisenaan tai ryyditettynä erikseen kuvattavalla lisämateriaalilla ja vaikkapa grafiikalla. Luovuutta ja mielikuvitustakin saa käyttää:-)
 
-Infocrea haluaa lisätä videofileiden uusiokäyttöä tarjoamalla kesä-elokuussa sovituista vuoden 2017 puolella tapahtuvista "avaimet käteen" -striimauksista ns. kaupan päälle yhden (1) somekäyttöön sopivan pikapalan (max 2 minuuttia) asiakkaan haluamasta kohdasta: yhtenä palana irrotettu otos ja asiakkaan kanssa sovittu otsikkoteksti (jos siis sellainen halutaan).
+Infocrea haluaa lisätä videofileiden uusiokäyttöä tarjoamalla kesä-elokuussa sovituista vuoden 2017 puolella tapahtuvista jo valmiiksi hyvä laatu/hinta-suhteisista "avaimet käteen" -striimauksista ns. kaupan päälle yhden (1) somekäyttöön sopivan pikapalan (max 2 minuuttia) asiakkaan haluamasta kohdasta: yhtenä palana irrotettu otos ja asiakkaan kanssa sovittu otsikkoteksti (jos siis sellainen halutaan).
 
 - Infocrea Oy:n striimauspalvelupaketin kuvausta ja hinnoitteluperusteita löytyy osoitteesta [51.fi/ic-tarjouspohja](http://51.fi/ic-tarjouspohja) 
+
+PS: Hyvä esimerkki striimitallenteen klippien uusiokäytöstä tosi vähällä vaivalla löytyy [täältä](http://tapio.fi/tapio-foresttest-ensiesittelyssa-sertiseriffi-fsc-tapio-harvennuskortti-ja-tapio-maanmuokkauskortti/)
