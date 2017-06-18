@@ -16,7 +16,7 @@ En ole elämäni aikana kovin montaa esitystä itse pitänyt, mutta sekä toimit
 
 Vaikka olin lupautunut pitämään esityksen jo kuukausia ennen tapahtumaa, en ollut valmistautunut siihen kuin vasta kalkkiviivoilla kokoamalla kuvia [Flickr-kansioksi](https://www.flickr.com/photos/jarmolahti/sets/72157684984719735/):
 
-<object width="800" height="600"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fjarmolahti%2Fsets%2F72157684984719735%2Fshow%2F&page_show_back_url=%2Fphotos%2Fjarmolahti%2Fsets%2F72157684984719735%2F&set_id=72157684984719735&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=261948265"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=261948265" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fjarmolahti%2Fsets%2F72157684984719735%2Fshow%2F&page_show_back_url=%2Fphotos%2Fjarmolahti%2Fsets%2F72157684984719735%2F&set_id=72157684984719735&jump_to=" width="800" height="600"></embed></object>
+{% flickr_set $72157684984719735 %}
 
 Ja kuvia oli liikaa striimauskilkkeistäni ja liian vähän striimaus-digitalisoinnin esteistä ja hidasteista sekä tapahtumien digitalisoinnin muista näkökulmista (kuin striimaus, siis).
 
@@ -26,4 +26,4 @@ Eli loin Google-dokumentin ja jaoin esitykseni lopuksi sen lyhytosoitteen [bit.d
 
 Runsas vuorokausi Sometime2017:n jälkeen ei ko. dokumenttiin ole kukaan itseäni lukuunottamatta vielä jälkiä jättänyt. Eli saapas nähdä kuinka kenkä kestää:-).
 
-Itse aion toki dokua pikka hiljaa työstää eteenpäi. Sehän onnistuu vaikka älykännykällä mökkilaiturilta (jos vain mökissä on nettiyhteys wifeineen tai mökkialueella hyvä 3/4G-kenttä).
+Itse aion toki dokua pikka hiljaa työstää eteenpäin. Sehän onnistuu vaikka älykännykällä mökkilaiturilta (jos vain mökissä on nettiyhteys wifeineen tai mökkialueella hyvä 3/4G-kenttä).
