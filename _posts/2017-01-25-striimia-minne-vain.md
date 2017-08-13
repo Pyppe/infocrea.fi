@@ -8,7 +8,7 @@ Kuten vähän aikaa sitten [LinkedIniin](https://www.linkedin.com/pulse/striimi�
 
 Infocrea Oy:n palveluna toteuttamista striimauksista valtaosa on toteutettu [Livestream.com](http://livestream.com) -alustalla. Hiljan Livestream julkisti helpon tavan "sivustriimata" samanaikaisesti myös Facebook-sivulle, ryhmään tai "seinälle".
 
-Eilisessä Livestream-webinaarissa esiteltiin laajempaakin Livestream-striimin laajentamista eli "simulcastingia":
+Eilisessä Livestream-webinaarissa esiteltiin laajempaakin Livestream-striimin laajentamista eli "simulcastingia": <!--more-->
 
 {% livestream https://livestream.com/accounts/11528772/events/6875106/videos/147615351/player %}<!--more-->
 (Ja kappas vain, Livestream-videon upotus onnistui täällä Infocrea-blogissa paremmin kuin ensimmäisessä kappaleessa linkatussa LinkedIn-postauksessa:-)
