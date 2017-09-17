@@ -54,7 +54,7 @@ Asiakkaan omilla tai Infocrea Oy:n/Jarmo Lahden Facebook-, Twitter-, Google+ ja 
 
 Hinnoitteluperusteet
 --------------------
-Ideointiin, briefauksiin, haastatteluihin, kuvauksiin, editointiin, nettijulkaisuun jne. - sovelletaan Infocrea Oy:n Jarmo Lahden kokemus- ja osaamishistoriasta johtuen Suomen Freelance-journalistit ry:n hinnoitteluperusteista alkunsa saanutta taksaa 78 €/h (+alv 24% paitsi lehtijuttujen teksteissä). Minilaskutus ja laskutusporras on 0,5 tuntia). Pääkaupunkiseudun ulkopuolelle tai muuten oman auton käyttöä vaativissa tehtävissä laskutetaan matkakustannukset ja päivärahat verottajan voimassaolevin taksoin. Huom: tapahtumapaikat saattavat laskuttaa tietoliikenne-, audio- ja jopa sähköliitännöistä; nämä kustannukset ovat tapauskohtaisia ja ne on syytä myös muistaa ja ottaa huomioon.
+Ideointiin, briefauksiin, haastatteluihin, kuvauksiin, editointiin, nettijulkaisuun jne. - sovelletaan Infocrea Oy:n Jarmo Lahden kokemus- ja osaamishistoriasta johtuen Suomen Freelance-journalistit ry:n hinnoitteluperusteista alkunsa saanutta taksaa 78 €/h (+alv 24% paitsi lehtijuttujen teksteissä). Minimilaskutus ja laskutusporras on 0,5 tuntia). Pääkaupunkiseudun ulkopuolelle tai muuten oman auton käyttöä vaativissa tehtävissä laskutetaan matkakustannukset ja päivärahat verottajan voimassaolevin taksoin. Huom: tapahtumapaikat saattavat laskuttaa tietoliikenne-, audio- ja jopa sähköliitännöistä; nämä kustannukset ovat tapauskohtaisia ja ne on syytä myös muistaa ja ottaa huomioon.
 
 Yhteistyömahdollisuuksia?
 -------------------------
