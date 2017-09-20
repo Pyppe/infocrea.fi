@@ -13,12 +13,13 @@ Infocrea Oy:n Livestream [Broadcasteria](https://livestream.com/broadcaster) tai
 
 Nämä striimauslaitteet (“enkooderit”) asettavat yhteydelle myös joitain portti- tms. -ehtoja, joista ja joiden tarkistamisesta Livestream support kertoo:
 
-“You can check the upload speed at [www.speedtest.net](http://www.speedtest.net) 
+*“You can check the upload speed at [www.speedtest.net](http://www.speedtest.net)*
 
-Check if you are on a secure or closed network with some security restrictions such as closed firewall ports or anti-virus software? These type of things can affect the incoming and outgoing network communication. We require four specific ports (TCP 1935, TCP 80, TCP 443, UDP 53) to be open.
-- You can check those ports here: [www.therealtimeweb.com/index.cfm/2004/10/2/fms-port-tester](http://www.therealtimeweb.com/index.cfm/2004/10/2/fms-port-tester) 
+*Check if you are on a secure or closed network with some security restrictions such as closed firewall ports or anti-virus software? These type of things can affect the incoming and outgoing network communication. We require four specific ports (TCP 1935, TCP 80, TCP 443, UDP 53) to be open.*
+*You can check those ports here:<br>[www.therealtimeweb.com/index.cfm/2004/10/2/fms-port-tester](http://www.therealtimeweb.com/index.cfm/2004/10/2/fms-port-tester)*
 
-UDP 53 is one firewall port that may not show up in the test because it is specific to corporate and institutional networks, but it is still necessary to have it open, so you may have to reach out to the IT or ISP.”
+*UDP 53 is one firewall port that may not show up in the test because it is specific to corporate and institutional networks, but it is still necessary to have it open, so you may have to reach out to the IT or ISP.”*
+
 Näin Livestream-tuki kertoo toimivan striimausyhteyden porteista:<br>
 [help.livestream.com/hc/en-us/articles/212062958-Which-Firewall-Ports-Should-I-Open-on-My-Network-](https://help.livestream.com/hc/en-us/articles/212062958-Which-Firewall-Ports-Should-I-Open-on-My-Network-)
 
