@@ -6,8 +6,8 @@ title: "Tarjouspohja"
 ---
 
 
-Infocrea Oy:n striimauspalvelutarjouksen pohja
-==============================================
+Infocrea Oy:n striimauspalvelutarjouksen pohja/perusteet
+========================================================
 
 Infocrea Oy kiittää tarjouspyynnöstänne ja tarjoaa tilaisuutenne striimaus/tallennuspalvelua “**avaimet käteen**”. 
 
@@ -24,9 +24,9 @@ Myös asiakkaan oma striimausalusta tai -kanava on mahdollinen yksityiskohdista 
 Tapahtumapaikan striimaukseen tarvittavista **nettiyhteyksistä** on lyhyt kuvaus [täällä](http://infocrea.fi/nettiyhteys/) - sieltä löytyy myös erikseen hinnoiteltu kaistavarmennettu 4G-nettiyhteysmahdollisuus. - Jos tapahtumapaikka velottaa erikseen striimaukseen tarvittavista netti- ym. -liitännöistä, toivomme niiden laskutuksen tapahtuvan suoraan tapahtuman järjestäjältä ilman turhaa kierrättämistä Infocrea Oy:n kautta. Vm. tapauksessa ne tulevat mukaan Infocrea Oy:n laskutukseen allaolevan erittelyn lisäksi.  
 
 **Laskutuksesta:**<br>
-Infocrea Oy:n “avaimet käteen” -striimauspalvelun hinta on **78 €/h** (+alv). Pääkaupunkiseudun ulkopuolella tapahtuvien tilaisuuksien tapauksessa laskutetaan lisäksi **matka-ajasta** 50% em. tuntihinnasta sekä varsinaiset **matkakulut** toteutuneen mukaan. Striimattavan/tallennettavan tilaisuuden normaalit **tauot** ovat laskutettavaa aikaa. Jos laitteiston pystyttämisen tai purkamisen ja varsinaisen ohjelman väliin jää Infocrea Oy:stä riippumattomista syistä enemmän kuin tunti rakentamisen/purkaamisen estänyttä aikaa, laskutetaan ko. ajasta 50% tuntihinnasta.
+Infocrea Oy:n “avaimet käteen” -striimauspalvelun hinta on **78 €/h** (+alv). Pääkaupunkiseudun ulkopuolella tapahtuvien tilaisuuksien tapauksessa laskutetaan lisäksi **matka-ajasta** 50% em. tuntihinnasta (pidempien bussi/juna/lento -matkojen matka-aikalaskutus sovitaan erikseen) sekä varsinaiset **matkakulut** toteutuneen mukaan. Striimattavan/tallennettavan tilaisuuden normaalit **tauot** ovat laskutettavaa aikaa. Jos laitteiston pystyttämisen tai purkamisen ja varsinaisen ohjelman väliin jää Infocrea Oy:stä riippumattomista syistä enemmän kuin tunti rakentamisen/purkaamisen estänyttä aikaa, laskutetaan ko. ajasta 50% tuntihinnasta.
 
-Striimauksen/tallennuksen **perustoimitus** on 2-3 kameralla (1-2 tyypillisesti puhujan/yleisön ja yksi esityskalvojen kuvaukseen), joiden kuva miksataan ennen striimaukseen lähetystä. - Projektorille menevä screenikuva voidaan ohjata mikserille myös “piuhaa pitkin”.
+Striimauksen/tallennuksen **perustoimitus** on 2-3 kameralla (1-2 tyypillisesti puhujan/yleisön ja yksi esityskalvojen kuvaukseen), joiden kuva miksataan ennen striimaukseen lähetystä. Projektorille menevä VGA/HDMI/SDI-screenikuva voidaan ohjata mikserille myös “piuhaa pitkin”.
 
 **Palvelu sisältää** tapahtumapaikan kuvausolojen ja yhteyksien (netti, audio, sähkö) selvittämisen etukäteen, striimisivun ja -osoitteen luomisen etukäteen (esim. tapahtumamarkkinoinnin tarpeisiin), striimauksessa/tallennuksessa tarvittavat laitteet ja niiden käyttökuntoon laittamisen, itse kuvaamisen ja tallentamisen, siistityn tallennesivun editoinnin striimausosoitteeseen tapahtuman päättymisen jälkeen tyypillisesti saman vuorokauden aikana (jos striimistä halutaan tallennesivu). Palveluhintaan sisältyvät myös tallennuslaitteelle ennen striimausenkooderia otetut back-up tallenteet vapaasti käytettäväksi vain mahdollisten siirtokustannusten hinnalla - vaikka striimistä ei palvelintallennetta tulisikaan (ei erittelyssä kohtaa “striimisivun muunto tallennesivuksi”). 
 
