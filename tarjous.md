@@ -15,7 +15,9 @@ Oletuksena on kuitenkin, että mahdollisesti tarvittavat **kuvaus/tallennusluvat
 
 **Striimausalustaksi** tarjoamme Infocrea Oy:n Livestream.com -kanavia [livestream.com/Infocrea-fi](http://livestream.com/Infocrea-fi) tai [livestream.com/ITstriimIT](http://livestream.com/ITstriimIT) ja salasanalla suojattua striimiä tarvittaessa Infocrea Oy:n luomaa kanavaa [Ustream.tv](http://Ustream.tv) -palvelussa.
 
-Em. palveluiden livelähetys kuten myös tallennesivu ja/tai erilliset tallenneklipit ovat helposti ns. upotettavissa (embed) esimerkiksi asiakkaan omille nettisivuille. Livestream.com -striimi on mahdollista samanaikaisesti ohjata myös esim. halutulle YouTube- tai Facebook -sivulle  Livestreamin Simulcast-ominaisuutta hyödyntäen. - Ym. Livestream-kanavilta löytyvät tapahtumatallenteet kertovat myös monista uskollisista asiakkuuksista, mukana mm. ministeriöitä ym. julkishallinnollisia organisaatioita. 
+Ym. Livestream-kanavilta löytyvät tapahtumatallenteet kertovat monista uskollisista asiakkuuksista, mukana mm. ministeriöitä ym. julkishallinnollisia organisaatioita. 
+
+Em. palveluiden livelähetys kuten myös tallennesivu ja/tai erilliset tallenneklipit ovat helposti ns. [upotettavissa (embed)](https://help.livestream.com/hc/en-us/articles/219100767-How-Do-I-Embed-My-Event-) esimerkiksi asiakkaan omille nettisivuille. Livestream.com -striimi on mahdollista samanaikaisesti ohjata myös esim. halutulle YouTube- tai Facebook -sivulle  Livestreamin [Simulcast](https://livestream.com/blog/stream-live-multiple-destinations-simulcast)-ominaisuutta hyödyntäen.
 
 Myös asiakkaan oma striimausalusta tai -kanava on mahdollinen yksityiskohdista (mm. käyttäjätunnukset yms.) erikseen sopien.
 
