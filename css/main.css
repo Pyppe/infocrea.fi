@@ -147,7 +147,7 @@ a:hover, a:focus { color: #c52020; }
 #futureLivestreams h5 { margin: 0; }
 #futureLivestreams h5, #futureLivestreams div { position: relative; }
 #futureLivestreams .panel { position: relative; overflow: hidden; min-height: 120px; }
-#futureLivestreams img { z-index: 0; position: absolute; top: -1px; right: -1px; border-left: 1px solid #d8d8d8; border-bottom: 1px solid #d8d8d8; max-height: 153px; max-width: 102px; }
+#futureLivestreams img { z-index: 0; position: absolute; bottom: -1px; right: -1px; border-left: 1px solid #d8d8d8; border-top: 1px solid #d8d8d8; max-height: 153px; max-width: 102px; }
 
 @media only screen and (min-width: 64.063em) { .columns.largeSpacing { padding-left: 2rem; padding-right: 2rem; } }
 
