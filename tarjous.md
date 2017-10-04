@@ -9,7 +9,7 @@ title: "Tarjouspohja"
 Infocrea Oy:n striimauspalvelutarjouksen pohja/perusteet
 ========================================================
 
-Infocrea Oy kiittää tarjouspyynnöstänne ja tarjoaa tilaisuutenne striimaus/tallennuspalvelua “**avaimet käteen**”. 
+Infocrea Oy (kiittää tarjouspyynnöstänne ja) tarjoaa tilaisuutenne striimaus/tallennuspalvelua “**avaimet käteen**”. 
 
 Oletuksena on kuitenkin, että mahdollisesti tarvittavat **kuvaus/tallennusluvat** asiakas on sopinut tai sopii itse tilaisuuden esiintyjien kanssa.
 
