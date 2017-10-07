@@ -8,7 +8,7 @@ email: "jarmo.lahti@infocrea.fi"
 # Build settings
 markdown: kramdown
 permalink: /blogi/:year/:month/:title/
-paginate: 10
+paginate: 15
 gems: [jekyll-paginate]
 paginate_path: '/blogi/:num/'
 highlighter: pygments
