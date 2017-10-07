@@ -13,7 +13,7 @@ module Jekyll
     end
 
     def render(context)
-      "<iframe class=\"livestream\" style=\"margin-bottom: 20px;\" src=\"#{@url}\" width=\"100%\" height=\"400\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      "<iframe class=\"livestream\" style=\"margin-bottom: 20px;\" src=\"#{@url}?autoPlay=false\" width=\"100%\" height=\"400\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe>"
     end
   end
 end
