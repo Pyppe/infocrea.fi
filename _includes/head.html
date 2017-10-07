@@ -4,8 +4,8 @@
   <title>{% if page.title %}{{ page.title }}{% endif %} &laquo; {{ site.title }}</title>
   <meta property="og:site_name" content="{{ site.title | xml_escape }}"/>
   <meta property="og:image" content="{{ site.url }}/img/infocrea_logo.png"/>
-
-
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:creator" content="@jarmolahti" />
   {% if page.title %}
     <meta property="og:title" content="{{ page.title | clean_meta }}" />
   {% endif %}
