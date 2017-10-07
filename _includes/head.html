@@ -1,13 +1,19 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{% if page.title %}{{ page.title }}{% endif %} &laquo; {{ site.title }}</title>
-  <meta name="description" content="{{ site.description | xml_escape }}" />
+  <title>{% if page.title %}{{ page.title }}{% endif %} &laquo; {{ site.title }}</title>
   <meta property="og:site_name" content="{{ site.title | xml_escape }}"/>
   <meta property="og:image" content="{{ site.url }}/img/infocrea_logo.png"/>
-  
-  {% if page.title %}<meta property="og:title" content="{{ page.title | xml_escape }}" />{% endif %}
-  {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | xml_escape | trim }}" />{% endif %}
+
+
+  {% if page.title %}
+    <meta property="og:title" content="{{ page.title | clean_meta }}" />
+  {% endif %}
+  <meta name="description" content="{% if page.excerpt %}{{page.excerpt | clean_meta}}{% else %}{{ site.description }}{% endif %}" />
+  {% if page.excerpt %}
+    <meta name="og:description" content="{{page.excerpt | clean_meta}}" />
+  {% endif %}
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 
@@ -15,7 +21,7 @@
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/logo-72.png" />
   <link rel="apple-touch-icon-precomposed" href="/img/logo-57.png" />
   <link rel="shortcut icon" type="image/png" href="/img/logo-57.png" />
-  
+
   <link rel="stylesheet" href="/css/lib/foundation.min.css" />
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" />
   <link rel="stylesheet" href="/css/lib/fancybox/jquery.fancybox.css" />
