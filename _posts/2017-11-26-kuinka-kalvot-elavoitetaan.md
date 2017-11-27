@@ -15,3 +15,9 @@ Esityksen neljä kalvoa (striimitallenteesta ruutukaapattuna) löytyvät Flickri
 Kalvot Jukka Tenkamaan elävöittäminä puolestaan löytyvät esityksen striimitallenteesta Livestream.comissa: 
 
 {% livestream https://livestream.com/accounts/2914987/events/7945106/videos/166369331/player %}
+
+Koska ym. esimerkki on striimauspalveluja tarjoavan ja toteuttavan yrityksen sivuilla, niin tarkoitus on toki alleviivata, että tilaisuuksia kannattaa striimata ja tallentaa:-).
+
+Ja videostriimaus & -tallennus kannattaa juurikin siksi, että yleensä osallistujille jaettavat esitysmateriaalit saadaan siten elämään ihan toisella tavalla myös jälkikäteen (vaikka kalvojen esittäjä olisi vähän tylsempikin kuin esimerkissä). Ja esitys saadaan elämään myös niille, jotka eivät päässeet lainkaan f2f-tilaisuuteen (joka tietenkin on useimmiten se paras tapa tilaisuuden antia ammentaa).
+
+(Eikä se paljon edes [maksa](http://www.infocrea.fi/tarjous/). Ja löytyy useitakin tapauksia, joissa livestriimiä on seurannut suurempi joukko kuin paikan päällä. Ja tallenteille on saatu katsojia niihin verrattuna moninkertainen määrä. - Jos alkoi kiinnostaa, niin ota [yhteyttä](http://www.infocrea.fi/yhteystiedot/).)
