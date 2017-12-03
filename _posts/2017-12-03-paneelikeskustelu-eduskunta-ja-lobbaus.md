@@ -15,3 +15,5 @@ Ja koko tilaisuus "digitalisoituna" alta:
 {% livestream https://livestream.com/accounts/190565/events/7957037/player %}
 
 ja/tai [täältä](https://livestream.com/Infocrea-fi/mita-vikaa-lobbauksessa).
+
+*(Kuvaus kahdella kameralla, ääni Päivälehden museon AV-järjestelmän summaäänenä, miksaus Sony MCX500:lla.)*
