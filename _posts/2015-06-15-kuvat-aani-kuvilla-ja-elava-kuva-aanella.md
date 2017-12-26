@@ -8,7 +8,7 @@ Osallistuin tänään [Helsingin Tietojenkäsittely-yhdistys Hetky](http://hetky
 
 Pistäessäni hetki sitten tilaisuuden ensimmäisen esityksen, F-Securen **Jarno Niemelän** "Defence Against Zero Day Attacks" kalvojen kännykkäkuvat Flickriin
 
-{% flickr_set 72157654197019858 %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157654197019858 %}
 
 aloin (jälleen kerran) miettiä, minkä verran pelkkä kalvosetti, olkoon sitten kännykkäkuvina kalvoista tai linkkinä esim. SlideShareen, antaa verrattuna vaikkapa Quickprese-esitykseen, jossa kalvosetti (tai sen kuvat) on synkronoitu esittäjän ääneen.
 

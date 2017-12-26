@@ -24,6 +24,6 @@ Kaikista epävarmuustekijöistä huolimatta järjestäjät saivat tapahtuman rak
 Turhan alhaisena ääni striimiin lähti, ja aika usein striimaaja joutui ohjailemaan kameran eteen parkkeeraavia katsojia sivummas, ja silloin tällöin sai varmuuden vuoksi pitää kamerajalustasta vähän tiukemmin kiinni.
 Kuvassa kameran näytön varjostin, mallia DIY. Ja koko setti ennen yleisöä (jota kuulemma oli paikalla 3000-3500).
 
-{% flickr_set 72157658156035569 %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157658156035569 %}
 
 PS: [http://striimauskirja.launchrock.com](http://striimauskirja.launchrock.com) 

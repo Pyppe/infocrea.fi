@@ -10,29 +10,29 @@ Kävin tänään SFS:n [IT-standardoinnin vuosiseminaarissa](http://www.sfs.fi/s
 
 Ihan kuvaamatta en kuitenkaan malttanut olla. Näpsin SGS5-kännykällä esitysten kalvot talteen. Ja mm. kokeillakseni nykyisen Jekyll-pohjaisen blogin Flickr-albumeiden esityskykyä tässä alla esitykset:
 
-Paikkatieto: **Jari Reini**, Maanmittauslaitos
+### Paikkatieto: **Jari Reini**, Maanmittauslaitos
 
-{% flickr_set 72157649375327637  %} 
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157649375327637 %}
 
-Internet of Things: **Arto Toppinen**, Savonia
+### Internet of Things: **Arto Toppinen**, Savonia
 
-{% flickr_set 72157649727412166  %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157649727412166 %}
 
-Opetusteknologia: **Suvi Remes**, CSC - Tieteen tietotekniikan keskus
+### Opetusteknologia: **Suvi Remes**, CSC - Tieteen tietotekniikan keskus
 
-{% flickr_set 72157649374661789 %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157649374661789 %}
 
-Biometriikka: **Markku Metsämäki**, Guiart
+### Biometriikka: **Markku Metsämäki**, Guiart
 
-{% flickr_set 72157649382214828 %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157649382214828 %}
 
-IT-hallintatavat: **Jyrki Lahnalahti**, Inspecta
+### IT-hallintatavat: **Jyrki Lahnalahti**, Inspecta
 
-{% flickr_set 72157647458645054 %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157647458645054 %}
 
-Tietotekniikan standardisoinnin suuntaukset maailmalla: **Saana Seppänen**, Suomen Standardisoimisliitto SFS
+### Tietotekniikan standardisoinnin suuntaukset maailmalla: **Saana Seppänen**, Suomen Standardisoimisliitto SFS
 
-{% flickr_set 72157647466003553 %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157647466003553 %}
 
 Seminaarissa myös nimettiin pitkästä aikaa (olisiko ollut viisi vuotta edellisestä) vuoden IT-standardoijaksi Jyrki Lahnalahti. Alla hänen tuorein itse striimaamani esityksensä "Kansainväliset palveluiden johtamisen hyvät käytännöt. Kokemukset ja soveltaminen Suomessa" 22.10.2014 pidetyssä [IT:n hallinnan ja johtamisen hyvät käytännöt -seminaarissa](https://new.livestream.com/ITstriimIT/SFS-IT-hallintamallit):
 

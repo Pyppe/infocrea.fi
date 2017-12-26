@@ -165,6 +165,7 @@ if (!window.console) {
     }
     formatTime($('#title .timeTitle'));
     formatTime($('.post .timeTitle'));
+    $('#title .timeTitle').css('display', 'inline-block');
   })();
 
   // Sharing

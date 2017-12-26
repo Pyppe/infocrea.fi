@@ -6,7 +6,7 @@
 	"folders": [
 		{
 			"path": ".",
-			"folder_exclude_patterns": [".idea", ".sass-cache", "node_modules", ".tweet-cache", "_site", "data", "dist"]
+			"folder_exclude_patterns": [".idea", ".sass-cache", "node_modules", ".tweet-cache", ".flickr-embed", "_site", "data", "dist"]
 		}
 	]
 }

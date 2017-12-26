@@ -16,7 +16,7 @@ En ole elämäni aikana kovin montaa esitystä itse pitänyt, mutta sekä toimit
 
 Vaikka olin lupautunut pitämään esityksen jo kuukausia ennen tapahtumaa, en ollut valmistautunut siihen kuin vasta kalkkiviivoilla kokoamalla kuvia [Flickr-kansioksi](https://www.flickr.com/photos/jarmolahti/sets/72157684984719735/):
 
-{% flickr_set $72157684984719735 %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157684984719735 %}
 
 Ja kuvia oli liikaa striimauskilkkeistäni ja liian vähän striimaus-digitalisoinnin esteistä ja hidasteista sekä tapahtumien digitalisoinnin muista näkökulmista (kuin striimaus, siis).
 

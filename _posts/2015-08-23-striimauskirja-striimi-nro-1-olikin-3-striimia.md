@@ -40,4 +40,4 @@ Koska Digi-ID -Bisnestreffien antia tuli omassakin striimissä ylistetyksi, niin
 
 Itse näpsin kännykälläni sen aikana vain kuvia, ja tuuppasin ne myöhemmin perjantaina Flick-albumiksi: 
 
-{% flickr_set 72157657532199362 %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157657532199362 %}

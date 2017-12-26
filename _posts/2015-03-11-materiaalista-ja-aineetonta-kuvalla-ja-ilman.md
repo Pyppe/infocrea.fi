@@ -30,7 +30,7 @@ tai sitten vain kuunnella saman tilaisuuden äänisuoratoiston tallennetta:
 
 Audiokilkkeistäni tuli mieleeen, että hiljan kasasin niistä pienen Flickr-albumin:
 
-{% flickr_set 72157648882590654 %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157648882590654 %}
 
 Flickr-setistä puolestaan tuli mieleen Infocrea Oy:n beta- tai sivuraidemoodissa toimiva [Quikcprese-palvelu](), joka Flickr-palvelua hyväksikäyttäen pistää puheen (tai muun äänen) ja sen kanssa samaan aikaan otetut kuvat pelaamaan yhteen. Kokeilin hiljan taskukokoiselle Zoom H1 -audiotallentimelle jutellen ja Samsung-kännykällä kuvia napsien esitellä striimireppuani ja vähän muitakin striimikilkkeitä (joista muuten unohtui Aputure-LED-lisävalo):
 

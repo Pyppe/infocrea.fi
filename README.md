@@ -66,8 +66,8 @@ Tällöin voit "esiakatsella" sivustoa ja tehdä muutoksia yms.
 <!-- Lisää SoundCloud-äänite -->
 {% sound_cloud $ID %}
 
-<!-- Lisää flickr set -->
-{% flickr_set $SET_ID [$USER_ID] %}
+<!-- Lisää flickr -->
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/albums/72157657532199362  %}
 
 <!-- Lisää livestream -->
 {% livestream http://new.livestream.com/accounts/190565/events/1042748/videos/2636865/player %}

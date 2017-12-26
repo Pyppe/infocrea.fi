@@ -10,7 +10,7 @@ Esitys oli *"Vertaileva katsaus IT-palveluiden johtamisen ja IT:n hallinnan stan
 
 Esityksen neljä kalvoa (striimitallenteesta ruutukaapattuna) löytyvät Flickristä:
 
-{% flickr_set 72157666784322199 %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157666784322199 %}
 
 Kalvot Jukka Tenkamaan elävöittäminä puolestaan löytyvät esityksen striimitallenteesta Livestream.comissa: 
 
