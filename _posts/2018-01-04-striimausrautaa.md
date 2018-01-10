@@ -13,8 +13,6 @@ Oma koulutus- ja "ura"taustani on muuten kiteytetty [tänne](http://www.infocrea
 
 Ensimmäisessä kuvassa on kamera, tarkalleen ottaen [Canon XA-25](https://www.canon.fi/for_home/product_finder/camcorders/professional/xa25/). Se liittyy tietenkin kuvaan ja toki jonkin verran myös ääneen.
 
-- *Linkitän mainittujen tuotteiden mahdollisimman originaaliin ja mielellään suomenkieliseen sivuun, mutta mitään kaupallista sivujuonnetta markkinointi- tms. -mielessä ei ole eikä kukaan maksa mitään ainakaan tänne päin:-)*
-
 Aloitin pienimuotoiset videotallennuspalvelut pikku hiljaa 2010-2011 pienellä [Sanyo Xacti HD2000](http://www.photographyblog.com/pages/reviews/reviews_sanyo_xacti_hd2000.php) -videokameralla. Ehkä joskus 2011 lopulla somekaveri-valokuvaaja [**Peter Forsgård**](http://peterforsgard.squarespace.com/) tuli jossain vinkanneeksi Canonin uudesta semipro-kamera [Canon XA-10](https://www.canon.fi/for_home/product_finder/camcorders/professional/xa10/specification.aspx):stä, jonka sitten ostinkin saman tien.
 
 XA-10 osui tuolloin 2011/2012 kohdallani maaliin parissakin mielessä: sen hinta/ominaisuus-suhde oli erinomainen.
@@ -39,7 +37,7 @@ Läheskään aina tapahtumatilassa ei kuitenkaan ole omaa PA- eli äänentoistoj
 
 Kameran sisäinen mikrofoni, vaikka hyvä olisikin, mahdollistaa varsin harvoin laadukkaan äänen videoon. Mikrofoni pitää saada lähelle puhujaa/puhujia.
 
-- *Seuraavassa muutama laite/tuotelinkki sijaitsee sellaisten erikoisliikkeiden sivuilla, joista olen saanut hyvää ja asiantuntevaa palvelua*
+- *Seuraavassa laite/tuotelinkit johtavat sellaisten erikoisliikkeiden sivuille, joista olen saanut hyvää ja asiantuntevaa palvelua*
 
 Kameran jälkeen tulevassa kuvassa on muutama erityyppinen mikrofoni. Vasemman reunan kolme Infocrea-logollista laitetta ovat [Sennheiser AVX Combo 3](https://www.mikrofonikauppa.fi/sennheiser-avx-combo-3-digitaalinen-langaton-mikrofonijarjestelma.html) -setin langaton kapulamikrofoni, kaulusnappi- tai itse asiassa minkälaisen mikrofonin tahansa langaton lähetin ja pienin kikkare on vastaanotin, joka on kiinni joko kameran tai mikserin XLR-sisääntuloliitännässä.
 
@@ -57,12 +55,18 @@ Eli yo. kuvasetin seuraavassa kuvassa on kikkareita, jotka auttavat tyypillisest
 
 Oikeassa yläkulmassa on läppärin [VGA](https://fi.wikipedia.org/wiki/VGA)-liitännän kahdeksi jakava [Aten VS132A](https://www.data-systems.fi/tuotteet/tuote/aten-vga-jakaja-splitter-1-2-hd15u-2xhd15n-450mhz-jatkaa-65m-musta-16403) -"splitter" eli -jakaja. Esitysläppärin [HDMI]()-lähdön puolestaan saa jaetuksi tarvittaessa vaikka neljäksi sen edessä olevalla [Aten VS184A](https://www.data-systems.fi/tuotteet/tuote/aten-4-ports-hdmi-splitter-en-till-fyra-skarmar-uhd-1080p-3d-sv-5360574) -jakajalla.
 
-Kuvan vasemmassa reunassa on alhaalla pieni ja yksinkertainen HDMI-VGA-muunnin. Ja sen yläpuolella jo aika lailla monipuolisempi signaalinmuunnin eli [Datavideo DAC-70](http://kauppa.suomilammi.fi/product/3876/datavideo-dac-70-sdi-hdmi-vga-up-dn-cross-konvert). Se muuntaa ja skaalaa VGA-, HDMI- ja [SDI](https://en.wikipedia.org/wiki/Serial_digital_interface)-signaaleja... no, keskenään:-). DAC-70 voi esimerkiksi muuntaa esitysläppäriltä VGA-jakajan kautta tulevan signaalin SDI:ksi, joka voidaan viedä pitkälläkin kaapelilla tyypillisesti salin takaosassa sijaitsevalle mikserille - ja säätää mikserille arvoiltaan sopivaksi. 
+Kuvan vasemmassa reunassa on alhaalla pieni ja yksinkertainen HDMI-VGA-muunnin. Ja sen yläpuolella jo aika lailla monipuolisempi signaalinmuunnin eli [Datavideo DAC-70](http://kauppa.suomilammi.fi/product/3876/datavideo-dac-70-sdi-hdmi-vga-up-dn-cross-konvert). Se muuntaa ja skaalaa VGA-, HDMI- ja [SDI](https://en.wikipedia.org/wiki/Serial_digital_interface)-signaaleja... no, keskenään:-). DAC-70:llä voidaan esimerkiksi muuntaa esitysläppäriltä VGA-jakajan kautta tuleva signaali SDI:ksi, joka voidaan viedä pitkälläkin kaapelilla tyypillisesti salin takaosassa sijaitsevalle mikserille - ja säätää signaali mikserille arvoiltaan sopivaksi. 
 
-Tulkoon VGA:sta, HDMI:stä ja SDI:stä muuten todetuksi, että vain SDI-kaapeleiden liitännät ovat ns. kenttäkelpoisia. Sen lisäksi, että SDI voidaan viedä ilman kikkailua kaapelilla monta käytännön kuvaustilannetta ajatellen tarpeeksi pitkälle. 
+Tulkoon VGA:sta, HDMI:stä ja SDI:stä muuten todetuksi, että vain SDI-kaapeleiden liitännät ovat ns. kenttäkelpoisia. Sen lisäksi, että SDI-signaali voidaan viedä kaapelilla ilman lisälaitteita monta käytännön kuvaustilannetta ajatellen tarpeeksi pitkälle.
 
-- *Seuraavalla kerralla päästäänkin sitten käsiksi videomikseriin.* 
+Seuraavassa kuvassa on 4:n sisääntulon videomikseri [Sony MCX-500](http://kauppa.suomilammi.fi/product/6822/sony-mcx-500-4-ch-kuvamikseri-streamaukseen). Kuten linkin lisätiedot kertovat, videokuva voidaan viedä sille joko SDI- tai HDMI-liitännän/liitäntöjen kautta. Minkä jälkeen voidaan helposti valita, minkä kameran kuva lähtee "lähetykseen" (tai tallennukseen). Niinikään voidaan yhden kameran (tai screenin) kuva helposti pistää toisen kuvan sisälle ("[PiP](https://en.wikipedia.org/wiki/Picture-in-picture)" eli kuva kuvassa -toiminne) ja toteuttaa muitakin editointityyppisiä "kikkoja". 
+
+MCX-500:aan siirryin vasrsin pian ensimmäisen "rautamikserini" eli [Roland V-1HD](http://kauppa.suomilammi.fi/product/6013/roland-v-1hd-hdmi-hd-video-mikseri):n jälkeen - monipuolisempien ominaisuuksien lisäksi - muutamasta kenttäkelpoisuussyystä: SDI, tukevuus/kestävyys sekä helppo kiinnitettävyys kamerajalustaan.
+
+(Esimerkiksi läppäreillä toimivia monipuolisiakin mikseriohjelmistoja on toki saatavilla ja myös ilmaiseksi eli "[avoimena koodina](https://obsproject.com/)". Niitä en itse kuitenkaan pidä riittävän kenttäkelpoisina, johtuen siitä läppäristä rimpulaliitäntöineen.) 
+
+- *Seuraavalla kerralla päästäänkin sitten käsiksi **kolmanteen pointtiin** eli nettiyhteyteen.* 
 
 * * * 
 
-*Tämä "slowblogaus" on aloitettu 4.1.2018 illansuussa. Sitä päivitetään ehkä päivittäin pienissä erissä fiilisten ja mieleenjuolahdusten mukaan. Tuorein päivitys on tehty 9.1.2018 klo 20:25.*
+*Tämä "slowblogaus" on aloitettu 4.1.2018 illansuussa. Sitä päivitetään ehkä päivittäin pienissä erissä fiilisten ja mieleenjuolahdusten mukaan. Tuorein päivitys on tehty 10.1.2018 klo 17:55.*
