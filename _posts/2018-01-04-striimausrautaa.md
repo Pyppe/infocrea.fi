@@ -63,10 +63,36 @@ Seuraavassa kuvassa on 4:n sisääntulon videomikseri [Sony MCX-500](http://kaup
 
 MCX-500:aan siirryin vasrsin pian ensimmäisen "rautamikserini" eli [Roland V-1HD](http://kauppa.suomilammi.fi/product/6013/roland-v-1hd-hdmi-hd-video-mikseri):n jälkeen - monipuolisempien ominaisuuksien lisäksi - muutamasta kenttäkelpoisuussyystä: SDI, tukevuus/kestävyys sekä helppo kiinnitettävyys kamerajalustaan.
 
-(Esimerkiksi läppäreillä toimivia monipuolisiakin mikseriohjelmistoja on toki saatavilla ja myös ilmaiseksi eli "[avoimena koodina](https://obsproject.com/)". Niitä en itse kuitenkaan pidä riittävän kenttäkelpoisina, johtuen siitä läppäristä rimpulaliitäntöineen.) 
+(Esimerkiksi läppäreillä toimivia monipuolisiakin mikseriohjelmistoja on toki saatavilla ja myös ilmaiseksi eli "[avoimena koodina](https://obsproject.com/)". Niitä en itse kuitenkaan pidä riittävän kenttäkelpoisina, johtuen lähinnä siitä läppäristä rimpulaliitäntöineen.)
 
-- *Seuraavalla kerralla päästäänkin sitten käsiksi **kolmanteen pointtiin** eli nettiyhteyteen.* 
+Kuvaa ja ääntä on siis saatu jo mikserille asti ja yhdisteltäväksi nettiin lähetettäväksi striimiksi. Ennen striimiin lähtöä kuva kuitenkin tallentuu mikserin [SD-kortille](https://fi.wikipedia.org/wiki/Secure_Digital).
+
+Päästään siis kolmanteen pointtiin: **nettiyhteyteen**.
+
+Seuraavassa kuvassa ei kuitenkaan vielä ole nettiä, vaan pari livestriimaus[enkooderia](https://fi.wikipedia.org/wiki/Enkooderi) eli musta [Teradek VidiU Pro](https://teradek.com/collections/vidiu-family) ja punainen [Livestream Broadcaster Pro](https://livestream.com/broadcaster).
+
+Striimausenkooderi rankasti yksinkertaistettuna muokkaa ja pakkaa videon sellaiseksi, että striimipalvelin osaa sen ottaa vastaan ja jaella edelleen striimin katselijoiden päätelaitteiden ymmärtämässä muodossa.
+
+HD-laatuinen striimi eli ym. enkooderit tarvitsevat nettiin päin kaistaltaan riittävän ja asetusten puolesta kelvollisen yhteyden, mieluiten kiinteän eli tyypillisesti [RJ45](https://en.wikipedia.org/wiki/Modular_connector#8P8C) -liitännästä [ethernet](https://en.wikipedia.org/wiki/Ethernet)-kaapelilla tavoitettavan.
+
+Yllämainituille striimausenkoodereille kelvollista nettiyhteyttä on kuvattu [täällä](http://www.infocrea.fi/nettiyhteys/). Yleensä sellainen tapahtumia järjestävistä paikoista löytyy, vaikka joissain siitä joutuukin maksamaan hinnan jossa todellakin on katetta:-)
+
+Joskus kuitenkin käy niin, että tapahtumapaikalla ei kerta kaikkiaan ole minkäänlaista omaa yhteyttä. (Näin oli mm. pari vuotta sitten kahden it-ammattilaisen avioliittoon vihkimistilaisuudessa metsän keskellä kosken rannalla, mistä tilaisuus striimattiin muulle juhlaväelle. Kosken rannalle olivat hääparin ja vihkijän lisäksi vaeltaneet vain todistajat, striimaaja ja valokuvaaja.)
+
+Sellaisia - ja arkisempiakin - tilanteita varten on varalla mm. tuhti [4G](https://fi.wikipedia.org/wiki/4G)-antenni (josta osa näkyy seuraavan kuvan vasemmassa reunassa) ja parin operaattorin 4G-yhteydet. Ja koska 4G-yhteys kussakin paikassa hoituu tyypillisesti yhden tukiaseman kautta, niin sitä saattaa joskus olla kuormittamassa isokin joukko.
+
+Kuvassa keskellä on 4G-reititin, joka [CloudStreet Oy](http://cloudstreet.co/):n kehittämänä ratkaisuna takaa Soneran 4G-yhteydellä 5 Mbps (5 miljoona bittiä sekunnissa, siis) yhteyden nettiin päin. 
+
+CloudStreet tuli tutuksi huhtikuussa 2014, jolloin OP:n silloin remontin alla olleella pääkonttorilla pidetyn [tilaisuuden](https://livestream.com/ITstriimIT/MyData-2014-04-07) striimaus jouduttiin toteuttamaan 4G-yhteydellä. Vaikka testissä 4G-yhteys oli näyttänyt hyvinkin riittävältä, saliin kertyneet toistasataa nettiaktiivia kuitenkin tukkivat tukiaseman eikä striimi päässyt läpi lainkaan. 
+
+Onneksi CloudStreetin perustaja [**Mika Skarp**](https://www.linkedin.com/in/mika-skarp-2902021/) otti yhteyttä (ehkä jo "striimin" aikana), ja varsin pian oli Infocrea Oy:n striimausrautapaletissa mukana myös varmennettua 4G-uploadkaistaa.
+
+Kuvan oikeassa reunassa on lisänettiresurssina vielä Elisan 4G-SIMmillä varustettu "nettitikku" antennilisäliitännällä ja reititin, molemmat suomalaisen [TeleWellin](https://telewell.fi/fi/tuotteet/3g4glte-tuotteet) laitteita. 
+
+Kuvat ja striimin kolme tärkeää pointtia on nyt läpikäyty...
+
+- *Tämä hidastelublogaus ehkä jatkuu joskus, jos esim. alas tulee jonkun tekosyyn siihen antava kysymys tai kommentti. Kuviakin voi tuonne ylös siinä tapauksessa tulla lisää.* 
 
 * * * 
 
-*Tämä "slowblogaus" on aloitettu 4.1.2018 illansuussa. Sitä päivitetään ehkä päivittäin pienissä erissä fiilisten ja mieleenjuolahdusten mukaan. Tuorein päivitys on tehty 10.1.2018 klo 17:55.*
+*Tämä "slowblogaus" aloitettiin 4.1.2018 illansuussa. Sitä päivittiin pienissä erissä fiilisten ja mieleenjuolahdusten mukaan 11.1.2018 klo 19:55 asti (toisaiseksi).*
