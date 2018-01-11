@@ -91,8 +91,10 @@ Kuvan oikeassa reunassa on lisänettiresurssina vielä Elisan 4G-SIMmillä varus
 
 Kuvat ja striimin kolme tärkeää pointtia on nyt läpikäyty...
 
+(Paitsi että "bonuskuva" oli unohtua:-). Se on BSS Audion [AR-133](https://bssaudio.com/en/products/ar-133) -"[DI-box](https://en.wikipedia.org/wiki/DI_unit)", jota joutuu joskus käyttämään "huonon" sähköjärjestelmän äänikaapeliin aiheuttaman "verkkopörinän" poistamiseksi.)
+
 - *Tämä hidastelublogaus ehkä jatkuu joskus, jos esim. alas tulee jonkun tekosyyn siihen antava kysymys tai kommentti. Kuviakin voi tuonne ylös siinä tapauksessa tulla lisää.* 
 
 * * * 
 
-*Tämä "slowblogaus" aloitettiin 4.1.2018 illansuussa. Sitä päivittiin pienissä erissä fiilisten ja mieleenjuolahdusten mukaan 11.1.2018 klo 19:55 asti (toisaiseksi).*
+*Tämä "slowblogaus" aloitettiin 4.1.2018 illansuussa. Sitä päivittiin pienissä erissä fiilisten ja mieleenjuolahdusten mukaan 11.1.2018 klo 20:45 asti (toistaiseksi).*
