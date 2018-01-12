@@ -91,9 +91,9 @@ Kuvan oikeassa reunassa on lisänettiresurssina vielä Elisan 4G-SIMmillä varus
 
 Kuvat ja striimin kolme tärkeää pointtia on nyt läpikäyty...
 
-(Paitsi että "bonuskuva" oli unohtua:-). Se on BSS Audion [AR-133](https://bssaudio.com/en/products/ar-133) -"[DI-box](https://en.wikipedia.org/wiki/DI_unit)", jota joutuu joskus käyttämään "huonon" sähköjärjestelmän äänikaapeliin aiheuttaman "verkkopörinän" poistamiseksi.)
+(Paitsi että "bonuskuva" oli unohtua:-). Se on BSS Audion [AR-133](https://bssaudio.com/en/products/ar-133) -"[DI-box](https://en.wikipedia.org/wiki/DI_unit)", jota joutuu joskus käyttämään mm. maadoitukseltaan "huonon" sähköjärjestelmän **audio**kaapelissa kulkevaan **ääni**signaaliin aiheuttaman "verkkopörinän" poistamiseksi.)
 
-- *Tämä hidastelublogaus ehkä jatkuu joskus, jos esim. alas tulee jonkun tekosyyn siihen antava kysymys tai kommentti. Kuviakin voi tuonne ylös siinä tapauksessa tulla lisää.* 
+- *Tämä hidastelublogaus saattaa jatkuakin joskus, jos vaikkapa alas tulee jonkun tekosyyn siihen antava kysymys tai kommentti. Kuviakin voi tuonne ylös siinä tapauksessa tulla lisää.* 
 
 * * * 
 

@@ -9,15 +9,17 @@ title: "Tarjouspohja"
 Infocrea Oy:n striimauspalvelutarjouksen pohja/perusteet
 ========================================================
 
-Infocrea Oy (kiittää tarjouspyynnöstänne ja) tarjoaa tilaisuutenne striimaus/tallennuspalvelua “**avaimet käteen**”. 
+Infocrea Oy (kiittää mahdollisesta tarjouspyynnöstänne ja) tarjoaa tilaisuutenne striimaus/tallennuspalvelua “**avaimet käteen**”. 
 
 Oletuksena on kuitenkin, että mahdollisesti tarvittavat **kuvaus/tallennusluvat** asiakas on sopinut tai sopii itse tilaisuuden esiintyjien kanssa.
 
-**Striimausalustaksi** tarjoamme Infocrea Oy:n Livestream.com -kanavia [livestream.com/Infocrea-fi](http://livestream.com/Infocrea-fi) tai [livestream.com/ITstriimIT](http://livestream.com/ITstriimIT) ja salasanalla suojattua striimiä tarvittaessa Infocrea Oy:n luomaa kanavaa [Ustream.tv](http://Ustream.tv) -palvelussa.
+**Striimausalustaksi** tarjoamme Infocrea Oy:n Livestream.com -kanavia [livestream.com/Infocrea-fi](http://livestream.com/Infocrea-fi) ja [livestream.com/ITstriimIT](http://livestream.com/ITstriimIT) tai Infocrea Oy:n luomaa kanavaa [Ustream.tv](http://Ustream.tv) -palveluun.
 
 Ym. Livestream-kanavilta löytyvät tapahtumatallenteet kertovat monista uskollisista asiakkuuksista, mukana mm. ministeriöitä ym. julkishallinnollisia organisaatioita. 
 
-Em. palveluiden livelähetys kuten myös tallennesivu ja/tai erilliset tallenneklipit ovat helposti ns. [upotettavissa (embed)](https://help.livestream.com/hc/en-us/articles/219100767-How-Do-I-Embed-My-Event-) esimerkiksi asiakkaan omille nettisivuille. Livestream.com -striimi on mahdollista samanaikaisesti ohjata myös esim. halutulle YouTube- tai Facebook -sivulle  Livestreamin [Simulcast](https://livestream.com/blog/stream-live-multiple-destinations-simulcast)-ominaisuutta hyödyntäen.
+Em. palveluiden livelähetys kuten myös tallennesivu ja/tai erilliset tallenneklipit ovat helposti ns. [upotettavissa (embed)](https://help.livestream.com/hc/en-us/articles/219100767-How-Do-I-Embed-My-Event-) esimerkiksi asiakkaan omille nettisivuille.
+
+*Infocrea-fi* -kanavan striimi on mahdollista samanaikaisesti ohjata myös esim. halutulle YouTube- tai Facebook -sivulle  Livestreamin [Simulcast](https://livestream.com/blog/stream-live-multiple-destinations-simulcast)-ominaisuutta hyödyntäen. Se on myös mm. suojattavissa salasanalla, samoin kuin Ustream.tv-palveluun luodut kanavat. 
 
 Myös asiakkaan oma striimausalusta tai -kanava on mahdollinen yksityiskohdista (mm. käyttäjätunnukset yms.) erikseen sopien.
 
