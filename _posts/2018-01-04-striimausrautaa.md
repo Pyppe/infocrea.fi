@@ -71,6 +71,10 @@ Päästään siis kolmanteen pointtiin: **nettiyhteyteen**.
 
 Seuraavassa kuvassa ei kuitenkaan vielä ole nettiä, vaan pari livestriimaus[enkooderia](https://fi.wikipedia.org/wiki/Enkooderi) eli musta [Teradek VidiU Pro](https://teradek.com/collections/vidiu-family) ja punainen [Livestream Broadcaster Pro](https://livestream.com/broadcaster).
 
+Livestream Broadcasterilla striimaus onnistuu vain Livesream.comiin, ja sinne striimaukseen se tarjoaa joitain lisätoiminteita verrattuna Teradekin laitteeseen, josta siitäkin löytyy esiasetukset mm. Livestream.com-striimauksiin.
+
+Tereadek VidiU Prosta löytyy esiasetukset muutamaan muuhunkin paljon käytettyyn striimausalustapalveluun (kuten Ustream.tv) ja sillä striimaus onnistuu itse asiassa minne vain, jonne se onnistuu striimausprotokolla [RTMP](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol):llä (real time messaging protocol).
+
 Striimausenkooderi rankasti yksinkertaistettuna muokkaa ja pakkaa videon sellaiseksi, että striimipalvelin osaa sen ottaa vastaan ja jaella edelleen striimin katselijoiden päätelaitteiden ymmärtämässä muodossa.
 
 HD-laatuinen striimi eli ym. enkooderit tarvitsevat nettiin päin kaistaltaan riittävän ja asetusten puolesta kelvollisen yhteyden, mieluiten kiinteän eli tyypillisesti [RJ45](https://en.wikipedia.org/wiki/Modular_connector#8P8C) -liitännästä [ethernet](https://en.wikipedia.org/wiki/Ethernet)-kaapelilla tavoitettavan.
@@ -91,7 +95,7 @@ Kuvan oikeassa reunassa on lisänettiresurssina vielä Elisan 4G-SIMmillä varus
 
 Kuvat ja striimin kolme tärkeää pointtia on nyt läpikäyty...
 
-(Paitsi että "bonuskuva" oli unohtua:-). Se on BSS Audion [AR-133](https://bssaudio.com/en/products/ar-133) -"[DI-box](https://en.wikipedia.org/wiki/DI_unit)", jota joutuu joskus käyttämään mm. maadoitukseltaan "huonon" sähköjärjestelmän **audio**kaapelissa kulkevaan **ääni**signaaliin aiheuttaman "verkkopörinän" poistamiseksi.)
+(Paitsi että "bonuskuva" oli unohtua:-). Se on BSS Audion [AR-133](https://bssaudio.com/en/products/ar-133) -"[DI-box](https://en.wikipedia.org/wiki/DI_unit)", jota joutuu joskus käyttämään mm. maadoitukseltaan "huonon" sähköjärjestelmän **audio**kaapelissa kulkevaan **ääni**signaaliin [indusoiman](https://fi.wikipedia.org/wiki/S%C3%A4hk%C3%B6magneettinen_induktio) "verkkopörinän" poistamiseksi.)
 
 - *Tämä hidastelublogaus saattaa jatkuakin joskus, jos vaikkapa alas tulee jonkun tekosyyn siihen antava kysymys tai kommentti. Kuviakin voi tuonne ylös siinä tapauksessa tulla lisää.* 
 
