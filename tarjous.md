@@ -44,6 +44,8 @@ Tilaisuutenne tapauksessa **laskutettavia tunteja** kertyisi seuraavasti:<br>
 -- striimisivun muunto tallennesivuksi:  h<br>
 eli laskutus olisi yhteensä  h * 78 €/h =  € (+alv  €).
 
+**Viikonvaihteet/pyhät**: Viikonvaihteisin lauantai-tunneissa on +50 % ja sunnuntai- & arkipyhätunneissa +100 % korotus (neuvoteltavissa).
+
 Tämä tarjous on voimassa *pp.kk.vvvv* asti. 
 
 **Peruutusehto:** Tarjouksen mahdollisen hyväksymisen jälkeen tilaus voidaan perua tai siirtää samanhintaisena molemmille osapuolille sopivaan aikaan *p2.k2.vvvv (=viikko ennen sovittua striimausta)* saakka, minkä jälkeen peruttavasta tilauksesta laskutus on 30 % sovitusta tarjoushinnasta mutta vähintään 100 euroa. 
