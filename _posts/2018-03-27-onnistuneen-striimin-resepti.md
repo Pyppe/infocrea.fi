@@ -43,27 +43,25 @@ Oma mikserini on ns. "rautamikseri" [Sony MCX-500](https://pro.sony/en_EU/produc
 
 Ylläolevassa kuvassa näkyvät taustalla ja myös kontrollinäytöllä **"esityskalvot"**. Niiden eli screenikuvan saamiseksi mikserille ns. "piuhaa pitkin" (eikä esimerkiksi kameralla kuvaamalla) tarvitaan joskus teknisiä kikkareita "splittaamiseen ja skaalaamiseen": 
 
-{% flickr_embed https://www.flickr.com/photos/jarmolahti/41010405162/ %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/26422966117/ %}
 
-Kuvassa vasemmalta on VGA-liitännän jakaja, HDMI-jakaja ja [Datavideo DAC-70](http://www.datavideo.com/product/DAC-70) "up-down-cross -konvertteri" [VGA](https://fi.wikipedia.org/wiki/VGA)-, [HDMI](https://fi.wikipedia.org/wiki/HDMI)- ja [SDI](https://en.wikipedia.org/wiki/Serial_digital_interface)-videoliitäntöjen välisiä muunnoksia varten. Kuvassa on myös yksinkertainen HDMI-to-VGA-sovitin sekä pari HDMI-jatkajaa.
+Kuvassa vasemmalta on [Aten VS184A](http://www.aten.com/global/en/products/professional-audiovideo/video-splitters/vs184a/#.Ws-MsNNuZQI) -HDMI-liitännän jakaja, sen vieressä punainen HDMI/SDI-"cross-konvertteri" [Decimator MD-HX](http://decimator.com/Products/MiniConverters/MD-HX/MD-HX.html), seuraavaksi [Aten VS132A](http://www.aten.com/global/en/products/professional-audiovideo/video-splitters/vs132a/#.Ws-N3tNuZQI) -VGA-jakaja (VGA:kin tulee vastaan silloin tällöin) ja oikealla VGA:nkin hanskaava [Datavideo DAC-70](http://www.datavideo.com/product/DAC-70)-"VGA/HDMI/SDI-up-down-cross -konvertteri". Niiden lisäksi löytyy nippu erilaisia yksinkertaisia muuntimia [VGA](https://fi.wikipedia.org/wiki/VGA)-, [HDMI](https://fi.wikipedia.org/wiki/HDMI)-, [SDI](https://en.wikipedia.org/wiki/Serial_digital_interface)- ja [DisplayPort](https://fi.wikipedia.org/wiki/DisplayPort) -videoliitäntöjen välisiin sovituksiin. 
 
 Kuvat ja äänet on siis nyt saatu mikserille asti. Ja itse asiassa tallentuvat omissa striimicaseissani tässä vaiheessa myös mikserissä olevalle SD-kortille.
 
-Seuraavassa kuvassa olevilla purkeilla hoituu **varsinainen striimaus**:
+Seuraavassa kuvassa olevilla purkeilla hoituu miksatun videokuvan **varsinainen striimaus**:
 
-{% flickr_embed https://www.flickr.com/photos/jarmolahti/41010404412/ %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/39604451350/ %}
 
-Vasemmalla omat tämänhetkiset enkooderini eli mikseristä lähtevän videokuvan striimauspalvelimen ymmärtämään muotoon koodaavat [Teradek VidiU Pro](https://teradek.com/collections/vidiu-family) ja sen vieressä [Livestream Broadcaster Pro](https://livestream.com/broadcaster).
+Ylläolevassa kuvassa ovat tämänhetkiset enkooderini eli mikseristä lähtevän videokuvan striimauspalvelimen ymmärtämään muotoon koodaavat [Livestream Broadcaster Pro](https://livestream.com/broadcaster) (vas.), [Teradek VidiU Pro](https://teradek.com/collections/vidiu-family) ja [LiveU Solo](https://gosolo.tv/).
 
-Mutta mutta: että enkooderi voisi lähettää kuvaa jossain ihan muualla olevalle striimauspalvelimelle missä tahansa maapallolla olevan yleisön katsottavaksi, tarvitaan **nettiyhteys**; ylläolevan kuvan enkooderit tarvitsevat [tällaista nettiyhteyttä](http://www.infocrea.fi/nettiyhteys/). Yleensä sellainen ainakin pienellä etsimisellä tapahtumapaikoista löytyykin.
+Mutta mutta: että enkooderi voisi lähettää kuvaa jossain ihan muualla olevalle striimauspalvelimelle missä tahansa maapallolla olevan yleisön katsottavaksi, tarvitaan **nettiyhteys**; ylläolevan kuvan Livestream- ja Teradek-enkooderit tarvitsevat [tällaista nettiyhteyttä](http://www.infocrea.fi/nettiyhteys/). Yleensä sellainen ainakin pienellä etsimisellä tapahtumapaikoista löytyykin.
 
-Mutta ei aina. Silloin nettiyhteys täytyy rakentaa itse. Yleensä se onnistuu mobiili- eli 3G- ja 4G-yhteyksillä. Mutta näiden varanettienkin hyödyntämiseen on syytä löytyä hieman ns. kättäpidempää: 
+Mutta ei aina. Silloin toimiva nettiyhteys täytyy rakentaa itse. Yleensä se onnistuu mobiili- eli 3G- ja 4G-yhteyksiä käyttämällä. Mutta näiden varanettienkin hyödyntämiseen on syytä löytyä hieman ns. kättäpidempää: 
 
-{% flickr_embed https://www.flickr.com/photos/jarmolahti/41010405232/ %}
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/26422966167/ %}
 
-Ylläolevassa kuvassa taustalla on 4G-signaalia huomattavasti vahvistava putkenmuotoinen antenni (toinenkin löytyy). Vasemmassa reunassa on suomalaisen hi tech -startup [CloudStreet Oy](https://cloudstreet.co/):n 4G-modeemi/reititin, jolla voi Soneran 4G-verkosto riittävässä kentässä varata 5 Mbps upload-kaistan kuormitetultakin tukiasemalta. Keskellä on toisen suomalaisen eli [TeleWell Oy](https://telewell.fi/fi):n reititin 4G-mokkulalla (ja Elisan 4G-SIMmillä), jonka tehoa voi myös lisätä kunnon antennilla.
-
-Vara- eli mobiilinettien entistäkin varmempaa hyödyntämistä varten ovat [testailut](https://www.linkedin.com/feed/update/urn:li:activity:6381146852762406913) käynnissä parasta aikaa. 
+Ylläolevassa kuvassa taustalla on 4G-signaalia huomattavasti vahvistava putkenmuotoinen antenni (toinenkin löytyy). Vasemmassa reunassa etualalla on kaksi suomalaisen TeleWell Oy:n 4G-"mokkulaa", joissa on liitännät lisäantennille; oikeanpuoleinen niistä on uusi nopea (teoriassa 300 Mbps nopeuteen pystyvä) [CAT 6-luokan LTE/4G-modeemi](https://telewell.fi/fi/tuote/internet-kotona/3g4glte-tuotteet/TW_LTE_CAT6-11/lte-usb-sovitin-antennit). Keskellä on jo esitelty LiveU Solo, jonka enkoodaustakin tärkeämpi ominaisuus on kyky yhdistää ("bondata" yksi kiinteä, yksi wlan- ja kaksi USB-liitäntöihin kytkettävää 4G-yhteyttä striimauksen kannalta yhdeksi luotettavaksi yhteydeksi israelilaisen yrityksen kehittämällä [LRT](https://www.liveu.tv/lrt) (Reliable Transport Protocol) -protokollalla. Oikeassa reunassa on suomalaisen hi tech -startup [CloudStreet Oy](https://cloudstreet.co/):n 4G-modeemi/reititin, jolla voi Soneran 4G-verkosta riittävässä kentässä varata 5 Mbps upload-kaistan kuormitetultakin tukiasemalta. 
 
 Alla vielä tuore kuva starttivalmiista striimikokoonpanosta jalustoineen Espoon Dipolissa, jossa oli käytettävissä hyvä kiinteä nettiyhteys. Tilassa ei kuitenkaan ollut äänentoistojärjestelmää, joten käytettiin ym. Sennheiserin AVX-mikrofoneja, että tämän tilan lisäksi etätiloissa Tampereella ja Turussa kuultiin selvästi alustukset ja ryhmätyöohjeet. 
 
