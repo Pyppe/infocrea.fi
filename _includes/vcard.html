@@ -1,9 +1,12 @@
 <ul class="vcard">
+  <li class="email">
+    <a href="mailto:{{ include.email }}">{{ include.email }}</a>
+  </li>
+  <li class="phone">
+    <a href="tel:+358505002796">+358 50 500 2796</a>
+  </li>
+  <h4>Postitusosoite | Mailing address</h4>
   <li class="fn">{{ include.fn }}</li>
   <li class="street-address">Neitojenranta 1 A 20</li>
   <li class="locality"><span class="zip">00810</span> <span class="city">Helsinki</span></li>
-  <li><span style="color: #999999">(vain postiosoite</span></li>
-  <li><span style="color: #999999">only for mail)</span></li>
-  <li class="email"><a href="mailto:{{ include.email }}">{{ include.email }}</a></li>
-  <li class="phone"><a href="tel:+358505002796">+358 50 500 2796</a></li>
 </ul>

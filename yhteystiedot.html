@@ -6,14 +6,13 @@ title: "Yhteystiedot"
 js: feedback.js
 ---
 
-<div class="row">
+<div id="contact" class="row">
   <div class="columns medium-5 large-6">
-    <h3>Osoite | Address</h3>
     {% include vcard.html fn="Infocrea Oy" email="info@infocrea.fi" %}
   </div>
   <div class="columns medium-7 large-6">
-    <h3>Laskutus | Invoicing</h3>
     <ul class="vcard">
+      <li><h3>Laskutus | Invoicing</h3></li>
       <li><b>Y-tunnus</b></li>
       <li class="uid">0913338-7</li>
       <li><em>(katso verkkolaskutustiedot <a href="http://verkkolasku.tieke.fi/CompanyDetails.aspx?companyID=83997">Tieken palvelusta</a>)</em></li>
@@ -27,8 +26,7 @@ js: feedback.js
   </div>
 </div>
 
-
+{%comment%}
 <h3>Lähetä viesti | Send message</h3>
 {% include palauteForm.html %}
-
-
+{%endcomment%}
