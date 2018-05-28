@@ -30,4 +30,4 @@ Jos siis haluat kokea SomeTime2018:n livenä, niin oikea paikka siihen on Viking
 
 Striimisivulle [livestream.com/Infocrea-fi/sometime2018](https://livestream.com/Infocrea-fi/sometime2018) tulee todennäköisesti “vain” tallenteita aikaisintaan jossain vaiheessa sunnuntaita 17.6.2018. No, ehkä joku kännykkästriimi ennen varsinaista ohjelmaa (ja myös sen jälkeen).
 
-Mutta siis: SomeTime ei jää itseltäni tälläkään kertaa väliin. Ja ainakin striimaustakin ainakin kokeillaan:-) 
+Mutta siis: SomeTime ei jää itseltäni tälläkään kertaa väliin. Ja striimaustakin ainakin kokeillaan:-) 
