@@ -26,3 +26,5 @@ Näin Livestream-tuki kertoo toimivan striimausyhteyden porteista:<br>
 Tarvittaessa voidaan toimittaa Broadcasterin tai VidiU:n [MAC-osoitteet](http://fi.wikipedia.org/wiki/MAC-osoite) (wired ja wireless). 
 
 Jos tapahtumatilassa (tai melko lähellä) on käytettävissä riittävän hyvä (3G/4G/LTE-)mobiiliyhteys, myös sitä on mahdollista käyttää tarvittaessa lisäantennilla vahvistettuna jopa HD-tasoiseen striimaukseen. Soneran 4G-yhteyttä käytettäessä voidaan myös taata HD-tasoiseen striimiin riittävä upload-kaista [CloudStreet Oy](http://www.cloudstreet.co/):n teknologialla 150 euron (+alv) (á max 6 h striimi) omakustanteiseen lisähintaan. 
+
+Keväällä 2018 nettiyhteys- ja enkoodaustekniikkaa on vahvistettu [LiveU Solo](https://gosolo.tv/)lla, jonka avulla voidaan yhdistää ("bondata") kaikkiaan neljä erilaista nettiyhteyttä yhdeksi. Paikan omien nettiyhteyksien varmistamiseen Infocrea Oy:n yhteyssalkusta löytyy ym. Telia-pohjaisen CloudStreet-yhteyden lisäksi nopeat (CAT6) lisäantennelliset Telian, Elisan ja DNA:n modeemit.
