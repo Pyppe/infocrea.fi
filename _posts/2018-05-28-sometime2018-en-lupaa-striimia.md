@@ -14,7 +14,7 @@ Itse olen jokaisesta SomeTimesta aikaansaanut ainakin jotain videota ja monesta 
 
 Jo Hämeenlinnan striimi 2015 oli haasteellinen: Hämeen linnassa ei ollut käytettävissä kiinteää eikä itse asiassa muutakaan nettiyhteyttä. Ja mobiiliverkoillekin linnan paksut kiviseinät asettivat haasteita.
 
-[CloudStreet Oy]():n sponssaamalla lisäantennilla ja upload-kaistan varausjärjestelmällä striimi kuitenkin saatiin [kulkemaan](https://livestream.com/ITstriimIT/sometime2015).
+[CloudStreet Oy](https://cloudstreet.co/):n sponssaamalla lisäantennilla ja upload-kaistan varausjärjestelmällä striimi kuitenkin saatiin [kulkemaan](https://livestream.com/ITstriimIT/sometime2015).
 
 Striimausta ajatellen #SomeTime2018 on kuitenkin todella kova haaste.
 
