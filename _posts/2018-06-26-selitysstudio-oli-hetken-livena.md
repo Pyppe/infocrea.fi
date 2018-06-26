@@ -12,4 +12,4 @@ date: 2018-06-26T18:25:55+0300
 
 {% livestream https://livestream.com/accounts/190565/events/8262160/videos/176879504/player %}
 
-Parin päivän takaista blogahdusta kirjoitellessani hähmäisesti ehkä kuvittelin aloittavani jopa *lvlog* (live video blog) -sarjan. No enpä ajattele enää:-). Live(i)llä oli itseni lisäksi onneksi ehkä vain 1-2 katsojaa. 
+Parin päivän takaista blogahdusta kirjoitellessani hähmäisesti ehkä kuvittelin aloittavani jopa *l[vlog](https://fi.wikipedia.org/wiki/Videoblogi)* (live video blog) -sarjan. No enpä ajattele enää:-). Live(i)llä oli itseni lisäksi onneksi ehkä vain 1-2 katsojaa. 
