@@ -6,7 +6,7 @@ date: 2018-07-01T14:28:44+0300
 
 Sunnuntaikävelyllä tuli mieleen muutakin kuin käydä Mustikkamaan [Café Torpedossa](https://www.facebook.com/photo.php?fbid=10155600173497963) voisilmäpullakahveilla: kokeilla tarjota pääkaupunkiseudulla toimiville yrityksille ja muille organisaatioille tai vaikka yksityishenkilöillekin #livElokuu:ta: (noin/max) tunnin livestriimi [tänne](https://livestream.com/Infocrea-fi/liv-E-lokuu) hinnalla, joka on #sikahalpa:<!--more--> 
 
-Vain 300 € (alv 0); sillä hinnalla:
+Vain 200 € (alv 0); sillä hinnalla:
  - striimin saa lisäksi potentiaalisen livElokuu-livettäjän mahdolliselle omalle YouTube Live -kanavalle tai Facebook-sivulle
  - toteutus on 2-3 kamerakuvan ja mahdollisen "kalvoshown" miksaus
  - saa striimiin/tallenteeseen koko sen ajaksi tai etukäteen sovittaviin kohtiin logonsa (neliömallinen)
