@@ -2,10 +2,10 @@
 <div id="disqus_thread"></div>
 <script type="text/javascript">
   var prodHost = 'www.infocrea.fi';
-  if (infocrea.showComments) {
+  if (infocrea.showComments) {
     var disqus_shortname = infocrea.disqus.shortname;
     var disqus_identifier = '{{ page.id | replace: '/blog/', '/blogi/' }}';
-    var disqus_title = '{{ page.title | replace: "'", "\\'" }}';
+    var disqus_title = '{{ page.title | replace: "'", "\\'" }}';
     var disqus_url = infocrea.disqus.url;
     var disqus_config = function () {
       this.language = 'fi';
@@ -22,4 +22,4 @@
     $('#disqus_thread').html('<div data-alert class="alert-box info">Näytetään vain live-sivustolla.<a href="#" class="close">&times;</a></div>');
   }
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
