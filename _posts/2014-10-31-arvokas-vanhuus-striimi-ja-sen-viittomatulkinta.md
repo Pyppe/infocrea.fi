@@ -8,7 +8,7 @@ date: 2014-10-31T22:36:39+0200
 
 Arvokas vanhuus - Moninaisuus näkyväksi:
 
-{% livestream http://new.livestream.com/accounts/190565/events/3427667/player %}
+{% livestream https://new.livestream.com/accounts/190565/events/3427667/player %}
 (Ylläolevan "upotuksen" tallennevideot löytyvät "kuvateksteineen" varsinaiselta [striimisivulta](https://new.livestream.com/Infocrea-fi/arvokas-vanhuus).)
 
 *Edit 5.11.2014 klo 14:*

@@ -6,7 +6,7 @@ date: 2016-02-19T12:47:52+0200
 
 Striimasin eilen Viestintäviraston Radiotaajuuspäivä 2016:n. Alla striimitallenteet koottuna Livestream.comin tarjoamaan helppoon kokonaisen eventin "upotukseen": 
 
-{% livestream http://new.livestream.com/accounts/2914987/events/4593493/player %}<!--more-->
+{% livestream https://new.livestream.com/accounts/2914987/events/4593493/player %}<!--more-->
 
 Viestintäviraston koostesivu tapahtumasta on [täällä](https://www.viestintavirasto.fi/radiotaajuuspaiva2016/index/ohjelmajaesitykset.html).
 

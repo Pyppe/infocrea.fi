@@ -36,5 +36,5 @@ Ihan kuvaamatta en kuitenkaan malttanut olla. Näpsin SGS5-kännykällä esityst
 
 Seminaarissa myös nimettiin pitkästä aikaa (olisiko ollut viisi vuotta edellisestä) vuoden IT-standardoijaksi Jyrki Lahnalahti. Alla hänen tuorein itse striimaamani esityksensä "Kansainväliset palveluiden johtamisen hyvät käytännöt. Kokemukset ja soveltaminen Suomessa" 22.10.2014 pidetyssä [IT:n hallinnan ja johtamisen hyvät käytännöt -seminaarissa](https://new.livestream.com/ITstriimIT/SFS-IT-hallintamallit):
 
-{% livestream http://new.livestream.com/accounts/2914987/events/3470025/videos/65717806/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/3470025/videos/65717806/player %}
 

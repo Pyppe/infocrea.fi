@@ -26,4 +26,4 @@ Tapahtunut "hikka" oli kuitenkin niin harvinainen, että **Tee Se Itse -Striimau
 
 **Infocrea Oy:n ja myös Livestream.comin puolesta kuitenkin pahoittelut niin Viestintä-Pirittalle kuin myös niille, jotka olivat valmistautuneet seuraamaan Bottan tilaisuutta livenä.**
 
-{% livestream http://new.livestream.com/accounts/2914987/events/4576979/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/4576979/player %}

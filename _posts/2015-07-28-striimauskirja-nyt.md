@@ -8,7 +8,7 @@ Tai ei siis nyt "Nyt", vaan joskus loppuvuodesta. Ellei vasta vuodenvaihteen tie
 
 Tuli nimittäin keväällä aloitetuksi e-kirjaprojekti, joka heinäkuun loppupuolella tuotti mm. tällaisen Livestream.com -striimi- ja tallennezydeemin:
 
-{% livestream http://new.livestream.com/accounts/190565/events/4221401/player %}
+{% livestream https://new.livestream.com/accounts/190565/events/4221401/player %}
 <!--more-->
 Tuohon yo. upotukseen tulee tämän blogauksen kirjoitushetkellä vain otsikon kirjaprojektin [lanseeraussivun](http://striimauskirja.launchrock.com/)... no, jonkinlainen mainosvideo (että yo. upotukseen tulisi edes jotain varsinaiselta [Livestream-sivulta](https://livestream.com/Infocrea-fi/Striimauskirja):-). 
 

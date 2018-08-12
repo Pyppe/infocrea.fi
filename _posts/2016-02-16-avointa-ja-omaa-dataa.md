@@ -8,7 +8,7 @@ Tiistaina 16.2.2016 tuli striimatuksi 31.8-2.9. Helsingissä järjestettävän l
 
 Alla lanseeraustilaisuuden striimitallenteet videovalikkona, joka löytyy myös [MyData 2016 -sivustolta](http://mydata2016.org/launch-event): 
 
-{% livestream http://new.livestream.com/accounts/2914987/events/4801089/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/4801089/player %}
 
 Striimin ja sen tallenteiden audio ei ole kovinkaan laadukas. Vaikka vielä parikymmentä minuuttia ennen liveä paikan ([Aalto Media Factory](http://mediafactory.aalto.fi/)) saliäänijärjestelmästä kameran XLR:ään saatu ns. summaääni oli todettu olevan ok, niin liven alkaessa ääntä ei tullutkaan. Muuta ei ollut tehtävissä kuin kääntää ääni tulemaan kameran omalla mikrofonilla kaikuineen päivineen.
 

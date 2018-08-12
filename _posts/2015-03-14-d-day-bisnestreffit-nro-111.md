@@ -8,7 +8,7 @@ Perjantai 13. päivä maaliskuuta alkoi 111. [Bisnestreffien](http://tieke.fi/di
 
 Lyhyestä virsi kaunis eli tunnin "D-Day. Digistrategia" -Bisnestreffit nro. 111 striimitallenteesta eroteltujen klippien videovalikkona:
 
-{% livestream http://new.livestream.com/accounts/2914987/events/3780514/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/3780514/player %}
 
 Ihan kaikki eivät satasella ole digitalisoimassa. Alla SoundCloud-palveluun ääniupotukseksi erotettu keskusteluosuuden ensimmäinen kysymys:-)
 

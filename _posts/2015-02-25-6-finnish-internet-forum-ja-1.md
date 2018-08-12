@@ -6,7 +6,7 @@ date: 2015-02-25T21:10:26+0200
 
 Tänään videosuoratoistin eli -striimasin [kuudennen Finnish Internet Forum -tapahtuman](http://internetforum.fi/fif2015) Eduskunnan Pikkuparlamentin audiotoriosta:<!--more-->
 
-{% livestream http://new.livestream.com/accounts/2914987/events/3774950/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/3774950/player %}
 
 Varsinainen striimisivu oli muuten linkattu eilen [Eduskunnan tiedotteeseen](http://web.eduskunta.fi/Resource.phx/eduskunta/ajankohtaista/tiedotearkisto.htx?templateId=1.htx&id=7286&cache=no):-)
 

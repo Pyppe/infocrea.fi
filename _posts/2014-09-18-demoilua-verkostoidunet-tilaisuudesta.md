@@ -9,7 +9,7 @@ Oman blogi- tai itse asiassa minkä tahansa nettisivun muuttaminen "nettitelevis
 
 Sijoitetaan vain striimipalvelun antama ns. embed-koodi sivun html:n sekaan haluttuun paikkaan, tässä tapauksessa seuraavan pisteen jälkeen.
 
-{% livestream http://new.livestream.com/accounts/190565/events/3350989/player %}
+{% livestream https://new.livestream.com/accounts/190565/events/3350989/player %}
 
 Tuossa se embed-koodi - tai siis nettitv-ruutu - on yläpuolella.
 

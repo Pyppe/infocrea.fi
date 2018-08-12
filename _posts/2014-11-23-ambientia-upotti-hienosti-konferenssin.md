@@ -16,4 +16,4 @@ Jos muuten upottaa koko striimitapahtuman (koodi löytyy striimisivun ylimmän o
 
 Allaolevasta arkistoupotuksesta voi kokeilla "Watch again" ja sitten thumbnail-kuvien selailua niiden molemmin puolin olevien nuolien avulla. Halutun videon voi käynnistää kuvan keskellä olevasta nuolesta: 
 
-{% livestream http://new.livestream.com/accounts/2914987/events/3466541/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/3466541/player %}

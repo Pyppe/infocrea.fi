@@ -18,6 +18,6 @@ Muutamia huomioita noista kokeiluista on ehkä kootuimmin alle upotetussa Facebo
 
 Testien lopuksi striimasin sitten samasta parvekemaisemasta pätkän myös Canon XA25:llä eli oikealla videokameralla:
 
-{% livestream http://new.livestream.com/accounts/2914987/events/5532632/videos/125068515/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/5532632/videos/125068515/player %}
 
 [LinkedIn-blogaukseni](https://www.linkedin.com/pulse/laadukkaan-livestriimin-kolme-pointtia-jarmo-lahti) parisen kuukautta sitten on vielä aika validia asiaa:-). Ja kunnon laitteilla oikealle livestriimialustalle toteuteun striimin saa näkymään suorana myös Facebookissa. 

@@ -8,8 +8,8 @@ Tässä blogauksessa kokeillaan kahden samanaikaisen striimin upotusta yhdelle s
 
 Varsinainen striimi:
 
-{% livestream http://new.livestream.com/accounts/190565/events/3427667/player %}
+{% livestream https://new.livestream.com/accounts/190565/events/3427667/player %}
 
 Viittomastriimi:
 
-{%  livestream http://new.livestream.com/accounts/2914987/events/3541763/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/3541763/player %}

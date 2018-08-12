@@ -6,7 +6,7 @@ date: 2015-09-13T19:22:51+0300
 
 Lauantaina 12.9.2015 tuli striimatuksi Kansalaistorilla Kiasman ja Musiikkitalon välissä pidetty [kansalaispiknik](https://www.facebook.com/events/814856351945912/)-tilaisuus. Alla Livestream.comin tarjoama videovalikko striimin tallenteista. Ja sen alla lyhyt kuvaus striimauskeikasta.
 
-{% livestream http://new.livestream.com/accounts/190565/events/4340292/player %}<!--more-->
+{% livestream https://new.livestream.com/accounts/190565/events/4340292/player %}<!--more-->
 Facebookin Striimaus-ryhmään kirjoitin allaolevan kuvauksen:
 
 Striimasin eilen pro bono (kysyjä oli kaveri, jonka kautta on tullut laskutettaviakin keikkoja:-) Kansalaistorin kansalaispiknikin.

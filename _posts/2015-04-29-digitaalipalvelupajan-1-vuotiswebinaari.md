@@ -8,4 +8,4 @@ Infocrea on striimannut useita Digilen seminaareja, joissa on paikan päällä o
 
 Tällä viikolla oli tilanne toinen: ["palvelupaja"](http://www.digile.fi/palvelut/forge_fi) Forgen [1-vuotisseminaari](http://www.digile.fi/event/62) oli itse asiassa webinaari, jossa paikan päällä Digilen toimiston showroomissa oli vain vajaa parikymmentä kuulijaa (joista suuri osa puhujia) ja varsinainen yleisö oli... kuka missäkin netin varrella.<!--more-->
 
-{% livestream http://new.livestream.com/accounts/2914987/events/3975068/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/3975068/player %}

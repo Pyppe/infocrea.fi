@@ -14,7 +14,7 @@ Ja pienen kahvi- (ja striimivirittelypaussin) jälkeen ehdottomasti siirtyä kel
 
 *Alla Livestream.comin tarjoama ns. upotus (embed), joka muuttuu eläväksi striimin alkaessa:*
 
-{% livestream http://new.livestream.com/accounts/190565/events/4221401/player %}
+{% livestream https://new.livestream.com/accounts/190565/events/4221401/player %}
 
 **Striimauskirja?** 
 

@@ -8,6 +8,6 @@ Infocrea Oy striimasi kaksi vaalipaneelia: Suomi-Venäjä-Seuran ["Suomen ja Ven
 
 Pitemmittä puheitta:
 
-{% livestream http://new.livestream.com/accounts/190565/events/3925295/player %}
+{% livestream https://new.livestream.com/accounts/190565/events/3925295/player %}
 
-{% livestream http://new.livestream.com/accounts/190565/events/3968192/player %}
+{% livestream https://new.livestream.com/accounts/190565/events/3968192/player %}

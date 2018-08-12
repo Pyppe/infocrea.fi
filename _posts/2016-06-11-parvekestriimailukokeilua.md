@@ -10,7 +10,7 @@ Tarkoituksena ei ollut sen kummempaa kuin vain kokeilla keväällä hankitun Rol
 
 Ad hoc -striimillä oli kaksi katsojaa: minä itse toisaalta sillä samaisella Macbook Prolla ja myös Samsung Galaxy S7 -kännykällä. Ja koska kokonaisuudessaan yli 20-minuuttinen striimi oli ihan liian pitkä, niin editoin siitä striimipalvelimella tähän alle upotettuun klippiin vain viimeiset runsaat neljä minuuttia:
 
-{% livestream http://new.livestream.com/accounts/190565/events/5302184/videos/125982171/player %}
+{% livestream https://new.livestream.com/accounts/190565/events/5302184/videos/125982171/player %}
 
 Kyseessä oli siis puhtaasti tekninen kokeilu, jonka voi sanoa onnistuneen. (Mitä nyt ihan tuon klipin alussa lipsahtaa ensin väärä kuva miksiin:-)
 

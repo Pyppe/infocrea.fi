@@ -6,7 +6,7 @@ date: 2015-09-07T20:10:16+0300
 
 [Striimauskirja-striimi](https://livestream.com/Infocrea-fi/Striimauskirja) 
 
-{% livestream http://new.livestream.com/accounts/190565/events/4221401/player %}
+{% livestream https://new.livestream.com/accounts/190565/events/4221401/player %}
 
 numero 2:n aiheita ovat liverapoilu, somekätilöinti ja yhteisömanagerointi. Termejä aukoo [Kinda Oy](http://kinda.fi/):n **Pauliina Mäkelä**, joka tunnetaan mm. Suomen ensimmäisenä [Twitter-kuningattarena](https://twitter.com/PauliinaMakela) ja sosiaalisen median yhteisötapahtuma [SomeTimen](http://sometime.fi/) "äitinä".<!--more-->
 

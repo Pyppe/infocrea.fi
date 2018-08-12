@@ -20,7 +20,7 @@ Kännykkäratkaisu oli täysin sama kuin edellisessä testissä, videosuoratoist
 
 Seuraavaksi mahdollisuus vaikka verrata, millainen vaikutus sillä, että myös näkee puhujat ja tapahtumapaikkaa. Eli voi katsoa ja kuunnella allaolevaa striimitallennetta:
 
-{% livestream http://new.livestream.com/accounts/2914987/events/3864809/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/3864809/player %}
 
 tai sitten vain kuunnella saman tilaisuuden äänisuoratoiston tallennetta:
 

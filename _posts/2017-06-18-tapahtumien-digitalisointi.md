@@ -8,11 +8,11 @@ Tämänvuotinen [#Sometime](http://sometime.fi)-tapahtuma oli kahdeksas laatuaan
 
 Striimasin (eli digitalisoin) myös Sometime2017:n; [striimi- ja nyt siis tallennesivu](https://livestream.com/Infocrea-fi/sometime2017) on upotettu (embed) alle:
 
-{% livestream http://livestream.com/accounts/190565/events/7209851/player %}
+{% livestream https://livestream.com/accounts/190565/events/7209851/player %}
 
 En ole elämäni aikana kovin montaa esitystä itse pitänyt, mutta sekä toimittaja-entisyydessäni että striimaustuottaja-nykyisyydessäni olen kyllä nähnyt niitä **paljon**. Siksi tiesin jo etukäteen, itseni tuntien, että Sometime2017-esitykseni ei todennäköisesti tulisi varsinaisesti veriä seisauttamaan. Ja ehdin kyllä monta kertaa katuakin puhujalupaustani. En kuitenkaan perunut ja alla esitykseni on kuitenkin on vielä erikseen upotettuna: 
 
-{% livestream http://livestream.com/accounts/190565/events/7209851/videos/158354320/player %}
+{% livestream https://livestream.com/accounts/190565/events/7209851/videos/158354320/player %}
 
 Vaikka olin lupautunut pitämään esityksen jo kuukausia ennen tapahtumaa, en ollut valmistautunut siihen kuin vasta kalkkiviivoilla kokoamalla kuvia [Flickr-kansioksi](https://www.flickr.com/photos/jarmolahti/sets/72157684984719735/):
 

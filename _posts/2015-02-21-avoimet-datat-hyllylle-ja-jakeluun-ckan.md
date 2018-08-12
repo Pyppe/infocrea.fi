@@ -12,7 +12,7 @@ Tarjouduin striimaamaan tilaisuuden ns. pro bono, jos se vain CSC:n nettiyhteyks
 
 Alla striimin tallenteet yllelinkatun ohjelman mukaisessa järjestyksessä. 
 
-{% livestream http://new.livestream.com/accounts/2914987/events/3820514/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/3820514/player %}
 
 (*Klikkaamalla "Watch again" saa videovalikon, josta erillisiä videoita pääsee valitsemaan kuvan sivulla olevista nuolenkärjistä.*)
 

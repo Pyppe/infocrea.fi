@@ -14,11 +14,11 @@ Jos ko. koodi olisi viety ennen tapahtumaa sinne halutulle sivulle, olisi upotuk
 
 Tällaiselta tuon tallennesivun upotus näyttää tähän blogaukseen tuotuna:
 
-{% livestream http://new.livestream.com/accounts/190565/events/4742003/player %}
+{% livestream https://new.livestream.com/accounts/190565/events/4742003/player %}
 
 Ja tällaiselta näyttää vasta tulossa olevan (16.2.2016 klo 12-13) [tapahtuman](http://mydata2016.org/launch-event/) upotus:
 
-{% livestream http://new.livestream.com/accounts/2914987/events/4801089/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/4801089/player %}
 
 Ylläoleva upotus (ja myös tapahtuman omalla sivulla oleva) heräävät eloon siis 16.2.2016 klo 12 maissa noin tunniksi, ja muuttuvat sitten "käsin koskematta" tallennesivun videovalikkoupotuksiksi.
 

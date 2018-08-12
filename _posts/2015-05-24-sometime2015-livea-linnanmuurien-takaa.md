@@ -26,7 +26,7 @@ Testeissä hyvin toiminut ääni otti tuotantolivessä pahoja häiriöitä, joid
 
 Sain äänen lopulta edes johonkin kuntoon, minkä jälkeen pääsin striimaamisen ohessa seuraamaan itsekin jo hieman puhujien esitysten varsinaista sisältöäkin. Mikä olikin ihan seuraamisen arvoista.
 
-{% livestream http://new.livestream.com/accounts/2914987/events/4063148/player %}
+{% livestream https://new.livestream.com/accounts/2914987/events/4063148/player %}
 
 Ja kun ohjelma noin klo 17 loppui, niin kaapelit takaisin nippuun ja niput, kamerat, audiomikserit, mikrofonit, jalustat jne. reppuun ja laukkuihin, auto parkkipaikalta linnan pihalle, laukut autoon ja kotimatkalle kohti Helsinkiä.
 

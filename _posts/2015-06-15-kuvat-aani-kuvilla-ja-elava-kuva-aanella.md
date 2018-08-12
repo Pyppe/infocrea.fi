@@ -22,4 +22,4 @@ Pelkkää kalvosettiä voi verrata myös videoituun (tai striimattuun) esityksee
 
 Videoidusta esityksestä alla esimerkkinä **Krister Lindénin** esitys [Open Finland Challenge](http://openfinlandchallenge.fi/) -kisan Science & Education -haasteesta [Open Science Lounge](https://livestream.com/ITstriimIT/open-science-lounge) -tilaisuudessa HUB13:ssa viime viikolla:
 
-{% livestream http://livestream.com/accounts/2914987/events/4095806/videos/89118047/player %}
+{% livestream https://livestream.com/accounts/2914987/events/4095806/videos/89118047/player %}
