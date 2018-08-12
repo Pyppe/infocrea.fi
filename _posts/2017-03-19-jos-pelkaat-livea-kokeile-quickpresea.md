@@ -20,7 +20,7 @@ Tuorein varsinainen esitys Quickpresessä on Hannu Tannerin ["Lohkoketjut valmis
 
 Hannu Tannerin Quickprese-esitys upotettuna tälle sivulle:
 
-<iframe width="800" height="600" src="http://www.quickprese.com/embed/dPrRi1/dtt17-lohkoketjut-tanner-15-3-2017" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.quickprese.com/embed/dPrRi1/dtt17-lohkoketjut-tanner-15-3-2017" frameborder="0" allowfullscreen></iframe>
 
 Alareunan pikkukuvia klikkaamalla voi siirtyä kuuntelemaan ääntä siitä kohtaa esitystä. 
 
