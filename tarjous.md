@@ -9,8 +9,6 @@ title: "Tarjouspohja"
 Infocrea Oy:n striimauspalvelutarjouksen pohja/perusteet
 ========================================================
 
-*(5.-12.8.2018 Google-mainos-kokeilun jäljiltä tälle sivulle päätyneille tiedoksi: alla on Infocrea Oy:n normitarjouksen pohja. Jos haluat erikoistarjouksen, ota [yhteyttä](http://www.infocrea.fi/yhteystiedot/) ja anna taikasana "Google":-)*
-
 Infocrea Oy (kiittää mahdollisesta tarjouspyynnöstänne ja) tarjoaa tilaisuutenne striimaus/tallennuspalvelua “**avaimet käteen**”. 
 
 Oletuksena on kuitenkin, että mahdollisesti tarvittavat **kuvaus/tallennusluvat** asiakas on sopinut tai sopii itse tilaisuuden esiintyjien kanssa.
