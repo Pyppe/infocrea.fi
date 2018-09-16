@@ -12,16 +12,18 @@ Palvelukuvaukset
 Ajantasavideo
 -------------
 **Tosiaikainen videostriimaus nettiin**  
-Lähetykset toteutetaan joko asiakkaan omalle videopalvelimelle tai Livestream.com palvelussa omalle tapahtumasivulle. Tapahtuman jälkeen video voidaan tallentaa ja striimitallenteita voidaan myös kevyesti editoida ja striimauslaatuisena (=kiinteällä nettiyhteydellä HD) katsella myös tapahtuman jälkeen. (Eli striimin lisäksi tallenne!) 
+Lähetykset toteutetaan joko asiakkaan omalle videopalvelimelle, Infocrea Oy:n [Livestream.com-kanavalla](https://livestream.com/Infocrea-fi) omalle tapahtumasivulleen tai [Ustream.tv](https://ustream.tv/)-palvelun asiakaskohtaiselle kanavalle. Striimi voidaan myös ns. "simulcastata" asiakkaan YouTube- tai Facebook-kanavan livesivulle.
 
-Erikseen sovittaessa striimattava materiaali voidaan tallentaa myös kameran hd-formaatissa erikseen ja se on asiakkaan vapaasti käytettävissä haluamallaan tavalla.
+Kuvamateriaali (1-3 kameran sekä esitystietokoneen kuvat) miksataan ja haluttaessa asiakkaan kanssa sovitaan kuvalähteiden keskinäisestä painotuksesta. 
 
-IT-tapahtumien striimeille Infocrea Oy:lla on oma kanava [ITstriimIT](https://new.livestream.com/ITstriimIT). Sen lisäksi on Infocrean puolesta käytettävissä kanava [Infocrea-fi](https://new.livestream.com/Infocrea-fi). 
+Tapahtuman jälkeen video voidaan tallentaa palvelimelle ja esim. Livestream-tapahtumasivun striimitallenteita voidaan myös kevyesti editoida ja striimauslaatuisena (HD) katsella myös tapahtuman jälkeen. Eli striimin lisäksi syntyy aina haluttaessa myös tallenne. 
+
+Striimi tallennetaan aina myös back-upina FullHD-formaatissa ennen lähetykseen lähtöä ja erikseen sovittaessa tämä materiaali on asiakkaan vapaasti käytettävissä haluamallaan tavalla. Muussa tapauksessa se hävitetään tapahtuman jälkeen.
 
 Videotallenne
 -------------
 **Videotallennus, editointi ja nettijulkaisu**  
-Videokuvaus Canon XA10 -kameralla, videoiden editointi ja julkaisu asiakkaan omalla alustalla tai Infocrea Oy:n Vimeo- tai YouTube-tilillä esimerkiksi tapahtuman omaan albumiin.
+Videokuvaus 1-3 kameralla, kamerakuvien ja mahdollisen esityskuvan miksaus ja  editointi sekä julkaisu asiakkaan omalla alustalla tai esimerkiksi Infocrea Oy:n Vimeo-tilillä esimerkiksi tapahtuman omaan albumiin.
 
 Ajantasa+tallenne
 ------------------
