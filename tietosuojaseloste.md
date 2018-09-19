@@ -17,9 +17,9 @@ Käytämme asiakastietoja asiakkuuden hoitamiseen ja asiakkaille viestimiseen.
 
 Keräämme matkapuhelimen yhteystietojen ja sähköpostin muodostamiin rekistereihin asiakkaiden nimiä, yhteystietoja, laskutusosoitteita ja asiakkuuteen liittyviä tietoja (mm. tapaamisajankohtia, myytyjä palveluita, käytyä viestintää asiakkaiden kanssa). Tiedot kerätään asiakkailta itseltään.
 
-Rekistereitä pidetään Google LLC:n [Privacy Shield](https://www.privacyshield.gov/welcome)- yhteensopivassa Google Suite -palvelussa. Tietoja voidaan siirtää EU:n tai ETA:n ulkopuolelle.
+Rekistereitä pidetään [android](https://fi.wikipedia.org/wiki/Android)-puhelimessa ja Google LLC:n [Privacy Shield](https://www.privacyshield.gov/welcome)- yhteensopivassa [Google Suite](https://gsuite.google.com/) -palvelussa. Tietoja voidaan siirtää EU:n tai ETA:n ulkopuolelle.
 
-Rekistereihin on pääsy vain yrityksen henkilökunnalla, jonka tehtäviin kuuluu asiakastietojen käsittely ja joka on koulutettu tietosuoja-asioissa. Tietoja säilötään asiakkuuden päättymisen jälkeen niin pitkään kuin lait ja säädökset velvoittavat.
+Rekistereihin on pääsy vain yrityksen henkilökunnalla, jonka tehtäviin kuuluu asiakastietojen käsittely ja joka on perehtynyt tietosuoja-asioihin. Tietoja säilötään asiakkuuden päättymisen jälkeen niin pitkään kuin lait ja säädökset velvoittavat.
 
 Asiakkaalla on oikeus tarkastaa hänestä tallennetut tiedot sekä korjata mahdolliset virheet. Heillä on myös oikeus tietojen poistamiseen, tietojen siirtämiseen, käsittelyn rajoittamiseen sekä vastustaa heihin kohdistuvaa automaattista päätöksentekoa.
 
