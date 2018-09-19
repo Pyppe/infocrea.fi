@@ -4,7 +4,8 @@ title: "Asiakasrekisterin tietosuojaseloste"
 date: 2018-05-24T19:45:30+0300
 ---
 
-**Infocrea Oy:n asiakasrekisterin tietosuojaseloste** <!--more-->
+**Infocrea Oy:n asiakasrekisterin tietosuojaseloste**<br><!--more--> 
+löytyy varsinaisesti [täältä](/tietosuojaseloste/) 
 
 **Yritys:** Infocrea Oy, 0913338-7, Neitojenranta 1 A 20, 00810 Helsinki<br>
 **Yhteyshenkilö:** Jarmo Lahti, +358 50 5002796, jarmo.lahti@infocrea.fi
