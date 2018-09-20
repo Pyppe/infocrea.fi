@@ -2,12 +2,8 @@
 layout: page
 language: fi
 permalink: /tietosuojaseloste/
-title: "Tietosuojaseloste"
+title: "Infocrean Oy:n asiakasrekisterin tietosuojaseloste"
 ---
-
-
-Infocrean Oy:n asiakasrekisterin tietosuojaseloste
-==================================================
 
 <b>Infocrea Oy:n asiakasrekisterin tietosuojaseloste<br>
 Yritys: Infocrea Oy, 0913338-7, Neitojenranta 1 A 20, 00810 Helsinki<br>
