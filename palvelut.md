@@ -12,13 +12,15 @@ Palvelukuvaukset
 Ajantasavideo
 -------------
 **Tosiaikainen videostriimaus nettiin**  
-Lähetykset toteutetaan joko asiakkaan omalle videopalvelimelle, Infocrea Oy:n [Livestream.com-kanavalla](https://livestream.com/Infocrea-fi) omalle tapahtumasivulleen tai [Ustream.tv](https://ustream.tv/)-palvelun asiakaskohtaiselle kanavalle. Striimi voidaan myös ns. "simulcastata" asiakkaan YouTube- tai Facebook-kanavan livesivulle.
+Lähetykset toteutetaan joko asiakkaan omalle videopalvelimelle, Infocrea Oy:n [Livestream.com-kanavalla](https://livestream.com/Infocrea-fi) omalle tapahtumasivulleen tai [Ustream.tv](https://ustream.tv/) -palvelun asiakaskohtaiselle kanavalle. Striimi voidaan myös ns. "simulcastata" esim. asiakkaan YouTube-livekanavaan tai Facebook-sivulle.
 
-Kuvamateriaali (1-3 kameran sekä esitystietokoneen kuvat) miksataan ja haluttaessa asiakkaan kanssa sovitaan kuvalähteiden keskinäisestä painotuksesta. 
+Kuvamateriaali (1-3 kameran sekä esitystietokoneen kuva) miksataan ja haluttaessa asiakkaan kanssa sovitaan kuvalähteiden keskinäisestä painotuksesta. 
 
 Tapahtuman jälkeen video voidaan tallentaa palvelimelle ja esim. Livestream-tapahtumasivun striimitallenteita voidaan myös kevyesti editoida ja striimauslaatuisena (HD) katsella myös tapahtuman jälkeen. Eli striimin lisäksi syntyy aina haluttaessa myös tallenne. 
 
 Striimi tallennetaan aina myös back-upina FullHD-formaatissa ennen lähetykseen lähtöä ja erikseen sovittaessa tämä materiaali on asiakkaan vapaasti käytettävissä haluamallaan tavalla. Muussa tapauksessa se hävitetään tapahtuman jälkeen.
+
+Infocrea Oy:n perusstriimin hinnoitteluperusteet löytyvät [täältä](/tarjous/).
 
 Videotallenne
 -------------
@@ -52,7 +54,7 @@ Esimerkiksi lehteen+nettisaitille tehtävää artikkelia varten haastattelut ja 
 Sometukset
 ----------
 **Eri esitysmuotojen linkitykset sosiaaliseen mediaan**  
-Asiakkaan omilla tai Infocrea Oy:n/Jarmo Lahden Facebook-, Twitter-, Google+ ja LinkedIn -tunnuksilla (ks. "[Yhteystiedot](http://www.infocrea.fi/yhteystiedot/)"), sosiaalisten palveluiden netikettiä ja tyyliä kunnioittaen. Niin ennen tapahtumaa kuin myös sen jälkeen: striimille lisää katsojia tapahtuman aikaan ja tallenteille sen jälkeen.
+Asiakkaan omilla tai Infocrea Oy:n/Jarmo Lahden Facebook-, Twitter- ja LinkedIn -tunnuksilla (ks. "[Yhteystiedot](http://www.infocrea.fi/yhteystiedot/)"), sosiaalisten palveluiden netikettiä ja tyyliä kunnioittaen. Niin ennen tapahtumaa kuin myös sen jälkeen: striimille lisää katsojia tapahtuman aikaan ja tallenteille sen jälkeen.
 
 Hinnoitteluperusteet
 --------------------
