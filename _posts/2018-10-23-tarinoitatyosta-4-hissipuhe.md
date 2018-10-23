@@ -11,3 +11,5 @@ Seminaari- tms. -tapahtuman aika tai paikka ei koskaan sovi kaikille. #Striimi t
 Koulutukseltani olen diplomi-insinööri, ja olen tehnyt pitkän [uran](https://www.infocrea.fi/cv/) teknologiajournalismin saralla eli sisältöideointi ja sisältöjen tuottaminen on toinen luonto. Pitkää kokemustani viestin esittelemällä itseni nykyään #striimivaari:ksi ([tavaramerkki haussa:-)](https://www.flickr.com/photos/jarmolahti/44608160445)).
 
 Olen perusteellinen ja luotettava. Ja nautin oppia uusia asioita digitalisoimieni tilaisuuksien esityksistä:-)
+
+*(Tämä on Kidekoulun kurssin "[Tarinoita työstä - 14 päivän kirjoitushaaste](https://www.osaaminenesiin.fi/p/tarinoitatyosta/)" harjoitus nro 4.)*
