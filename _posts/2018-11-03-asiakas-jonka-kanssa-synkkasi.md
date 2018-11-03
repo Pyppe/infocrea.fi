@@ -18,8 +18,8 @@ GS1 Synkka-tilaisuuden siistitty ja järjestetty "digitaalinen kopio" oli Livest
 
  Kysyin, josko haluavat YouTube-tallenteet [mikserini](https://pro.sony/en_AL/products/portable-live-production/mcx-500) SD-kortin striimivideoita suurempitarkkuuksisista back up -videoista vai striimipalvelimen tallenneklipeistä.
 
- En kuitenkaan ehtinyt saanda vastausta ennen seuraavaa striimikeikkaa ja muita menoja, eikä Livestream-sivujen tallenneklippien suoraa download-mahdollisuutta ole tarjolla muille kuin kanavan omistajalle.
+ En kuitenkaan ehtinyt saada vastausta ennen seuraavaa striimikeikkaa ja muita menoja, eikä Livestream-sivujen tallenneklippien suoraa download-mahdollisuutta ole tarjolla muille kuin kanavan omistajalle.
 
  Mutta GS1:n [Paavo Reponen](https://www.linkedin.com/in/paavoreponen/)pa ei tavoittamattomuuteni aikana jäänyt odottelemaan, vaan googletti mainion [Stream Video Downloader](https://chrome.google.com/webstore/detail/stream-video-downloader/imkngaibigegepnlckfcbecjoilcjbhf) -ohjelman Chrome-selaimeen, imuroi sen avulla tallenneklipit  ja vei ne GS1:n YouTube-kanavalle [Tuotetiedot nyt syksy 2018](https://www.youtube.com/playlist?list=PL8DWqz2NozB31LvF7xeG03sy-I0VXEEI8) -soittolistaksi:-).
 
-Kiitos GS1 Finland paitsi hyvästä apuohjelmasta ja sen käyttövinkistä myös mahdollisuudesta jälleen kerran striimikameran takana saada tietoa mielenkiintoisesta asiasta, tällä kertaa siis tuotetieotojen synkronoinnista:-)
+Kiitos GS1 Finland paitsi hyvästä apuohjelmasta ja sen käyttövinkistä myös mahdollisuudesta jälleen kerran striimikameran takana saada tietoa mielenkiintoisesta asiasta, tällä kertaa siis tuotetietojen synkronoinnista:-)
