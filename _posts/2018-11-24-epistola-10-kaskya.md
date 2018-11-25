@@ -22,7 +22,7 @@ Alla epistola ja vastaavat muut saarnat lyhyenä “10 käskyä” -listana. (�
 
 5. Ota puhe- tms. paikkoja mietittäessä huomioon mahdollinen kuvaus (taustat yms) ja ohjeista esiintyjät paikoista ja liikkumisesta 
 
-6. Jos tapahtumassa esitetään “kalvoja”, varmista niiden saaminen laadukkaana myös striimiin/tallenteeseen (esityskoneen/projektorin liitännä)
+6. Jos tapahtumassa esitetään “kalvoja”, varmista niiden saaminen laadukkaana myös striimiin/tallenteeseen (esityskoneen/projektorin liitännät)
 
 7. Lataa esitysmateriaali jo ennen tilaisuutta nettiin esim. [Slideshare](https://www.slideshare.net/)-palveluun ja kerro linkki/linkit yleisö(i)lle
 
@@ -40,3 +40,4 @@ Lue myös:
 - [Striimivaarin nettiyhteyssalkku](https://www.infocrea.fi/blogi/2018/10/striimivaarin-nettiyhteyssalkku/)
 - [Onnistuneen striimin resepti](https://www.infocrea.fi/blogi/2018/03/onnistuneen-striimin-resepti/)
 - [Striimivaari®n "avaimet käteen" -striimauksen tarjouspohja](https://www.infocrea.fi/tarjous/)
+- [Laadukkaan livestriimin kolme pointtia](https://www.linkedin.com/pulse/laadukkaan-livestriimin-kolme-pointtia-jarmo-lahti/)
