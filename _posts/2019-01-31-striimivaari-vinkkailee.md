@@ -25,4 +25,4 @@ Jos esitysmateriaali on upotettu samalle sivulle striimi(tallentee)n kanssa, kat
 
 Bonuksena **vinkki 1 b**: [esityskaukosäädin](https://www.infocrea.fi/blogi/2018/04/screeniosoittelut-nakymaan/), joka petraa esitystä eikä vain striimiin vaan myös paikalla olevalle yleisölle.
 
-**Vinkki 1 c**: Infocrealla ja [Mesta Coworkingilla]() on kehitteillä yhteistyö, johon liittyen on luvassa Striimivaarin vinkki kalvojen ja **live striimin** upotuksesta samalle sivulle. 
+**Vinkki 1 c**: Infocrealla ja [Mesta Coworkingilla](https://mestacoworking.com/) on kehitteillä yhteistyö, johon liittyen on luvassa Striimivaarin vinkki kalvojen ja **live striimin** upotuksesta samalle sivulle. 
