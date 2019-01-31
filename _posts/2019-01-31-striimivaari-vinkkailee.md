@@ -21,8 +21,6 @@ Jos esitysmateriaali on upotettu samalle sivulle striimi(tallentee)n kanssa, kat
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ifNQeqPWDBGQ01" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; width: 100%;" allowfullscreen> </iframe>
 <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SuomenStandardisoimisliitto/mikko-huttunen-sfs-18122018" title="Mikko Huttunen, SFS 18.12.2018" target="_blank">Mikko Huttunen, SFS 18.12.2018</a> </strong> from <strong><a href="https://www.slideshare.net/SuomenStandardisoimisliitto" target="_blank">Suomen Standardisoimisliitto SFS ry</a></strong> </div>
 
-(Yllä upotus on tehty Slidesharen antamalla upotuskoodilla muuttamatta sitä mitenkään.) 
-
 * * * 
 
 Bonuksena **vinkki 1 b**: [esityskaukosäädin](https://www.infocrea.fi/blogi/2018/04/screeniosoittelut-nakymaan/), joka petraa esitystä eikä vain striimiin vaan myös paikalla olevalle yleisölle.
