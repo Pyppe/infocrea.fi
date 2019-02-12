@@ -13,13 +13,11 @@ Infocrea Oy (kiittää mahdollisesta tarjouspyynnöstänne ja) tarjoaa tilaisuut
 
 Oletuksena on kuitenkin, että mahdollisesti tarvittavat **kuvaus/tallennusluvat** asiakas on sopinut tai sopii itse tilaisuuden esiintyjien kanssa.
 
-**Striimausalustaksi** tarjoamme Infocrea Oy:n Livestream.com -kanavia [livestream.com/Infocrea-fi](http://livestream.com/Infocrea-fi) ja [livestream.com/ITstriimIT](http://livestream.com/ITstriimIT) tai Infocrea Oy:n luomaa kanavaa [Ustream.tv](http://Ustream.tv) -palveluun.
+**Striimausalustaksi** tarjoamme ensisijaisesti Infocrea Oy:n Livestream.com -kanavaa [livestream.com/Infocrea-fi](http://livestream.com/Infocrea-fi), joka voidaan myös ["simulcastata"](https://livestream.com/blog/stream-live-multiple-destinations-simulcast) eli striimata samanaikaisesti esimerkiksi asiakkaan YouTube- tai Facebook Live -sivulle. Striimisivu voidaan suojata salasanalla.
 
-Ym. Livestream-kanavilta löytyvät tapahtumatallenteet kertovat monista uskollisista asiakkuuksista, mukana mm. ministeriöitä ym. julkishallinnollisia organisaatioita. 
+Ym. Livestream-kanavalta löytyvät tapahtumatallenteet kertovat monista uskollisista asiakkuuksista, mukana mm. ministeriöitä ym. julkishallinnollisia organisaatioita. 
 
 Em. palveluiden livelähetys kuten myös tallennesivu ja/tai erilliset tallenneklipit ovat helposti ns. [upotettavissa (embed)](https://help.livestream.com/hc/en-us/articles/219100767-How-Do-I-Embed-My-Event-) esimerkiksi asiakkaan omille nettisivuille.
-
-*Infocrea-fi* -kanavan striimi on mahdollista samanaikaisesti ohjata myös esim. halutulle YouTube- tai Facebook -sivulle  Livestreamin [Simulcast](https://livestream.com/blog/stream-live-multiple-destinations-simulcast)-ominaisuutta hyödyntäen. Se on myös mm. suojattavissa salasanalla, samoin kuin Ustream.tv-palveluun luodut kanavat. 
 
 Myös asiakkaan oma striimausalusta tai -kanava on mahdollinen yksityiskohdista (mm. käyttäjätunnukset yms.) erikseen sopien.
 
@@ -32,9 +30,18 @@ Infocrea Oy:n “avaimet käteen” -striimauspalvelun hinta on **78 €/h** (+a
 
 Striimauksen/tallennuksen **perustoimitus** on 2-3 kameralla (1-2 tyypillisesti puhujan/yleisön ja yksi esityskalvojen kuvaukseen), joiden kuva miksataan ennen striimaukseen lähetystä. Projektorille menevä VGA/HDMI/SDI-screenikuva voidaan ohjata mikserille myös “piuhaa pitkin”.
 
-**Palvelu sisältää** tapahtumapaikan kuvausolojen ja yhteyksien (netti, audio, sähkö) selvittämisen etukäteen, striimisivun ja -osoitteen luomisen etukäteen (esim. tapahtumamarkkinoinnin tarpeisiin), striimauksessa/tallennuksessa tarvittavat laitteet ja niiden käyttökuntoon laittamisen, itse kuvaamisen ja tallentamisen, siistityn tallennesivun editoinnin striimausosoitteeseen tapahtuman päättymisen jälkeen tyypillisesti saman vuorokauden aikana (jos striimistä halutaan tallennesivu). Palveluhintaan sisältyvät myös tallennuslaitteelle ennen striimausenkooderia otetut back-up tallenteet vapaasti käytettäväksi vain mahdollisten siirtokustannusten hinnalla - vaikka striimistä ei palvelintallennetta tulisikaan (ei erittelyssä kohtaa “striimisivun muunto tallennesivuksi”). Halutessaan asiakas saa erikseen sovittavalta ajalta live- ja/tai tallennesivun [**analytiikka**raportin](https://help.livestream.com/hc/en-us/articles/224426428-Overview-What-Type-of-Data-Does-Livestream-Analytics-Provide-) yhden kerran; lisää raportteja voi tilata hintaan 50 € (+alv) /raportti.
+**Palvelu sisältää** tapahtumapaikan kuvausolojen ja yhteyksien (netti, audio, sähkö) selvittämisen etukäteen, striimisivun ja -osoitteen luomisen etukäteen (esim. tapahtumamarkkinoinnin tarpeisiin), striimauksessa/tallennuksessa tarvittavat laitteet ja niiden käyttökuntoon laittamisen, itse kuvaamisen ja tallentamisen, siistityn tallennesivun editoinnin striimausosoitteeseen tapahtuman päättymisen jälkeen tyypillisesti saman vuorokauden aikana (jos striimistä halutaan tallennesivu). Palveluhintaan sisältyvät myös tallennuslaitteelle ennen striimausenkooderia otetut back-up tallenteet vapaasti käytettäväksi vain mahdollisten siirtokustannusten hinnalla - vaikka striimistä ei palvelintallennetta tulisikaan (ei erittelyssä kohtaa “striimisivun muunto tallennesivuksi”). Halutessaan asiakas saa erikseen sovittavalta ajalta live- ja/tai tallennesivun [**analytiikka**raportin](https://help.livestream.com/hc/en-us/articles/224426428-Overview-What-Type-of-Data-Does-Livestream-Analytics-Provide-) yhden kerran.
 
-Tilaisuutenne tapauksessa **laskutettavia tunteja** kertyisi seuraavasti:<br>
+**Lisäpalvelut:** 
+- [alakolmannes](https://en.wikipedia.org/wiki/Lower_third)grafiikat: 75 € (+alv)<br>
+-- tyypillisesti puhujien nimi/titteli/yritys<br>
+-- (sovitaan erikseen, miten näytetään)<br>
+- logo (neliömallinen): 50 € (+alv)<br>
+-- vasemmassa tai oikeassa alakulmassa<br>
+-- (sovitaan erikseen miten näytetään)<br>
+- lisäanalytiikkaraportit: 50 € (+alv)/raportti
+
+Tilaisuuden perusstriimauksessa/tallennuksessa **laskutettavia tunteja** kertyy seuraavasti:<br>
 - ennen striimausta:<br>
 -- tapahtumapaikan esiselvitys: 1 h<br>
 -- striimisivun ja -osoitteen luominen: 0,5 h<br>
@@ -48,6 +55,6 @@ eli laskutus olisi yhteensä  h * 78 €/h =  € (+alv  €).
 
 **Viikonvaihteet/pyhät**: Normaalisti viikonvaihteisin lauantai-tunneissa on +20 % ja sunnuntai- & arkipyhätunneissa +50 % korotus (neuvoteltavissa).
 
-Tämä tarjous on voimassa *pp.kk.vvvv* asti. 
+Tarjous on yleensä voimassa useita viikkoja tarjouksen jättämisen jälkeen. 
 
-**Peruutusehto:** Tarjouksen mahdollisen hyväksymisen jälkeen tilaus voidaan perua tai siirtää samanhintaisena molemmille osapuolille sopivaan aikaan *p2.k2.vvvv (=viikko ennen sovittua striimausta)* saakka, minkä jälkeen peruttavasta tilauksesta laskutus on 30 % sovitusta tarjoushinnasta mutta vähintään 100 euroa. 
+**Peruutusehto:** Tarjouksen mahdollisen hyväksymisen jälkeen tilaus voidaan perua tai siirtää samanhintaisena molemmille osapuolille sopivaan aikaan vielä viikko ennen sovittua striimausta, minkä jälkeen peruttavasta tilauksesta laskutus on 30 % sovitusta tarjoushinnasta mutta vähintään 100 euroa. 
