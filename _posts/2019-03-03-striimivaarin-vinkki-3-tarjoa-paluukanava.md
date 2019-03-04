@@ -20,6 +20,6 @@ Twitter-hashtageista tuli mieleen: jos niitä kerran käyttää, niin näppärä
 
 Muutamassa #Striimivaari®:n striimassa tilaisuudessa on vuosien saatossa ollut käytössä myös varsin kokonaisvaltainen paluukanavapalvelu eli suomalaisen [Prospectum Oy](https://prospectum.fi/):n [Viestiseinä](https://viestiseina.fi), jolla sekä etä- että läsnäyleisö pääsee mukaan myös vaikka ikiwanhan kännykän tekstiviesteillä.
 
-Vuosien saatossa mitä erilaisimpien asiakkaiden mitä erilaisimmissa tilaisuuksissa on käytetty muitakin paluukanavapalveluja yllä mainittu Viestiseinä.
+Vuosien saatossa mitä erilaisimpien asiakkaiden mitä erilaisimmissa tilaisuuksissa on käytetty muitakin paluukanavapalveluja kuin yllä mainittu Viestiseinä.
 
 Turhan suuressa osassa tilaisuuksia ([imho](https://fi.wiktionary.org/wiki/IMHO)) kuitenkin puuttuu paluukanava-ajattelu kokonaan - vaikka tilaisuudelle olisikin mm. määritelty ihan oma hashtag.
