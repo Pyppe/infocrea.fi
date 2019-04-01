@@ -57,4 +57,7 @@ eli laskutus olisi yhteensä  h * 78 €/h =  € (+alv  €).
 
 Tarjous on yleensä voimassa useita viikkoja tarjouksen jättämisen jälkeen. 
 
-**Peruutusehto:** Tarjouksen mahdollisen hyväksymisen jälkeen tilaus voidaan perua tai siirtää samanhintaisena molemmille osapuolille sopivaan aikaan vielä viikko ennen sovittua striimausta, minkä jälkeen peruttavasta tilauksesta laskutus on 30 % sovitusta tarjoushinnasta mutta vähintään 100 euroa. 
+**Peruutusehto:** Tarjouksen mahdollisen hyväksymisen jälkeen tilaus voidaan perua tai siirtää samanhintaisena molemmille osapuolille sopivaan aikaan vielä viikko ennen sovittua striimausta, minkä jälkeen peruttavasta tilauksesta laskutus on 30 % sovitusta tarjoushinnasta mutta vähintään 100 euroa.
+
+---
+[Pari esimerkkiä hinnoista](https://www.infocrea.fi/blogi/2019/04/paljonko-maksaa-puolen-paivan-striimaus/)
