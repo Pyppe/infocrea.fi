@@ -22,6 +22,8 @@ Kaikki ym. #Striimivaari®n hakemuksen
 {% livestream https://livestream.com/accounts/190565/events/8656219/player %}
 kanssa kilpailevat hakijat ovat panostaneet oikein kunnolla reittisuunnitelmaan, kun taas #Striimivaari® tyytyi ["noin 10 museoon"](https://livestream.com/Infocrea-fi/museostriimiseikkailu-2019/statuses/190478482) ja muutamaan niihin liittyvään [speksiin](https://livestream.com/Infocrea-fi/museostriimiseikkailu-2019/statuses/190479704).
 
-Että antaas kattoo, kuinka käy... 24.5. tulee tuomio. 
+Että antaas kattoo, kuinka käy... 24.5. tulee tuomio.
+
+Hashtag: #striimivaarin_museoseikkailu
 
 
