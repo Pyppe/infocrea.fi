@@ -4,7 +4,10 @@ title: "Muutkin museoseikkailijat kaivavat lähtökuoppia"
 date: 2019-05-17T23:39:15+0300
 ---
 
-Kolme viikko sitten [kerroin](https://www.infocrea.fi/blogi/2019/04/striimivaarin-museokierros-2019/) "julkisesti" #Striimivaari®n jättäneen hakemuksen kesän 2019 museoseikkailijaksi. Hakuaika päättyi 6.5. ja sen jälkeen on muutama muukin hakemus sometettu kaikelle kansalle. Ja ihan hauskoja hakemuksia onkin jätetty.<!--more-->
+Kolme viikko sitten [kerroin](https://www.infocrea.fi/blogi/2019/04/striimivaarin-museokierros-2019/) "julkisesti" #Striimivaari®n jättäneen hakemuksen kesän 2019 museoseikkailijaksi. Hakuaika päättyi 6.5. ja sen jälkeen on muutama muukin hakemus sometettu kaikelle kansalle. Ja ihan hauskoja hakemuksia onkin jätetty. 
+
+Tilannetiedotus (8.6.) löytyy blogauksen lopusta.
+<!--more-->
 
 Hankkeen #hashtageja kollaamalla löytyy tieto mm. **museoperunoiden** hakemuksesta:
 
@@ -22,8 +25,9 @@ Kaikki ym. #Striimivaari®n hakemuksen
 {% livestream https://livestream.com/accounts/190565/events/8656219/player %}
 kanssa kilpailevat hakijat ovat panostaneet oikein kunnolla reittisuunnitelmaan, kun taas #Striimivaari® tyytyi ["noin 10 museoon"](https://livestream.com/Infocrea-fi/museostriimiseikkailu-2019/statuses/190478482) ja muutamaan niihin liittyvään [speksiin](https://livestream.com/Infocrea-fi/museostriimiseikkailu-2019/statuses/190479704).
 
-Että antaas kattoo, kuinka käy... 24.5. tulee tuomio.
+Että antaas kattoo, kuinka käy... 24.5. tulee tuomio. 
+
+---
+**Edit 8.6.2019:** Eihän se tuomio 24.5. tullut, vaan vasta 6.6. sähköpostitse: "Hakemuksesi oli parhaiden joukossa, ja olit valinnoissa mukana loppusuoralle asti. Valitettavasti valintamme ei tällä kertaa kohdistunut sinun seikkailuusi. Haluamme kuitenkin kiittää sinua erityisen upeasta hakemuksesta ja kannustaa jatkamaan museoseikkailua kaikesta huolimatta. Mahdollistamaan seikkailusi haluamme tarjota sinulle vuoden mittaisen kulttuurimatkan – Museokortin."
 
 Hashtag: #striimivaarin_museoseikkailu
-
-
