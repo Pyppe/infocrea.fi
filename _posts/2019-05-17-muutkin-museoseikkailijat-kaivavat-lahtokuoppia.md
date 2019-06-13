@@ -30,4 +30,7 @@ Että antaas kattoo, kuinka käy... 24.5. tulee tuomio.
 ---
 **Edit 8.6.2019:** Eihän se tuomio 24.5. tullut, vaan vasta 6.6. sähköpostitse: "Hakemuksesi oli parhaiden joukossa, ja olit valinnoissa mukana loppusuoralle asti. Valitettavasti valintamme ei tällä kertaa kohdistunut sinun seikkailuusi. Haluamme kuitenkin kiittää sinua erityisen upeasta hakemuksesta ja kannustaa jatkamaan museoseikkailua kaikesta huolimatta. Mahdollistamaan seikkailusi haluamme tarjota sinulle vuoden mittaisen kulttuurimatkan – Museokortin."
 
+---
+**Edit 13.6.2019:** Muutama päivän sitten näyttäisi tapahtuneen 10 valitun seikkailun [julkistus](https://museot.fi/tassa-ovat-museokortin-seikkailijat)
+
 Hashtag: #striimivaarin_museoseikkailu
