@@ -10,8 +10,8 @@ Kesälaman loppumetreillä #Striimivaari® innostui kokeilemaan ja demoilemaan. 
 <!--more--> 
 Tuohon ylle on "upotettu" (embed) [tämä](https://livestream.com/Infocrea-fi/Striimivaari-demoilee) Livestream.com-"event". Upotusmahdollisuus ja -"koodi" löytyy (Livestream.com-)sivun oikean ylänurkan "mutkanuoli"-sharettajan takaa. (Ylläolevan upotuksen sharetusnuolella pääsee jakamaan vain linkkiä.)
 
-Silloin kun sivulla ei ole päällä livelähetys, upotuksessa näkyy tallennesivu klippeineen. Kun sivulla alkaa pyöriä live, se alkaa pyöriä myös ylläolevassa upotuksessa.
+Silloin kun sivulla ei ole päällä livelähetystä, upotuksessa näkyy tallennesivu vieritettävine klippivalikoineen. Kun varsinaisella striimisivulla alkaa pyöriä live, sen käynnistäminen myös ylläolevassa upotuksessa mahdollistuu.
 
-Jossain vaiheessa viikonvaihdetta 10.-11.8. on tarkoitus demota striimiä mm. 2-3 kameralla, läppärin näytöllä, [Sony MCX-500](https://pro.sony/en_SI/products/portable-live-production/mcx-500)-mikserillä ja muutamalla "alakolmannes"-tekstillä käyttäen [LiveU-pilvigrafiikkaa](https://www.liveu.tv/ip-services/cloud-graphics).
+Jossain vaiheessa viikonvaihdetta, näillä näkymin sunnuntaiaamuna 11.8 klo 10, on tarkoitus demota striimiä kolmella kameralla, läppärin näytöllä, [Sony MCX-500](https://pro.sony/en_SI/products/portable-live-production/mcx-500)-mikserillä ja muutamalla "alakolmannes"-tekstillä käyttäen [LiveU-pilvigrafiikkaa](https://www.liveu.tv/ip-services/cloud-graphics).
 
 Eli "pysy kanavalla":-)
