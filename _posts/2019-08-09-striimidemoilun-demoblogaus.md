@@ -12,6 +12,19 @@ Tuohon ylle on "upotettu" (embed) [tämä](https://livestream.com/Infocrea-fi/St
 
 Silloin kun sivulla ei ole päällä livelähetystä, upotuksessa näkyy tallennesivu vieritettävine klippivalikoineen. Kun varsinaisella striimisivulla alkaa pyöriä live, sen käynnistäminen myös ylläolevassa upotuksessa mahdollistuu.
 
-Jossain vaiheessa viikonvaihdetta, näillä näkymin sunnuntaiaamuna 11.8 klo 10, on tarkoitus demota striimiä kolmella kameralla, läppärin näytöllä, [Sony MCX-500](https://pro.sony/en_SI/products/portable-live-production/mcx-500)-mikserillä ja muutamalla "alakolmannes"-tekstillä käyttäen [LiveU-pilvigrafiikkaa](https://www.liveu.tv/ip-services/cloud-graphics).
+Sekä tämä blogaus että sen aiheena oleva striimisivu sekä tuo ylläoleva upotus ovat päivittyneet "projektin edetessä", mutta striimi(tallentee)t ovat pysyneet sellaisina kuin ne tapahtuivat. 
 
-Eli "pysy kanavalla":-)
+Sunnuntaiaamuna 11.8 klo 10 oli livenä alle 10-minuuttinen demostriimi, joka yksi klippi ylleupotetusta kokonaisestsa striimisivusta on nyt upotettu tähän alle<br>
+{% livestream https://livestream.com/accounts/190565/events/8775561/videos/194906881/player %}
+
+Se toteutetiin kolmella kameralla, läppärin näytöllä, [Sony MCX-500](https://pro.sony/en_SI/products/portable-live-production/mcx-500)-mikserillä ja muutamalla "alakolmannes"-tekstillä käyttäen [LiveU-pilvigrafiikkaa](https://www.liveu.tv/ip-services/cloud-graphics).
+
+Koska "demostudiolähetystä" ei oltu käsikirjoitettu mitenkään, niin siinä sitten unohtui mainita muutama tärkeä juttu, joita on yritetty kiteyttää allaolevaan kuvaan. Usein puhujanpöntössä olevan esitysläppärin näyttö jaetaan, skaalataan ja siirretään pidemmänkin siirtomatkan mahdollistavalla SDI-kaapelilla yleensä yleisön takana sijaitsevalle mikserille. Audiomikseri saattaa olla tarpeen, jos striimaaja itse "mikittää" puhujat ja yleisön. Kuvan langaton kapulamikrofoni voi olla käytössä esimerkiksi yleisökommentoijien äänen saamiseksi mukaan lähetykseen):
+
+{% flickr_embed https://www.flickr.com/photos/jarmolahti/48509418506 %}<br>
+
+Yleensä tapahtumissa äänentoisto on toki hoidettu tilan puolesta, ja ainakin asiallisissa tapahtumapaikoissa striimaaja saa tilan PA-järjestelmän (Public Audio) "summaäänen" striimin ääneksi.
+
+Tämä blogaus ja osana sitä toteutettu demostriimi antavat toivottavasti hieman kuvaa siitä, minkätyyppistä tekniikkaa asiallisessa seminaarityyppisen tapahtuman striimauksessa olisi hyvä käyttää. (Hieman on yritystä myös demota, miten striimin ja tallenteiden upotuksia voi käyttää vaikkapa blogauksen elementteinä:-)
+
+Tapahtumapaikan netti- ym. -yhteyksien varmistamiseen, striimisivun (minne kulloinkin striimataankin) luontiin sekä mahdolliseen käsittelyyn tapahtuman jälkeen yms. oheistyöhön menevästä ajasta antanee käsitystä #Striimivaari®n palvelukuvaus ja hinnoitteluperustesivu **[täällä](https://www.infocrea.fi/tarjous/)** 
