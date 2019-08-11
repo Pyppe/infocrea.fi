@@ -28,3 +28,5 @@ Yleensä tapahtumissa äänentoisto on toki hoidettu tilan puolesta, ja ainakin 
 Tämä blogaus ja osana sitä toteutettu demostriimi antavat toivottavasti hieman kuvaa siitä, minkätyyppistä tekniikkaa asiallisessa seminaarityyppisen tapahtuman striimauksessa olisi hyvä käyttää. (Hieman on yritystä myös demota, miten striimin ja tallenteiden upotuksia voi käyttää vaikkapa blogauksen elementteinä:-)
 
 Tapahtumapaikan netti- ym. -yhteyksien varmistamiseen, striimisivun (minne kulloinkin striimataankin) luontiin sekä mahdolliseen käsittelyyn tapahtuman jälkeen yms. oheistyöhön menevästä ajasta antanee käsitystä #Striimivaari®n palvelukuvaus ja hinnoitteluperustesivu **[täällä](https://www.infocrea.fi/tarjous/)** 
+
+Oikein rakennettu Livestream.com -tallennesivu on muuten #Striimivaari®n mielestä aika kiva tapahtuman digitaalinen kopio: klikkaapa oikean reunan klippivalikon ensimmäinen klippi auki, ja klikkaile sitten klippien oikealla (ja/tai vasemmalla) puolella näkyviä nuolia. Huomaa myös oikean yläreuna i- eli lisätietonäppäin; valokuva saattaa otsikon lisäksi sisältää enemmmänkin teksti-informaatiota. 
