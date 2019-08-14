@@ -29,4 +29,11 @@ Demostriimi antaaa toivottavasti hieman kuvaa siitä, minkätyyppistä tekniikka
 
 Tapahtumapaikan netti- ym. -yhteyksien varmistamiseen, striimisivun (minne kulloinkin striimataankin) luontiin sekä mahdolliseen käsittelyyn tapahtuman jälkeen yms. oheistyöhön menevästä ajasta antanee käsitystä #Striimivaari®n palvelukuvaus ja hinnoitteluperustesivu **[täällä](https://www.infocrea.fi/tarjous/)** 
 
-Oikein rakennettu Livestream.com -tallennesivu on muuten #Striimivaari®n mielestä aika kiva tapahtuman digitaalinen kopio: klikkaapa oikean reunan klippivalikon ensimmäinen klippi auki, ja klikkaile sitten klippien oikealla (ja/tai vasemmalla) puolella näkyviä nuolia. Huomaa myös oikean yläreuna i- eli lisätietonäppäin; valokuva saattaa otsikon lisäksi sisältää enemmmänkin teksti-informaatiota. 
+Oikein rakennettu Livestream.com -tallennesivu on muuten #Striimivaari®n mielestä aika kiva tapahtuman digitaalinen kopio: klikkaapa oikean reunan klippivalikon ensimmäinen klippi auki, ja klikkaile sitten klippien oikealla (ja/tai vasemmalla) puolella näkyviä nuolia. Huomaa myös oikean yläreuna i- eli lisätietonäppäin; valokuva saattaa otsikon lisäksi sisältää enemmmänkin teksti-informaatiota.
+
+*<b>Edit 14.8.</b>*
+
+Youtuben päätösruutu-ominaisuutta kokeillakseni uploadasin sunnuntain striimitallenteen [sinne](https://youtu.be/sT9Xj8FVqAI). Neljästä mahdollisesta päätösruutuelementistä käytin toisen siirtymiseen toiseen striimauksen kannalta informatiiviseen Youtube-videoon ja toisen tähän blogaukseen: 
+
+<!-- Lisää Youtube-video -->
+{% youtube sT9Xj8FVqAI %}
