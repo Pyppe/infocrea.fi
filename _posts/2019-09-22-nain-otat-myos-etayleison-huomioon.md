@@ -36,7 +36,7 @@ Jos niitä osoitellaan kädellä tai pienen punaisen pisteen näyttävällä las
 
 #Striimivaari® suositteleekin lämpimästi **esityskaukosäädintä**, joka nostaa esitysten laatua sekä paikan päällä olevalle yleisölle että ennen kaikkea striimin ja/tai tallenteen katsojille. Yksi sellainen oli esillä #Striimivaari®n [blogauksessa](https://www.infocrea.fi/blogi/2018/04/screeniosoittelut-nakymaan/) huhtikuussa 2018.
 
-Toinen esitysmateriaaliin liittyvä suositus on viedä ne jo ennen tapahtumaa [SlideShare](https://www.slideshare.net/)- tai muun vastaavan palvelun kautta katsottavaksi omaan tahtiin.
+Esitysmateriaaliin on hyvä viedä jo ennen tapahtumaa [SlideShare](https://www.slideshare.net/)- tai muun vastaavan palvelun kautta katsottavaksi omaan tahtiin. Ja antaa kalvojen katsomisosoite mielellään myös striimisivulta klikattavaksi.
 
 Kun tapahtuman sisältö näin saatetaan niin läsnä- kuin etäyleisöllekin mahdollisimman hyvin aukeavana, kannattaa antaa yleisöille mahdollisuus asian levittämiseen eteenpäin omiin ympyröihinsä edes jotenkin määrämuotoisesti.
 
