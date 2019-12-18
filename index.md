@@ -1,0 +1,41 @@
+---
+layout: rawpage
+language: fi
+permalink: /
+htmlId: index
+title: Etusivu
+preContent: |
+  <div id="title">
+    <div class="columns largeSpacing">
+      <h4 class="description text-right">
+        Seminaari- ja muut tapahtumat<br class="show-for-medium-up" />
+        livenä ja/tai tallenteina nettiin<br class="show-for-medium-up" />
+        "avaimet käteen" -palveluna.
+      </h4>
+    </div>
+  </div>
+---
+
+
+## Infocrea Oy toteuttaa: Videostriimejä ja -tallenteita
+
+Suoratoistojen eli striimien (ja niiden tallenteiden) julkaisu asiakkaan omalla striimialustalla/kanavalla tai Infocrea Oy:n Livestream.com -kanavalla [Infocrea-fi](https://new.livestream.com/Infocrea-fi). Striimin voi ns. upottaa myös asiakkaan omille nettisivuille ja/tai ohjata lisäksi mm. Youtubeen tai Facebookiin. Striimit on mahdollista myös suojata salasanalla.
+
+[Hieman hinnoittelusta](/tarjous/) (ja mitä sillä saa) ([Asiakkuuksia](http://www.infocrea.fi/blogi/2017/12/infocrea-oyn-asiakkaita/))
+
+{%comment%}
+<div id="futureLivestreams" style="display: none;">
+  <h3>Tulevia livestriimejä Infocrea Oy:n kanavilla</h3>
+  <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3"></ul>
+</div>
+{%endcomment%}
+
+
+## Infocrea Oy:n jäsenyydet ja verkostot
+
+**Infocrea Oy** on [Suomen Yrittäjät ry](https://www.yrittajat.fi/):n jäsen kotiyhteisönään [Helsingin Yrittäjät Itä-Helsinki](https://www.yrittajat.fi/helsingin-yrittajat/helsingin-yrittajat-paikallisesti/a/paikallisyhdistykset/paikallisyhdistykset/helsingin-yrittajat-ita-helsinki-600089). Lisäksi Infocrea Oy on [AVITA – AUDIOVISUAALINEN TOIMIALA ry](http://www.avita.org/):n jäsen. Yrittäjä **Jarmo Lahti** on myös [ProCom – Viestinnän ammattilaiset ry](https://procom.fi/):n jäsen.
+
+Jarmo Lahti on ollut vuosikymmeniä [Suomen Journalistiliiton](http://journalistiliitto.fi/fi/) jäsen; omana yhteisönä siellä on nykyään [Helsingin Seudun Journalistit ry](http://www.hsj.fi/). Eikä pidä unohtaa myöskään kymmenien vuosien jäsenyyttä [Tekniikan Journalistit Presstek ry](http://presstek.fi):ssä. Teknologiajournalismin ym. toiminnan myötä löytyy pitkä jäsenyys ja myös aktiivista toimintaa [Tieto- ja viestintätekniikan ammattilaiset TIVIA ry](http://tivia.fi):ssä, omina yhdistyksinä siellä lähinnä [MiitIT ry](https://www.miitit.fi/) ja [Internet Societyn](https://www.internetsociety.org/) Suomen maayhdistys ("chapter") [Suomen Internet-yhdistys SIY ry](http://www.isoc.fi). Tuoreempi on [Tekniikan Akateemiset TEK](https://www.tek.fi/fi):n seniorijäsenyys; varsinaista jäsenyyttä löytyy vuosikymmenien takaa nuorena DI:nä.
+
+Facebookissa ja LinkedInissä (sivun yläreunan linkitykset) Jarmo Lahti on mukana lukuisissa **virtuaaliyhteisöissä**, mm. [SomeTime](http://sometime.fi/):ssä.
+
