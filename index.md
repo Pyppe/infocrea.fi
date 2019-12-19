@@ -19,9 +19,9 @@ preContent: |
 
 ## Infocrea Oy toteuttaa: Videostriimejä ja -tallenteita
 
-Suoratoistojen eli striimien (ja niiden tallenteiden) julkaisu asiakkaan omalla striimialustalla/kanavalla tai Infocrea Oy:n Livestream.com -kanavalla [Infocrea-fi](https://new.livestream.com/Infocrea-fi). Striimin voi ns. upottaa myös asiakkaan omille nettisivuille ja/tai ohjata lisäksi mm. Youtubeen tai Facebookiin. Striimit on mahdollista myös suojata salasanalla.
+Suoratoistot eli striimit (ja niiden tallenteet) julkaistaan asiakkaan omalla striimialustalla/kanavalla tai Infocrea Oy:n Livestream.com -kanavalla [Infocrea-fi](https://new.livestream.com/Infocrea-fi). Striimin voi ns. upottaa myös asiakkaan omille nettisivuille ja/tai ohjata lisäksi mm. Youtubeen tai Facebookiin. Striimit on mahdollista myös suojata salasanalla. Striimille voidaan avata oma chattipalsta. 
 
-[Hieman hinnoittelusta](/tarjous/) (ja mitä sillä saa) ([Asiakkuuksia](http://www.infocrea.fi/blogi/2017/12/infocrea-oyn-asiakkaita/))
+[Hieman hinnoittelusta](/tarjous/) (ja mitä sillä saa).
 
 {%comment%}
 <div id="futureLivestreams" style="display: none;">
