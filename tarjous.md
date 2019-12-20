@@ -33,9 +33,6 @@ Striimauksen/tallennuksen **perustoimitus** on 2-3 kameralla (1-2 tyypillisesti 
 **Palvelu sisältää** tapahtumapaikan kuvausolojen ja yhteyksien (netti, audio, sähkö) selvittämisen etukäteen, striimisivun ja -osoitteen luomisen etukäteen (esim. tapahtumamarkkinoinnin tarpeisiin), striimauksessa/tallennuksessa tarvittavat laitteet ja niiden käyttökuntoon laittamisen, itse kuvaamisen ja tallentamisen, siistityn tallennesivun editoinnin striimausosoitteeseen tapahtuman päättymisen jälkeen tyypillisesti saman vuorokauden aikana (jos striimistä halutaan tallennesivu). Palveluhintaan sisältyvät myös tallennuslaitteelle ennen striimausenkooderia otetut back-up tallenteet vapaasti käytettäväksi vain mahdollisten siirtokustannusten hinnalla - vaikka striimistä ei palvelintallennetta tulisikaan (ei erittelyssä kohtaa “striimisivun muunto tallennesivuksi”). Halutessaan asiakas saa erikseen sovittavalta ajalta live- ja/tai tallennesivun [**analytiikka**raportin](https://help.livestream.com/hc/en-us/articles/224426428-Overview-What-Type-of-Data-Does-Livestream-Analytics-Provide-) yhden kerran.
 
 **Lisäpalvelut:** 
-- [alakolmannes](https://en.wikipedia.org/wiki/Lower_third)grafiikat: 75 € (+alv)<br>
--- tyypillisesti puhujien nimi/titteli/yritys<br>
--- (sovitaan erikseen, miten näytetään)<br>
 - logo (neliömallinen): 50 € (+alv)<br>
 -- vasemmassa tai oikeassa alakulmassa<br>
 -- (sovitaan erikseen miten näytetään)<br>
