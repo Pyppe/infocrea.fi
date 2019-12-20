@@ -17,9 +17,11 @@ preContent: |
 ---
 
 
-## Infocrea Oy toteuttaa: Videostriimejä ja -tallenteita
+## Infocrea Oy toteuttaa videostriimejä ja -tallenteita
 
-Suoratoistot eli striimit (ja niiden tallenteet) julkaistaan asiakkaan omalla striimialustalla/kanavalla tai Infocrea Oy:n Livestream.com -kanavalla [Infocrea-fi](https://new.livestream.com/Infocrea-fi). Striimin voi ns. upottaa myös asiakkaan omille nettisivuille ja/tai ohjata lisäksi mm. Youtubeen tai Facebookiin. Striimit on mahdollista myös suojata salasanalla. Striimille voidaan avata oma chattipalsta. 
+Monikamerakuvatut suoratoistot eli striimit (ja niiden tallenteet) julkaistaan asiakkaan omalla striimialustalla/kanavalla tai Infocrea Oy:n Livestream.com -kanavalla [Infocrea-fi](https://new.livestream.com/Infocrea-fi).
+
+Livestream.com-striimin voi ns. upottaa (embed) myös asiakkaan omille nettisivuille ja/tai ohjata lisäksi mm. Youtubeen tai Facebookiin. Striimit on mahdollista myös suojata salasanalla. Striimille voidaan avata oma chattipalsta. 
 
 [Hieman hinnoittelusta](/tarjous/) (ja mitä sillä saa).
 
@@ -37,5 +39,4 @@ Suoratoistot eli striimit (ja niiden tallenteet) julkaistaan asiakkaan omalla st
 
 Jarmo Lahti on ollut vuosikymmeniä [Suomen Journalistiliiton](http://journalistiliitto.fi/fi/) jäsen; omana yhteisönä siellä on nykyään [Helsingin Seudun Journalistit ry](http://www.hsj.fi/). Eikä pidä unohtaa myöskään kymmenien vuosien jäsenyyttä [Tekniikan Journalistit Presstek ry](http://presstek.fi):ssä. Teknologiajournalismin ym. toiminnan myötä löytyy pitkä jäsenyys ja myös aktiivista toimintaa [Tieto- ja viestintätekniikan ammattilaiset TIVIA ry](http://tivia.fi):ssä, omina yhdistyksinä siellä lähinnä [MiitIT ry](https://www.miitit.fi/) ja [Internet Societyn](https://www.internetsociety.org/) Suomen maayhdistys ("chapter") [Suomen Internet-yhdistys SIY ry](http://www.isoc.fi). Tuoreempi on [Tekniikan Akateemiset TEK](https://www.tek.fi/fi):n seniorijäsenyys; varsinaista jäsenyyttä löytyy vuosikymmenien takaa nuorena DI:nä.
 
-Facebookissa ja LinkedInissä (sivun yläreunan linkitykset) Jarmo Lahti on mukana lukuisissa **virtuaaliyhteisöissä**, mm. [SomeTime](http://sometime.fi/):ssä.
-
+Facebookissa ja LinkedInissä (sivun oikean ylänurkan linkitykset) Jarmo Lahti on mukana lukuisissa **virtuaaliyhteisöissä**.
