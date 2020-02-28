@@ -9,24 +9,26 @@ title: "Tarjouspohja"
 Infocrea Oy:n striimauspalvelutarjouksen pohja/perusteet
 ========================================================
 
+*(Infocrea Oyn täsmävastaukset tarjouspyyntöihin pohjaavat tällä sivulla esitettyyn informaatioon.)*
+
 Infocrea Oy (kiittää mahdollisesta tarjouspyynnöstänne ja) tarjoaa tilaisuutenne striimaus/tallennuspalvelua “**avaimet käteen**”. 
 
-Oletuksena on kuitenkin, että mahdollisesti tarvittavat **kuvaus/tallennusluvat** asiakas on sopinut tai sopii itse tilaisuuden esiintyjien kanssa.
+Oletuksena on kuitenkin, että mahdollisesti tarvittavat **kuvaus/tallennusluvat** asiakas on sopinut tai sopii itse tilaisuuden esiintyjien kanssa. - Infocrea Oy ei omasta puolestaan katso omaavansa tekijänoikeuksia asiakkaidensa tapahtumista striimaamiinsa tai tallentamiinsa videoihin eikä myöskään tule esittämään niihin liittyviä tekijänoikeusvaatimuksia.  
 
-**Striimausalustaksi** tarjoamme ensisijaisesti Infocrea Oy:n Livestream.com -kanavaa [livestream.com/Infocrea-fi](http://livestream.com/Infocrea-fi), joka voidaan myös ["simulcastata"](https://livestream.com/blog/stream-live-multiple-destinations-simulcast) eli striimata samanaikaisesti esimerkiksi asiakkaan YouTube- tai Facebook Live -sivulle. Striimisivu voidaan suojata salasanalla.
+**Striimausalustaksi** tarjoamme ensisijaisesti Infocrea Oy:n Livestream.com -kanavaa [livestream.com/Infocrea-fi](http://livestream.com/Infocrea-fi), joka voidaan myös ["simulcastata"](https://livestream.com/blog/stream-live-multiple-destinations-simulcast) eli striimata samanaikaisesti esimerkiksi asiakkaan YouTube- tai Facebook Live -sivulle. Livestream-striimisivu on mahdollista suojata salasanalla.
 
 Ym. Livestream-kanavalta löytyvät tapahtumatallenteet kertovat monista uskollisista asiakkuuksista, mukana mm. ministeriöitä ym. julkishallinnollisia organisaatioita. 
 
-Em. palveluiden livelähetys kuten myös tallennesivu ja/tai erilliset tallenneklipit ovat helposti ns. [upotettavissa (embed)](https://help.livestream.com/hc/en-us/articles/219100767-How-Do-I-Embed-My-Event-) esimerkiksi asiakkaan omille nettisivuille.
+Livelähetys kuten myös tallennesivu ja/tai erilliset tallenneklipit ovat helposti ns. [upotettavissa (embed)](https://help.livestream.com/hc/en-us/articles/360002051488) esimerkiksi asiakkaan omille nettisivuille.
 
 Myös asiakkaan oma striimausalusta tai -kanava on mahdollinen yksityiskohdista (mm. käyttäjätunnukset yms.) erikseen sopien.
 
-Tapahtumapaikan striimaukseen tarvittavista **nettiyhteyksistä** on lyhyt kuvaus [täällä](http://infocrea.fi/nettiyhteys/) - sieltä löytyy myös erikseen hinnoiteltu kaistavarmennettu 4G-nettiyhteysmahdollisuus. - Jos tapahtumapaikka velottaa erikseen striimaukseen tarvittavista netti- ym. -liitännöistä, toivomme niiden laskutuksen tapahtuvan suoraan tapahtuman järjestäjältä ilman turhaa kierrättämistä Infocrea Oy:n kautta. Vm. tapauksessa ne tulevat mukaan Infocrea Oy:n laskutukseen allaolevan erittelyn lisäksi. 
+Tapahtumapaikan striimaukseen tarvittavista **nettiyhteyksistä** on lyhyt kuvaus [täällä](http://infocrea.fi/nettiyhteys/). Jos tapahtumapaikka velottaa erikseen striimaukseen tarvittavista netti- ym. -liitännöistä, toivomme niiden laskutuksen tapahtuvan suoraan tapahtuman järjestäjältä ilman turhaa kierrättämistä Infocrea Oy:n kautta. Vm. tapauksessa ne tulevat mukaan Infocrea Oy:n laskutukseen allaolevan erittelyn lisäksi. - Yleensä laadukkaaseen striimiin riittävä yhteys saadaan aikaan myös Infocrea Oy:n useita 3/4G- ja muita nettiyhteyksiä yhdistävällä [LiveU Solo](https://gosolo.tv/) -ratkaisulla (jonka käytöstä ei laskuteta). 
 
-Striimauksiin/tallennuksiin käytettyjä laitteita on kuvattu [täällä](http://www.infocrea.fi/blogi/2018/03/onnistuneen-striimin-resepti/). Ne ovat asiakascaseissa käytössä ilman eri laskutusta (paitsi CloudStreet-uploadkaistavaraus, jonka "läpilaskutushinta" on 150 € (+alv) alkavaa 6 tunnin kestoa kohden).
+Striimauksiin/tallennuksiin käytettyjä laitteita on kuvattu [täällä](http://www.infocrea.fi/blogi/2018/03/onnistuneen-striimin-resepti/). Ne ovat asiakascaseissa käytössä ilman eri laskutusta. 
 
 **Laskutuksesta:**<br>
-Infocrea Oy:n “avaimet käteen” -striimauspalvelun hinta on **78 €/h** (+alv). Pääkaupunkiseudun ulkopuolella tapahtuvien tilaisuuksien tapauksessa laskutetaan lisäksi **matka-ajasta** 50% em. tuntihinnasta (pidempien bussi/juna/lento -matkojen matka-aikalaskutus sovitaan erikseen) sekä varsinaiset **matkakulut** toteutuneen mukaan. Striimattavan/tallennettavan tilaisuuden normaalit **tauot** ovat laskutettavaa aikaa. Jos laitteiston pystyttämisen tai purkamisen ja varsinaisen ohjelman väliin jää Infocrea Oy:stä riippumattomista syistä enemmän kuin tunti rakentamisen/purkaamisen estänyttä aikaa, laskutetaan ko. ajasta 50% tuntihinnasta.
+Infocrea Oy:n “avaimet käteen” -striimauspalvelun hinta on **78 €/h** (+alv). Pääkaupunkiseudun ulkopuolella tapahtuvien tilaisuuksien tapauksessa laskutetaan lisäksi normaalina työaikana käytettävästä **matka-ajasta** 50% em.tuntihinnasta (pidempien bussi/juna/lento -matkojen matka-aikalaskutus sovitaan erikseen) sekä varsinaiset **matkakulut** toteutuneen mukaan. Striimattavan/tallennettavan tilaisuuden normaalit **tauot** ovat laskutettavaa aikaa. Jos laitteiston pystyttämisen tai purkamisen ja varsinaisen ohjelman väliin jää Infocrea Oy:stä riippumattomista syistä enemmän kuin tunti rakentamisen/purkaamisen estänyttä aikaa, laskutetaan ko. ajasta 50% tuntihinnasta.
 
 Striimauksen/tallennuksen **perustoimitus** on 2-3 kameralla (1-2 tyypillisesti puhujan/yleisön ja yksi esityskalvojen kuvaukseen), joiden kuva miksataan ennen striimaukseen lähetystä. Projektorille menevä VGA/HDMI/SDI-screenikuva voidaan ohjata mikserille myös “piuhaa pitkin”.
 
