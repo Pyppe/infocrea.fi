@@ -91,7 +91,9 @@ CloudStreet tuli tutuksi huhtikuussa 2014, jolloin OP:n silloin remontin alla ol
 
 Onneksi CloudStreetin perustaja [**Mika Skarp**](https://www.linkedin.com/in/mika-skarp-2902021/) otti yhteyttä (ehkä jo "striimin" aikana), ja varsin pian oli Infocrea Oy:n striimausrautapaletissa mukana myös varmennettua 4G-uploadkaistaa.
 
-Kuvan oikeassa reunassa on lisänettiresurssina vielä Elisan 4G-SIMmillä varustettu "nettitikku" antennilisäliitännällä ja reititin, molemmat suomalaisen [TeleWellin](https://telewell.fi/fi/tuotteet/3g4glte-tuotteet) laitteita. 
+Kuvan oikeassa reunassa on lisänettiresurssina vielä Elisan 4G-SIMmillä varustettu "nettitikku" antennilisäliitännällä ja reititin, molemmat suomalaisen [TeleWellin](https://telewell.fi/fi/tuotteet/3g4glte-tuotteet) laitteita.
+
+**Edit 5.5.2020**: Jo pari vuotta striimauksen nettiyhteys on hoidettu neljää yhteyttä (2 usb-modeemia, wlan ja RJ45- eli kiinteä ethernet) yhdistävällä ("bondaavalla") [LiveU Solo](https://gosolo.tv/) -enkooderilla [LiveU]():n portaalin kautta. 
 
 Kuvat ja striimin kolme tärkeää pointtia on nyt läpikäyty...
 
@@ -101,4 +103,4 @@ Kuvat ja striimin kolme tärkeää pointtia on nyt läpikäyty...
 
 * * * 
 
-*Tämä "slowblogaus" aloitettiin 4.1.2018 illansuussa. Sitä päivittiin pienissä erissä fiilisten ja mieleenjuolahdusten mukaan 11.1.2018 klo 20:45 asti (toistaiseksi).*
+*Tämä "slowblogaus" aloitettiin 4.1.2018 illansuussa. Sitä päivittiin pienissä erissä fiilisten ja mieleenjuolahdusten mukaan 5.5.2020 klo 10:45 asti (toistaiseksi).*
