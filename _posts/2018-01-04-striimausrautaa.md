@@ -93,7 +93,7 @@ Onneksi CloudStreetin perustaja [**Mika Skarp**](https://www.linkedin.com/in/mik
 
 Kuvan oikeassa reunassa on lisänettiresurssina vielä Elisan 4G-SIMmillä varustettu "nettitikku" antennilisäliitännällä ja reititin, molemmat suomalaisen [TeleWellin](https://telewell.fi/fi/tuotteet/3g4glte-tuotteet) laitteita.
 
-**Edit 5.5.2020**: Jo pari vuotta striimauksen nettiyhteys on hoidettu neljää yhteyttä (2 usb-modeemia, wlan ja RJ45- eli kiinteä ethernet) yhdistävällä ("bondaavalla") [LiveU Solo](https://gosolo.tv/) -enkooderilla [LiveU]():n portaalin kautta. 
+**Edit 5.5.2020**: Jo pari vuotta striimauksen nettiyhteys on hoidettu neljää yhteyttä (2 usb-modeemia, wlan ja RJ45- eli kiinteä ethernet) yhdistävällä ("bondaavalla") [LiveU Solo](https://gosolo.tv/) -enkooderilla [LiveU](https://www.liveu.tv/):n portaalin kautta. 
 
 Kuvat ja striimin kolme tärkeää pointtia on nyt läpikäyty...
 
