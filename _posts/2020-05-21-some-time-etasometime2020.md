@@ -18,7 +18,10 @@ Tänä vuonna en loppujen lopuksi striimannut SomeTimestä mitään, sillä Zoom
 
 Hieman kuitenkin olin etäSomeTime2020:n striimin kanssa tekemisissä: klipitin 6,5-tuntisen striimitallenteen erillisiin esityksiin, ja uploadasin ne SomeTimen YouTube-tilille ja tein niistä sinne [soittolistan](https://www.youtube.com/playlist?list=PLF_OONG-HCYNlWedqOtqMPL0O6191Nn2V).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLF_OONG-HCYNlWedqOtqMPL0O6191Nn2V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="flex-video widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLF_OONG-HCYNlWedqOtqMPL0O6191Nn2V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Ihan noin yksinkertaista se ei tosin ollut. Facebook-striimin tallennetta ei nimittäin ensin saatu downloadatuksi eli editoitavaksi kuin vaivaisena 360 pikselin korkuisena videona, ei siis ns. hd:nä edes erilaisilla kokeilluilla plugineilla.
 
