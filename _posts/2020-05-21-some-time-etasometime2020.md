@@ -14,14 +14,19 @@ SomeTime-suunnittelukokouksia on ehkä syystäkin "aina" kutsuttu sekouksiksi, m
 
 Ottaen huomioon tiukka aikataulu - mm. tapahtuman markkinointi alkoi vasta viikkoa ennen tapahtumaa - ei ole lainkaan huono saavutus, että ilmoittautuneita oli noin/yli 130. Ja kauniista lauantaipäivästä huolimatta Zoomissakin oli parhaimmillaan yhtäaikaisesti yli 60 sometimeilijää online. Ja myös tapahtuman "häsä" "trendasi" oikein komeasti ja oli yksi päivän [viraali-ilmiö](https://twitter.com/PinnallaFI/status/1261733290723213317)
 
-Tänä vuonna en loppujen lopuksi striimannut SomeTimestä mitään, sillä Zoom-alustan käyttöön järjestänyt [Tina Hilck](https://twitter.com/TiNaH85) hoiti "napin painalluksella" [livestriimin](https://www.facebook.com/sometime.fi/videos/661779414614098/) SomeTime-tapahtuman Facebook-sivulle (joka striimi on nyt siis jo tallenne).
+Tänä vuonna en loppujen lopuksi striimannut SomeTimestä mitään, sillä Zoom-alustan käyttöön järjestänyt [Tina Hilck](https://twitter.com/TiNaH85) hoiti "napin painalluksella" livestriimin SomeTime-tapahtuman [Facebook-sivulle](https://www.facebook.com/sometime.fi/videos/661779414614098/) (joka 6,5-tuntinen striimi on nyt siis jo tallenne):
 
-Hieman kuitenkin olin etäSomeTime2020:n striimin kanssa tekemisissä: klipitin 6,5-tuntisen striimitallenteen erillisiin esityksiin, ja uploadasin ne SomeTimen YouTube-tilille ja tein niistä sinne [soittolistan](https://www.youtube.com/playlist?list=PLF_OONG-HCYNlWedqOtqMPL0O6191Nn2V).
+<div class="flex-video widescreen">
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsometime.fi%2Fvideos%2F661779414614098%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div>
 
+Hieman kuitenkin olin etäSomeTime2020:n striimin kanssa tekemisissä: klipitin sen 6,5-tuntisen striimitallenteen erillisiin esityksiin, ja uploadasin ne SomeTimen YouTube-tilille ja tein niistä sinne [soittolistan](https://www.youtube.com/playlist?list=PLF_OONG-HCYNlWedqOtqMPL0O6191Nn2V).
 
 <div class="flex-video widescreen">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLF_OONG-HCYNlWedqOtqMPL0O6191Nn2V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+*(Kaksi edellistä "[upotusta](https://peda.net/poke/ohjeet/tvt-perusosaaminen/pedanet_verkko-opetuksessa/upotuskoodi/mut)" näyttävät varsin samanlaisilta. Oikeassa ylänurkassa on kuitenkin pieni mutta toiminnallinen ero...)*
 
 Ihan noin yksinkertaista se ei tosin ollut. Facebook-striimin tallennetta ei nimittäin ensin saatu downloadatuksi eli editoitavaksi kuin vaivaisena 360 pikselin korkuisena videona, ei siis ns. hd:nä edes erilaisilla kokeilluilla plugineilla.
 
