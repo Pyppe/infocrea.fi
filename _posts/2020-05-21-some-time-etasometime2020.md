@@ -8,7 +8,7 @@ Lauantaipäivä 16.5.2020 meni [#etäSomeTime2020](https://www.sometime.fi/):ssa
 
 etäSomeTime2020:n liipaisivat liikkeelle tapahtuman konkarit [Pauliina Mäkelä](https://twitter.com/PauliinaMakela) ja [Maria Laitinen](https://twitter.com/Ordinare) vasta huhtikuun puolenvälin maissa/jälkeen. Ehdittin pitää viisi parituntista "sekousta" Zoomissa, ensimmäinen 27.4. ja kaksi viimeistä tapahtuman alusviikolla.
 
-SomeTime-suunnittelukokouksia on ehkä syystäkin "aina" kutsuttu sekouksiksi, mutta asioita niissä on saatu rivakasti eteenpäin yhteiskäyttöisten memojen ja somepingausten yms.jne. avulla. etäSomeTime2020:n 2. sekouksen striimasin kokeeksi varsinaisen tapahtuman striimiä ajatellen: 
+SomeTime-suunnittelukokouksia on ehkä syystäkin "aina" kutsuttu sekouksiksi, mutta asioita niissä on saatu rivakasti eteenpäin yhteiskäyttöisten memojen ja somepingausten yms.jne. avulla. etäSomeTime2020:n 2. sekouksen striimasin kokeeksi varsinaisen tapahtuman striimiä ajatellen *(katso [täältä](https://livestream.com/infocrea-fi/etasometime2020/videos/205612875), jos alla näkyy hämärä blockausilmoitus)*: 
 
 {% livestream https://livestream.com/accounts/190565/events/9098690/videos/205612875/player %}
 
