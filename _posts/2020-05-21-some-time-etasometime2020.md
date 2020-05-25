@@ -8,9 +8,11 @@ Lauantaipäivä 16.5.2020 meni [#etäSomeTime2020](https://www.sometime.fi/):ssa
 
 etäSomeTime2020:n liipaisivat liikkeelle tapahtuman konkarit [Pauliina Mäkelä](https://twitter.com/PauliinaMakela) ja [Maria Laitinen](https://twitter.com/Ordinare) vasta huhtikuun puolenvälin maissa/jälkeen. Ehdittin pitää viisi parituntista "sekousta" Zoomissa, ensimmäinen 27.4. ja kaksi viimeistä tapahtuman alusviikolla.
 
-SomeTime-suunnittelukokouksia on ehkä syystäkin "aina" kutsuttu sekouksiksi, mutta asioita niissä on saatu rivakasti eteenpäin yhteiskäyttöisten memojen ja somepingausten yms.jne. avulla. etäSomeTime2020:n 2. sekouksen striimasin kokeeksi varsinaisen tapahtuman striimiä ajatellen *(katso [täältä](https://livestream.com/infocrea-fi/etasometime2020/videos/205612875), jos alla näkyy hämärä blockausilmoitus)*: 
+SomeTime-suunnittelukokouksia on ehkä syystäkin "aina" kutsuttu sekouksiksi, mutta asioita niissä on saatu rivakasti eteenpäin yhteiskäyttöisten memojen ja somepingausten yms.jne. avulla. etäSomeTime2020:n 2. sekouksen [striimasin](https://livestream.com/infocrea-fi/etasometime2020/videos/205612875)) kokeeksi varsinaisen tapahtuman striimiä ajatellen läppärini ruudulta mikserin läpi: 
 
-{% livestream https://livestream.com/accounts/190565/events/9098690/videos/205612875/player %}
+<div class="flex-video widescreen">
+<iframe id="ls_embed_1590388701" src="https://livestream.com/accounts/190565/events/9098690/videos/205612875/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe><script type="text/javascript" data-embed_id="ls_embed_1590388701" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
+</div>
 
 Ottaen huomioon tiukka aikataulu - mm. tapahtuman markkinointi alkoi vasta viikkoa ennen tapahtumaa - ei ole lainkaan huono saavutus, että ilmoittautuneita oli noin/yli 130. Ja kauniista lauantaipäivästä huolimatta Zoomissakin oli parhaimmillaan yhtäaikaisesti yli 60 sometimeilijää online. Ja myös tapahtuman "häsä" "trendasi" oikein komeasti ja oli yksi päivän [viraali-ilmiö](https://twitter.com/PinnallaFI/status/1261733290723213317)
 
