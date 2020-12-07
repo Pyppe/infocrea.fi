@@ -14,7 +14,7 @@ Otin tässä hiljan koekäyttöön suomalaisen startupin [Ääni Companyn](https
 
 Heti ensimmäiset testit Ääni Companyn tekniikalla kertoivat, että tekstityksiä ehkä joskus voisikin tehdä. Itsenäisyyspäivänä tein ensimmäisen päästä-päähän testin eli juttelin runsaan minuutin kameralle, pistin videon nettiin, missä Sanelius muutamassa sekunnissa pyöräytti siitä ym. tekstitystiedostot.
 
-Ensin sijoitin .srt-tiedoston Macin [Final Cut Pro X](https://en.wikipedia.org/wiki/Final_Cut_Pro_X) -videoeditointiohjelman timelinelle yhdessä videon kanssa, minkä jälkeen kevyesti editoin omaa totaninkutuspuhettani hieman kirjakielen suuntaan, ja "tulostin" timelinen mp4-tiedostoksi, jonka sitten uploadasin [Youtubeen](https://youtu.be/NJsHOvw27U0):
+Ensin sijoitin .srt-tiedoston Macin [Final Cut Pro X](https://en.wikipedia.org/wiki/Final_Cut_Pro_X) -videoeditointiohjelman timelinelle yhdessä videon kanssa, minkä jälkeen kevyesti editoin omaa totaninkutuspuhettani hieman kirjakielen suuntaan, ja "tulostin" timelinen mp4-tiedostoksi, jonka sitten uploadasin [Youtubeen](https://youtu.be/NJsHOvw27U0) (<-jos allaoleva upotus ei toimi):
 
 {% youtube $NJsHOvw27U0 %}
 
@@ -22,7 +22,7 @@ Sitten uploadasin saman videon tekstittämättömänä Youtubeen, ja Youtube Stu
 
 {% youtube $3VF6x9Sc7hw %}
 
-Tällä tekniikalla suomenkielistä tekstitystä ei ole "poltettu" [videoon](https://youtu.be/3VF6x9Sc7hw), vaan se voidaan valita videon alareunan tekstitysvalikosta (jos ei ole valmiiksi päällä).
+Tällä tekniikalla suomenkielistä tekstitystä ei ole "poltettu" [videoon](https://youtu.be/3VF6x9Sc7hw) (<-jos yo. upotus ei toimi), vaan se voidaan valita videon alareunan tekstitysvalikosta (jos ei ole valmiiksi päällä).
 
 Videolla mainitaan tarjous, jonka "julkistin" [LinkedInissä](https://www.linkedin.com/posts/jarmolahti_kuvan-pilvipalvelun-tekninen-prosessi-k%C3%A4yty-activity-6741353817939427328-6INE). 
 
