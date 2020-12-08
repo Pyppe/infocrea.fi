@@ -16,11 +16,11 @@ Heti ensimmäiset testit Ääni Companyn tekniikalla kertoivat, että tekstityks
 
 Ensin sijoitin .srt-tiedoston Macin [Final Cut Pro X](https://en.wikipedia.org/wiki/Final_Cut_Pro_X) -videoeditointiohjelman timelinelle yhdessä videon kanssa, minkä jälkeen kevyesti editoin omaa totaninkutuspuhettani hieman kirjakielen suuntaan, ja "tulostin" timelinen mp4-tiedostoksi, jonka sitten uploadasin [Youtubeen](https://youtu.be/NJsHOvw27U0) (<-jos allaoleva upotus ei toimi):
 
-{% youtube $NJsHOvw27U0 %}
+{% youtube NJsHOvw27U0 %}
 
 Sitten uploadasin saman videon tekstittämättömänä Youtubeen, ja Youtube Studiossa uploadasin vastaavan .webvtt-tiedoston videon yhteyteen ja julkaisin sen:
 
-{% youtube $3VF6x9Sc7hw %}
+{% youtube 3VF6x9Sc7hw %}
 
 Tällä tekniikalla suomenkielistä tekstitystä ei ole "poltettu" [videoon](https://youtu.be/3VF6x9Sc7hw) (<-jos yo. upotus ei toimi), vaan se voidaan valita videon alareunan tekstitysvalikosta (jos ei ole valmiiksi päällä).
 
@@ -28,7 +28,8 @@ Videolla mainitaan tarjous, jonka "julkistin" [LinkedInissä](https://www.linked
 
 Eli tosiaan: kaipaan testausmateriaalia, joten ajattelin tarjota edullista suomenkielisen videon puheen tekstitystä sanotaan alle 15 minuutin videoihin ensimmäiselle kymmenelle. Hinta vaikka 4 €/minuutti videota (+alv). Tekstittämätön videotiedosto minulle ja suht. pian "poltetulla" tekstityksellä varustettu mp4 takaisin... 
 
-Nopein saa ensimmäiset 5 minuuttia ilmaiseksi:-). 
+Nopein saa ensimmäiset 5 minuuttia ilmaiseksi:-).
 
-Tarjous oli niin piilossa, että ilmaiset viisi minuuttiakin ovat vielä (7.12. klo 21:42) voitettavissa -> käytä [yhteydenotto-formia](https://www.infocrea.fi/yhteystiedot/):-) 
+Sen verran olen testannut, että täysin virheetöntä tekstiä suomenkielisestä puheesta ei tule eli jonkin verran aikaa menee pieneen siistimiseen: tunnistusvirheiden korjaamiseen ja muuhunkin vähäiseen editointiin. (PS. "entisessä elämässäni" olin teknologiajournalisti:-) - Kokeilutarjoukseen tarttuvat saavat paitsi (entisen) teknologiajournalistin editoiman tekstityksen myös muuta tietoa sen pohjaksi, kannattaako harkita saman palvelun ottamista käyttöön itselle. 
 
+Tarjous on ollut niin piilossa, että ilmaiset viisi minuuttiakin ovat edelleen (8.12. klo 16:30) voitettavissa -> käytä [yhteydenotto-formia](https://www.infocrea.fi/yhteystiedot/):-) 
