@@ -28,14 +28,14 @@ Tapahtumapaikan striimaukseen tarvittavista **nettiyhteyksistä** on lyhyt kuvau
 Striimauksiin/tallennuksiin käytettyjä laitteita on kuvattu [täällä](http://www.infocrea.fi/blogi/2018/03/onnistuneen-striimin-resepti/). Ne ovat asiakascaseissa käytössä ilman eri laskutusta. 
 
 **Laskutuksesta:**<br>
-Infocrea Oy:n “avaimet käteen” -striimauspalvelun hinta on **78 €/h** (+alv). Pääkaupunkiseudun ulkopuolella tapahtuvien tilaisuuksien tapauksessa laskutetaan lisäksi normaalina työaikana käytettävästä **matka-ajasta** 50% em.tuntihinnasta (pidempien bussi/juna/lento -matkojen matka-aikalaskutus sovitaan erikseen) sekä varsinaiset **matkakulut** toteutuneen mukaan. Striimattavan/tallennettavan tilaisuuden normaalit **tauot** ovat laskutettavaa aikaa. Jos laitteiston pystyttämisen tai purkamisen ja varsinaisen ohjelman väliin jää Infocrea Oy:stä riippumattomista syistä enemmän kuin tunti rakentamisen/purkaamisen estänyttä aikaa, laskutetaan ko. ajasta 50% tuntihinnasta.
+Infocrea Oy:n “avaimet käteen” -striimauspalvelun hinta on **85 €/h** (+alv). Pääkaupunkiseudun ulkopuolella tapahtuvien tilaisuuksien tapauksessa laskutetaan lisäksi normaalina työaikana käytettävästä **matka-ajasta** 50% em.tuntihinnasta (pidempien bussi/juna/lento -matkojen matka-aikalaskutus sovitaan erikseen) sekä varsinaiset **matkakulut** toteutuneen mukaan. Striimattavan/tallennettavan tilaisuuden normaalit **tauot** ovat laskutettavaa aikaa. Jos laitteiston pystyttämisen tai purkamisen ja varsinaisen ohjelman väliin jää Infocrea Oy:stä riippumattomista syistä enemmän kuin tunti rakentamisen/purkaamisen estänyttä aikaa, laskutetaan ko. ajasta 50% tuntihinnasta.
 
 Striimauksen/tallennuksen **perustoimitus** on 2-3 kameralla (1-2 tyypillisesti puhujan/yleisön ja yksi esityskalvojen kuvaukseen), joiden kuva miksataan ennen striimaukseen lähetystä. Projektorille menevä VGA/HDMI/SDI-screenikuva voidaan ohjata mikserille myös “piuhaa pitkin”.
 
 **Palvelu sisältää** tapahtumapaikan kuvausolojen ja yhteyksien (netti, audio, sähkö) selvittämisen etukäteen, striimisivun ja -osoitteen luomisen etukäteen (esim. tapahtumamarkkinoinnin tarpeisiin), striimauksessa/tallennuksessa tarvittavat laitteet ja niiden käyttökuntoon laittamisen, itse kuvaamisen ja tallentamisen, siistityn tallennesivun editoinnin striimausosoitteeseen tapahtuman päättymisen jälkeen tyypillisesti saman vuorokauden aikana (jos striimistä halutaan tallennesivu). Palveluhintaan sisältyvät myös tallennuslaitteelle ennen striimausenkooderia otetut back-up tallenteet vapaasti käytettäväksi vain mahdollisten siirtokustannusten hinnalla - vaikka striimistä ei palvelintallennetta tulisikaan (ei erittelyssä kohtaa “striimisivun muunto tallennesivuksi”). Halutessaan asiakas saa erikseen sovittavalta ajalta live- ja/tai tallennesivun [**analytiikka**raportin](https://help.livestream.com/hc/en-us/articles/224426428-Overview-What-Type-of-Data-Does-Livestream-Analytics-Provide-) yhden kerran.
 
 **Lisäpalvelut:** 
-- logo (neliömallinen): 50 € (+alv)<br>
+- logo (neliömallinen): 75 € (+alv)<br>
 -- vasemmassa tai oikeassa alakulmassa<br>
 -- (sovitaan erikseen miten näytetään)<br>
 - lisäanalytiikkaraportit: 50 € (+alv)/raportti
@@ -50,7 +50,7 @@ Tilaisuuden perusstriimauksessa/tallennuksessa **laskutettavia tunteja** kertyy 
 -- laitteiden purku: 0,5 h<br>
 - jälkeenpäin:<br>
 -- striimisivun muunto tallennesivuksi:  h<br>
-eli laskutus olisi yhteensä  h * 78 €/h =  € (+alv  €).
+eli laskutus olisi yhteensä  h * 85 €/h =  € (+alv  €).
 
 **Viikonvaihteet/pyhät**: Normaalisti viikonvaihteisin lauantai-tunneissa on +20 % ja sunnuntai- & arkipyhätunneissa +50 % korotus (neuvoteltavissa).
 
