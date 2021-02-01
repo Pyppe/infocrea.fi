@@ -13,3 +13,5 @@ Vielä lyhemmästä kuitenkin virsi kauniimpi. Tai ainakin lyhyempi.
 **Pääkaupunkiseudulla** 2-3 kameran kuvasta ja esitysläppärin screenistä miksattu “avaimet käteen” -striimi **puolen päivän** tilaisuudesta maksaa **600 €** (+ alv). Ja jos halutaan striimin lisäksi klipitetty ja järjestetty tallennesivu samaan osoitteeseen (saman päivän aikana), hinta on **700 €** (+alv).
 
 **Koko päivän** tilaisuus (ohjelmaa max 9 tuntia brutto) samoilla spekseillä: striimaus **1000 €** (+alv). Klipitetyllä tallennesivulla samaan osoitteeseen seuraavaksi aamuksi: **1150 €** (+alv). 
+
+*(Edit: tuntihinta päivittyi vuodenvaihteessa 2020/21 kevyesti ylöspäin)*
