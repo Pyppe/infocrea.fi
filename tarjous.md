@@ -6,10 +6,12 @@ title: "Tarjouspohja"
 ---
 
 
+**Infocrea Oy(:n #Striimivaari®) ei pääsääntöisesti enää tarjoa striimauspalveluja. Jotain sentään, katso [täältä]().**<br>
+*(Infocrea Oyn täsmävastaukset tarjouspyyntöihin ovat pohjanneet tällä sivulla esitettyyn informaatioon.)*
+
+
 Infocrea Oy:n striimauspalvelutarjouksen pohja/perusteet
 ========================================================
-
-*(Infocrea Oyn täsmävastaukset tarjouspyyntöihin pohjaavat tällä sivulla esitettyyn informaatioon.)*
 
 Infocrea Oy (kiittää mahdollisesta tarjouspyynnöstänne ja) tarjoaa tilaisuutenne striimaus/tallennuspalvelua “**avaimet käteen**”. 
 
