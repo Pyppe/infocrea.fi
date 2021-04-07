@@ -6,7 +6,7 @@ title: "Tarjouspohja"
 ---
 
 
-**Infocrea Oy(:n #Striimivaari®) ei pääsääntöisesti enää tarjoa striimauspalveluja. Jotain sentään, katso [täältä]().**<br>
+**Infocrea Oy(:n #Striimivaari®) ei pääsääntöisesti enää tarjoa striimauspalveluja. Jotain sentään, katso [täältä](https://www.infocrea.fi/blogi/2021/04/historiasi-havinoita/).**<br>
 *(Infocrea Oyn täsmävastaukset tarjouspyyntöihin ovat pohjanneet tällä sivulla esitettyyn informaatioon.)*
 
 
