@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ensimmäinen mikseri"
+title: "Striimaussetti rakenteilla"
 date: 2021-10-28T20:03:13+0300
 ---
 
@@ -16,11 +16,15 @@ Tein kahdella kameralla ja läppärillä koelähetyksen omalle Livestream.com -t
 
 {% flickr_embed https://flickr.com/photos/jarmolahti/albums/72157720074252423  %}
 
-Facebookin Striimaus-ryhmässä vihjaisin, että setti voisi olla myynnissä, ja jonkin verran mielenkiintoa syntyikin. Vielä ei kauppoja ole kuitenkaan tehty, eli nyt nopea syö hitaat:-)
-
-Esimerkiksi jollekin pienelle yhdistykselle aivan mainio paketti, jolla tuottaa Youtube/Facebook-livestriimiksi tai tosiaan Zoomiin/Teamsiin läppärin webcamin "passikuvaan" verrattuna todella laadukasta videokuvaa.
-
-Striimaus-ryhmässä avaustani kommentoi striimaajakollega [**Jukka O. Kauppinen**](https://www.linkedin.com/in/jukka-o-kauppinen-76b53/) mm. näin:
+Tehtyäni avauksen aiheesta Facebookin Striimaus-ryhmässä sitä kommentoi striimaajakollega [**Jukka O. Kauppinen**](https://www.linkedin.com/in/jukka-o-kauppinen-76b53/) mm. näin:
 
 *"Suosittelen tuota lämpimästi kelle tahansa, valtaisan hyvä pieni mikseri. Vaikka minullakin on isoa ja isompaa kalustoa, niin tuolla on aina ilo tehdä striimejä. Selkeä, toimiva ja monin tavoin paljon parempi vehje kuin moni muu."*
+
+Kun vihjaisin, että setti voisi olla myynnissä, niin jonkin verran mielenkiintoa syntyikin. Striimaajakollegoita taitaa kuitenkin kiinnostaa lähinnä vain Roland back-up -mikserinä ja maksuvalmiuskin on sen mukainen.
+
+Taidankin rakentaa jollekin yhdistykselle vielä valmiimman eli aika lailla täydellisen paketin, kun itselle tarpeetonta kilkettä löytyy hyllyiltä lisääkin:-)
+
+Kehitteillä onkin nyt aivan mainio striimausvalmis paketti, jolla tuottaa Youtube- tai Facebook-livestriimiksi tai tosiaan Zoomiin/Teamsiin läppärin webcamin "passikuvaan" verrattuna todella laadukasta videokuvaa.
+
+Päivittelen tätä blogausta testailun ohessa:-) 
 
