@@ -27,5 +27,6 @@ Taidankin rakentaa jollekin yhdistykselle vielä valmiimman eli aika lailla täy
 
 Kehitteillä onkin nyt aivan mainio striimausvalmis paketti, jolla tuottaa Youtube- tai Facebook-livestriimiksi tai tosiaan Zoomiin/Teamsiin läppärin webcamin "passikuvaan" verrattuna todella laadukasta videokuvaa.
 
-Päivittelen tätä blogausta testailun ohessa. Ja laadin siinä sivussa myös paketin peruskäyttöohjeet ajatellen tosiaan sellaista pientä yritystä tai yhdistystä, jolle paketti sopisi striimaus- ja/tai webinaarikäyttöön.  
+Päivittelen niin tätä blogausta kuin myös yllelinkattua ja -upotettua Flickr-albumia testailun ohessa. 
 
+Ja laadin siinä sivussa myös paketin peruskäyttöohjeet ajatellen tosiaan sellaista pientä yritystä tai yhdistystä, jolle paketti sopisi striimaus- ja/tai webinaarikäyttöön. Yksi yhdistys onkin jo ilmaissut mielenkiintoa pakettia kohtaan.
