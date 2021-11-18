@@ -5,7 +5,7 @@ permalink: /palvelut/
 title: "Palvelut"
 ---
 
-
+<!--
 Palvelukuvaukset
 ================
 
@@ -44,3 +44,4 @@ Ideointiin, briefauksiin, haastatteluihin, kuvauksiin, editointiin, nettijulkais
 Yhteistyömahdollisuuksia?
 -------------------------
 Keskustelemme  mielellämme ideoivasti ylläkuvattujen hinnoitteluperusteiden luovista win-win -vaihtoehdoista.
+-->
