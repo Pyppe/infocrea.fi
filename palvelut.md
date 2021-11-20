@@ -5,6 +5,8 @@ permalink: /palvelut/
 title: "Palvelut"
 ---
 
+Infocrea Oy on lopettanut toimintansa "de jure" 19.10.2021 ja "de facto" keväällä 2021.
+
 <!--
 Palvelukuvaukset
 ================
