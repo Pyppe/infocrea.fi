@@ -1,9 +1,9 @@
 # Site settings
-title: "Infocrea Oy"
-description: "Infocrea Oy - Information w. Creativity | Luovaa tiedonjalostusta"
+title: "(Infocrea Oy) -> Jarmo Lahti"
+description: "infocrea.fi -> jarmolahti.fi"
 baseurl: ""
 url: "https://www.infocrea.fi"
-email: "jarmo.lahti@infocrea.fi"
+email: ""
 
 # Build settings
 markdown: kramdown
