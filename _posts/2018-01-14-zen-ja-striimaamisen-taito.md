@@ -6,7 +6,7 @@ date: 2018-01-14T16:04:54+0200
 
 {% flickr_embed https://www.flickr.com/photos/jarmolahti/39653990832 %}
 
-Runsas viikko sitten uhosin (no en nyt sentään uhonnut) [LinkedInissä](https://www.linkedin.com/feed/update/urn:li:activity:6355433288949207040) kirjoittavani rauta- eli tekniikkakeskeisen [“Striimausrautaa”](http://www.infocrea.fi/blogi/2018/01/striimausrautaa/) -“slow”blogauksen jälkeen jotain "[zen](https://fi.wikipedia.org/wiki/Zen)impää", henkisempää.<!--more-->
+Runsas viikko sitten uhosin (no en nyt sentään uhonnut) [LinkedInissä](https://www.linkedin.com/feed/update/urn:li:activity:6355433288949207040) kirjoittavani rauta- eli tekniikkakeskeisen [“Striimausrautaa”](/blogi/2018/01/striimausrautaa/) -“slow”blogauksen jälkeen jotain "[zen](https://fi.wikipedia.org/wiki/Zen)impää", henkisempää.<!--more-->
 
 Tai ainakin lupailin otsikoksi “Zen ja striimaamisen taito”, joka siis nyt näkyy tuolla ylempänä.
 

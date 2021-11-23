@@ -4,7 +4,7 @@ title: "Ikiomaa sisällöntuotantoa"
 date: 2019-03-16T15:31:00+0200
 ---
 
-Toimittajan (journalistisessa mielessä) kuukausipalkkaiset hommat 2009/2010 lopetettuani on tullut lähinnä striimatuksi toisten sisältöjä ja ikääntymisen seurauksena marraskuusta 2018 lähtien jopa tavaramerkillä [#Striimivaari®](https://www.infocrea.fi/blogi/2018/11/striimivaari-on-rekisteroity-tavaramerkki/). On siis korkea aika aloittaa ikioma sisällöntuotanto:
+Toimittajan (journalistisessa mielessä) kuukausipalkkaiset hommat 2009/2010 lopetettuani on tullut lähinnä striimatuksi toisten sisältöjä ja ikääntymisen seurauksena marraskuusta 2018 lähtien jopa tavaramerkillä [#Striimivaari®](/blogi/2018/11/striimivaari-on-rekisteroity-tavaramerkki/). On siis korkea aika aloittaa ikioma sisällöntuotanto:
 
 {% livestream https://livestream.com/accounts/190565/events/7675184/player %} 
 <!--more--> 

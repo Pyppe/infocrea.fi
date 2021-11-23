@@ -16,7 +16,7 @@ Olen itse Premium-partneri eli toiminnassa mukana. Runebergin päivän kasvupäi
 
 Perjantaiaamuna 7:30-10:30 oli vuorossa [Verkostoidu.net](http://verkostoidu.net)-tilaisuus Hotelli Presidentissä Helsingin ydinkeskustasssa. Tässä tilaisuudessa Infocrea Oy oli mukana yhteistyökumppanina eli pienellä osastolla (roll-up ja pieni pöytä:-) striimausta demoamassa ja juttelemassa.
 
-Hotelli Presidentistä tapahtuvaa suoraa lähetystä pääsi varsinaisen [striimisivun](https://new.livestream.com/Infocrea-fi/verkostoidu-net-miniseminaari) (nyt jo tallennesivu) lisäksi katselemaan blogauksesta [täällä](http://www.infocrea.fi/blogi/2015/02/miniseminaari-somen-ja-verkostojen-hyodyntamisesta/) Infocrea Oy:n omalla saitilla sekä Uusisuomi.fi:n [Yrityskanavalla](http://infocrea.palvelut.uusisuomi.fi/2015/02/05/miniseminaari-somesta-ja-verkostoitumisesta/). Niissä näkyy nyt jälkeenpäin sama videovalikko joka on myös tässä alla, mutta tapahtuman aikana samassa ikkunassa näkyi suora lähetys Hotelli Presidentistä.
+Hotelli Presidentistä tapahtuvaa suoraa lähetystä pääsi varsinaisen [striimisivun](https://new.livestream.com/Infocrea-fi/verkostoidu-net-miniseminaari) (nyt jo tallennesivu) lisäksi katselemaan blogauksesta [täällä](/blogi/2015/02/miniseminaari-somen-ja-verkostojen-hyodyntamisesta/) Infocrea Oy:n omalla saitilla sekä Uusisuomi.fi:n [Yrityskanavalla](http://infocrea.palvelut.uusisuomi.fi/2015/02/05/miniseminaari-somesta-ja-verkostoitumisesta/). Niissä näkyy nyt jälkeenpäin sama videovalikko joka on myös tässä alla, mutta tapahtuman aikana samassa ikkunassa näkyi suora lähetys Hotelli Presidentistä.
 
 {% livestream https://new.livestream.com/accounts/190565/events/3776467/player %}
 

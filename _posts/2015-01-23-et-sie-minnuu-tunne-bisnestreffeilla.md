@@ -16,5 +16,5 @@ Alustusten jälkeen kysyttiin ja keskusteltiin.
 
 <iframe width="900" height="675" src="https://www.quickprese.com/embed/GuIre2/bisnestreffit-108-digi-id-keskustelua" frameborder="0" allowfullscreen></iframe>
 
-Ylläolevat upotukset ovat Quickprese-esityksistä, joiden kuvat on otettu Samsung Galaxy S5 -kännykällä ja ääni otettu talteen Zoom H1 -digitallentimilla. Quickprese-palvelun [tilannekatsausblogaus](http://www.infocrea.fi/blogi/2015/01/helppoa-kuvaaani-palvelua-pilotoimaan/) parin viikon takaa.
+Ylläolevat upotukset ovat Quickprese-esityksistä, joiden kuvat on otettu Samsung Galaxy S5 -kännykällä ja ääni otettu talteen Zoom H1 -digitallentimilla. Quickprese-palvelun [tilannekatsausblogaus](/blogi/2015/01/helppoa-kuvaaani-palvelua-pilotoimaan/) parin viikon takaa.
 

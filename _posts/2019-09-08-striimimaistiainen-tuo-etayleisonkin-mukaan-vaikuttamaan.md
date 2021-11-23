@@ -18,4 +18,4 @@ Linkki striimimaistiaistarjoukseen löytyy Infocrea Oy:n **[striimaus/tallennusp
 
 ----------
 
-Aiheeseen ("striimiyleisö paremmin mukaan") liittyvä pikku **[vinkki](https://www.infocrea.fi/blogi/2018/04/screeniosoittelut-nakymaan/)**. (Ko. vimpain on #Striimivaari®n laukussa; saat striimattavan tapahtuman yhteydessä kokeilla halutessasi ihan ilmaiseksi, mutta lataa esityskoneellesi ensin tarvittava [ajuri](https://support.logi.com/hc/en-us/articles/360024844213--Downloads-Spotlight-Presentation-Remote).)
+Aiheeseen ("striimiyleisö paremmin mukaan") liittyvä pikku **[vinkki](/blogi/2018/04/screeniosoittelut-nakymaan/)**. (Ko. vimpain on #Striimivaari®n laukussa; saat striimattavan tapahtuman yhteydessä kokeilla halutessasi ihan ilmaiseksi, mutta lataa esityskoneellesi ensin tarvittava [ajuri](https://support.logi.com/hc/en-us/articles/360024844213--Downloads-Spotlight-Presentation-Remote).)

@@ -11,5 +11,5 @@ Sellainen on Infocrea Oy:n Jarmo Lahti. Jos ette tätä blogia usko, niin lukeka
 
 Kirja löytyy mm. [kustantajan verkkokaupasta](http://www.docendo.fi/sosiaalisen-median-kasikirja.html), tätä kirjoitettaessa jopa tarjoushintaan.
 
-[Kutsu Jarmo kameran kanssa](http://www.infocrea.fi/blogi/2014/12/videoterveiset-seminaarisi-yleisolle/) käymään, juttelemaan vaikka seminaarisi striimaamisesta - ja siitäkin, miten sitä luvattua teaseria voisi hyödyntää sosiaalisessa mediassa. 
+[Kutsu Jarmo kameran kanssa](/blogi/2014/12/videoterveiset-seminaarisi-yleisolle/) käymään, juttelemaan vaikka seminaarisi striimaamisesta - ja siitäkin, miten sitä luvattua teaseria voisi hyödyntää sosiaalisessa mediassa. 
 

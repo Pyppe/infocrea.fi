@@ -8,7 +8,7 @@ Löytyykö historiasi havinoita Infocrea Oy:n striimikanavilta ["Infocrea-fi"](h
 
 Nimittäin #Striimivaari® on vähitellen pistämässä ns. hanskoja naulaan eli  aloittelemassa siirtymistä kohti oikeita eläkepäiviä. Siksi myös ym. striimi- ja tallennekanavat ovat poistumassa vuoden 2021 loppuun mennessä.
 
-Infocrea Oy:n **[Jarmo Lahti](https://www.infocrea.fi/cv/)**, vuoden 2018 lokakuusta lähtien tosiaan [Striimivaari®](https://www.infocrea.fi/blogi/2018/11/striimivaari-on-rekisteroity-tavaramerkki/), on entisenä IT-journalistina monen montaa tilaisuutta striimatessaan pongannut niin uutis- kuin monenlaisen muunkin (lehti)jutun ideoita, ihan ns. selkärangasta:-).
+Infocrea Oy:n **[Jarmo Lahti](https://www.infocrea.fi/cv/)**, vuoden 2018 lokakuusta lähtien tosiaan [Striimivaari®](/blogi/2018/11/striimivaari-on-rekisteroity-tavaramerkki/), on entisenä IT-journalistina monen montaa tilaisuutta striimatessaan pongannut niin uutis- kuin monenlaisen muunkin (lehti)jutun ideoita, ihan ns. selkärangasta:-).
 
 No, uutisaiheita ei tallenteista enää ehkä kannata etsiä. Mutta jospa historian - vaikkapa vain henkilökohtaisen historian - havinoita?
 

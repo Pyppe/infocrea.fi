@@ -4,13 +4,13 @@ title: "Striimivaarin vinkki #2"
 date: 2019-02-10T17:48:34+0200
 ---
 
-Itse asiassa tämä vinkki tuli annetuksi jo "sarjan" [avausblogauksen](https://www.infocrea.fi/blogi/2019/01/striimivaari-vinkkailee/) PS-osiossa. Mutta koska vinkki on oikeasti arvokas, niin tehdäänpä aiheesta ihan oma blogauksensa sarjan toiseksi osaksi. Aihe on esitysdiojen esittäminen kunnollisesti eli niin, että pointtaukset todella näkyvät - ja salissa olevan yleisön lisäksi myös striimin seuraajille.<!--more-->
+Itse asiassa tämä vinkki tuli annetuksi jo "sarjan" [avausblogauksen](/blogi/2019/01/striimivaari-vinkkailee/) PS-osiossa. Mutta koska vinkki on oikeasti arvokas, niin tehdäänpä aiheesta ihan oma blogauksensa sarjan toiseksi osaksi. Aihe on esitysdiojen esittäminen kunnollisesti eli niin, että pointtaukset todella näkyvät - ja salissa olevan yleisön lisäksi myös striimin seuraajille.<!--more-->
 
 Monesti diat otetaan striimiin suoraan esityksiä pyörittävän läppäriltä ns. "piuhaa pitkin". Ja monesti esittäjä näyttää kalvolta pointattavia kohtia laserosoittimella. Punainen laserpiste näkyy jotenkuten saliyleisölle, mutta striimiinhän se ei siirry lainkaan.
 
 Joku toinen voi näyttää kalvon yksityiskohtia läppärin kursorin avulla. Tällöin informaatio siirtyy kyllä myös striimiin, mutta peruskursori on näytöllä varsin huomaamaton.
 
-Tätä tilannetta korjaa aivan oivallisesti ainakin yksi esityskaukosäädin eli [Logitech Spotlight](https://www.logitech.com/fi-fi/product/spotlight-presentation-remote). (Josta [blogasin](https://www.infocrea.fi/blogi/2018/04/screeniosoittelut-nakymaan/) ensimmäisen kerran huhtikuussa 2018.)
+Tätä tilannetta korjaa aivan oivallisesti ainakin yksi esityskaukosäädin eli [Logitech Spotlight](https://www.logitech.com/fi-fi/product/spotlight-presentation-remote). (Josta [blogasin](/blogi/2018/04/screeniosoittelut-nakymaan/) ensimmäisen kerran huhtikuussa 2018.)
 
 Tähän vinkkiblogaukseen en siksikään juuri teksti enää lisää. Mitä nyt alleviivaan sitä, että Spotlight on kaukosäädin. Ei siis tarvitse kököttää sen läppärin takana. Mutta videointia ajatellen: ei sinne kirkkaan screenin eteenkään tarvitse mennä:-)
 

@@ -8,7 +8,7 @@ Viikko sitten kysyin [LinkedInissä](https://www.linkedin.com/feed/update/urn:li
 
 Vaikka peukutuksia tällä hetkellä vain kuusi 549:llä lukukerralla, niin taidan sittenkin blogaista. Olenhan sentään aikaisemmassa elämässä journalistina aikoinaan osallistunut tuhansiin seminaarityyppisiin tilaisuuksiin ja viime vuosina puolestaan digitalisoinut sellaisia sadoittain [#striimivaari®](https://twitter.com/search?f=tweets&vertical=default&q=%23striimivaari&src=typd&lang=fi)na. Jotain pohjaa tässä siis on viisastella. Joten:<!--more-->
 
-Ensinnäkin todettakoon, että olen aiheesta tosiaan aikaisemminkin samaa saarnaa messunnut, esimerkiksi viime heinäkuussa ennen kesälamaa blogauksella [“Striimaustyypin lyhyt tapahtumaepistola”](https://www.infocrea.fi/blogi/2018/07/striimaustyypin-lyhyt-tapahtumaepistola/).
+Ensinnäkin todettakoon, että olen aiheesta tosiaan aikaisemminkin samaa saarnaa messunnut, esimerkiksi viime heinäkuussa ennen kesälamaa blogauksella [“Striimaustyypin lyhyt tapahtumaepistola”](/blogi/2018/07/striimaustyypin-lyhyt-tapahtumaepistola/).
 
 Alla epistola ja vastaavat muut saarnat lyhyenä “10 käskyä” -listana. (“Mitä se on” -ohjeita saat striimaajalta/striimaajilta etenkin niiltä osin kuin käsky sivuaa striimausta/tallennusta.) 
 
@@ -27,7 +27,7 @@ Alla epistola ja vastaavat muut saarnat lyhyenä “10 käskyä” -listana. (�
 7. Lataa esitysmateriaali jo ennen tilaisuutta nettiin esim. [Slideshare](https://www.slideshare.net/)-palveluun ja kerro linkki/linkit yleisö(i)lle
 
 8. Muista kalvoilla esitettävien asioiden laadukas osoittaminen niin paikalla olevalle kuin myös striimiyleisölle
-([vinkki](https://www.infocrea.fi/blogi/2018/04/screeniosoittelut-nakymaan/))
+([vinkki](/blogi/2018/04/screeniosoittelut-nakymaan/))
 
 9. Ota huomioon “striimin varrella” oleva etäyleisö (mm. paluukanava kysymyksiä ja kommentteja varten - ja niihin reagointi)
 
@@ -37,7 +37,7 @@ Alla epistola ja vastaavat muut saarnat lyhyenä “10 käskyä” -listana. (�
 
 Lue myös:
 
-- [Striimivaarin nettiyhteyssalkku](https://www.infocrea.fi/blogi/2018/10/striimivaarin-nettiyhteyssalkku/)
-- [Onnistuneen striimin resepti](https://www.infocrea.fi/blogi/2018/03/onnistuneen-striimin-resepti/)
+- [Striimivaarin nettiyhteyssalkku](/blogi/2018/10/striimivaarin-nettiyhteyssalkku/)
+- [Onnistuneen striimin resepti](/blogi/2018/03/onnistuneen-striimin-resepti/)
 - [Striimivaari®n "avaimet käteen" -striimauksen tarjouspohja](https://www.infocrea.fi/tarjous/)
 - [Laadukkaan livestriimin kolme pointtia](https://www.linkedin.com/pulse/laadukkaan-livestriimin-kolme-pointtia-jarmo-lahti/)

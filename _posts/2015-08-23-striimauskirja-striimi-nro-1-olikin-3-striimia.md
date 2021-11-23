@@ -4,7 +4,7 @@ title: "Striimauskirja-striimi nro 1 olikin 3 striimiä"
 date: 2015-08-23T13:42:00+0300
 ---
 
-Kuten [edellisessä blogauksessa](http://www.infocrea.fi/blogi/2015/08/mobiilistriimauksen-evankelista-striimauskirja-striimissa/) kerrottiin, perjantaina 21.8.2015 lähes välittömästi Digi-ID -Bisnestreffien jälkeen niiden striimaaja **Kurt Linderoos** kertoi kokemuksiaan mobiilistriimauksesta Striimauskirja-striimissä, jonka noin 40-minuuttinen tallenne on tässä alla:
+Kuten [edellisessä blogauksessa](/blogi/2015/08/mobiilistriimauksen-evankelista-striimauskirja-striimissa/) kerrottiin, perjantaina 21.8.2015 lähes välittömästi Digi-ID -Bisnestreffien jälkeen niiden striimaaja **Kurt Linderoos** kertoi kokemuksiaan mobiilistriimauksesta Striimauskirja-striimissä, jonka noin 40-minuuttinen tallenne on tässä alla:
 
 {% livestream https://new.livestream.com/accounts/190565/events/4221401/videos/96838813/player %}<!--more-->
 
