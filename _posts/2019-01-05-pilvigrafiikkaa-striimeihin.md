@@ -16,7 +16,7 @@ Otin siis kuvan nimikortistani, jonka kääntöpuolella on kännykän yhteystiet
 
 {% flickr_embed https://www.flickr.com/photos/jarmolahti/sets/72157703929562191 %}
 
-Sitten muistin, että onhan firmalla myös hieno [audiovisuaalinenkin logo](https://www.infocrea.fi/blogi/2016/01/5-taalan-logo/), joka löytyy YouTubestakin: 
+Sitten muistin, että onhan firmalla myös hieno [audiovisuaalinenkin logo](/blogi/2016/01/5-taalan-logo/), joka löytyy YouTubestakin: 
 
 {% youtube GRX7OeWUZPA %}
 

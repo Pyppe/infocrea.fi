@@ -14,10 +14,10 @@ Kauppalehden jutun lopussa muuten nostetaan vanha kunnon sähköposti ihan mukav
 
 Samaa sanomaa on kuultu [Drayton Bird Associates Finlandin](http://www.draytonbird.fi/) **Timo Jäppiseltä**, jolta jo ennen kesälomia tuli ostetuksi blogauksiin ja sähköposti"moottoriin" perustuva sisältömarkkinointipaketin "tuotteistus", joka tosin niin konsuntointina kuin ennenkaikkea toteutuksena on vielä toistaiseksi varsin vaiheessa. (Ihan itsestäni riippuvista syistä.)
 
-Vaan nyt ikäänkuin sattuma pökkii sitä asiaa eteenpäin: Ensin [nakittauduin](http://www.infocrea.fi/blogi/2014/11/digitalisointi-antaa-tapahtumalle-uusia-ulottuvuuksia/) kirjoittamaan aiheesta "Tapahtumien digitalisointi" viikon alussa [striimaamani](https://new.livestream.com/ITstriimIT/bisnesdigiopas) *Liiketoiminnan digitalisoinnin oppaan* starttipalalaverin jälkeen, sen innostamana.
+Vaan nyt ikäänkuin sattuma pökkii sitä asiaa eteenpäin: Ensin [nakittauduin](/blogi/2014/11/digitalisointi-antaa-tapahtumalle-uusia-ulottuvuuksia/) kirjoittamaan aiheesta "Tapahtumien digitalisointi" viikon alussa [striimaamani](https://new.livestream.com/ITstriimIT/bisnesdigiopas) *Liiketoiminnan digitalisoinnin oppaan* starttipalalaverin jälkeen, sen innostamana.
 
 Ja nyt siis tämä sosiaaliseen mediaan - Facebookiin tai Twitteriin:-) - linkatun jutun viesti muistutti aiheesta ja antoi myös idean yhdistää kahta asiaa: opasartikkelin ja oman sisältömarkkinoinnin luomista.
 
 Eli jos kiinnostaa lähitulevaisuudessa saada sähköpostiisi rauhalliseen tahtiin tilaisuuksien videosuoratoistoihin eli striimauksiin ja muuhun tapahtumien digitalisointiin liittyviä tieto- ja ideapaketteja tai linkkejä sellaisiin, niin täytä ja lähetä [yhteystietosivulta](http://www.infocrea.fi/yhteystiedot/) viesti "Tietoa tapahtumien digitalisoinnista" -aihevalinnalla.
 
-**PS** Tähän blogaukseen tuli puolivahingossa esimerkiksi hieman epätavallisemman tapahtuman digitalisointi, jonka jälkituunauskin oli/on normaalia vähäisempi. Tyypillisemmistä tallenteista hieman [tässä blogauksessa](http://www.infocrea.fi/blogi/2014/11/ambientia-upotti-hienosti-konferenssin/).
+**PS** Tähän blogaukseen tuli puolivahingossa esimerkiksi hieman epätavallisemman tapahtuman digitalisointi, jonka jälkituunauskin oli/on normaalia vähäisempi. Tyypillisemmistä tallenteista hieman [tässä blogauksessa](/blogi/2014/11/ambientia-upotti-hienosti-konferenssin/).

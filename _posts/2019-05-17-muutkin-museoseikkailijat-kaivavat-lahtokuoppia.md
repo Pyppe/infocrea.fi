@@ -4,7 +4,7 @@ title: "Muutkin museoseikkailijat kaivavat lähtökuoppia"
 date: 2019-05-17T23:39:15+0300
 ---
 
-Kolme viikko sitten [kerroin](https://www.infocrea.fi/blogi/2019/04/striimivaarin-museokierros-2019/) "julkisesti" #Striimivaari®n jättäneen hakemuksen kesän 2019 museoseikkailijaksi. Hakuaika päättyi 6.5. ja sen jälkeen on muutama muukin hakemus sometettu kaikelle kansalle. Ja ihan hauskoja hakemuksia onkin jätetty. 
+Kolme viikko sitten [kerroin](/blogi/2019/04/striimivaarin-museokierros-2019/) "julkisesti" #Striimivaari®n jättäneen hakemuksen kesän 2019 museoseikkailijaksi. Hakuaika päättyi 6.5. ja sen jälkeen on muutama muukin hakemus sometettu kaikelle kansalle. Ja ihan hauskoja hakemuksia onkin jätetty. 
 
 (Päivitykset (8.6. ja 13.6.) blogauksen lopussa.)
 <!--more-->

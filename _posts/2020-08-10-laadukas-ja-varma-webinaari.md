@@ -4,7 +4,7 @@ title: "Laadukas ja varma webinaari"
 date: 2020-08-10T21:12:52+0300
 ---
 
-Aikaisemmassa blogahduksessa #Striimivaari® sanaili ja hieman demosikin "[webkameran kvanttihyppyä](https://www.infocrea.fi/blogi/2020/05/webinaarikameran-kvanttihyppy/)". Mm. Teamsiin ja Zoomiin onkin noita toteutettu myös asiakkaille:<br>
+Aikaisemmassa blogahduksessa #Striimivaari® sanaili ja hieman demosikin "[webkameran kvanttihyppyä](/blogi/2020/05/webinaarikameran-kvanttihyppy/)". Mm. Teamsiin ja Zoomiin onkin noita toteutettu myös asiakkaille:<br>
 {% flickr_embed https://www.flickr.com/photos/jarmolahti/50210684218/ %}<br>
 Tällä kertaa muutama sana sanoman perillemenon varmistamisesta.<!--more-->
 

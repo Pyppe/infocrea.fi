@@ -4,7 +4,7 @@ title: "Kokeiluja 360-videolla"
 date: 2016-08-05T15:25:53+0300
 ---
 
-[Edellisessä blogauksessa](http://www.infocrea.fi/blogi/2016/08/kokeiluja-360-kuvalla/) tuli kokeilluksi 360-valokuvien upotusta tälle blogialustalle. Nyt on vuorossa 360-video, kamerana ja julkaisutyökaluna edelleen Samsung Gear 360 ja Samsung Galaxy S7 -älykännykkä.<!--more-->
+[Edellisessä blogauksessa](/blogi/2016/08/kokeiluja-360-kuvalla/) tuli kokeilluksi 360-valokuvien upotusta tälle blogialustalle. Nyt on vuorossa 360-video, kamerana ja julkaisutyökaluna edelleen Samsung Gear 360 ja Samsung Galaxy S7 -älykännykkä.<!--more-->
 
 Ihan ensimmäiseksi on kyllä todettava, että kovin laadukasta videotarkkuutta en näissä ensimmäisissä testeissä ole löytänyt.
 

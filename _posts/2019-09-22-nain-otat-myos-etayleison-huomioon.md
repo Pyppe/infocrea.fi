@@ -34,7 +34,7 @@ Toinen esitysmateriaaliin liittyvä juttu on yksityiskohtien osoittaminen screen
 
 Jos niitä osoitellaan kädellä tai pienen punaisen pisteen näyttävällä laserosoittimella, nämä osoittelut eivät siirry striimiin lainkaan, jos se muuten laadukkaasti siirretään sinne “splitattuna ja skaalattuna” “piuhaa pitkin”. Eikä niin niiden kuin esityskoneen peruskursorinkaan näkyvyys sen koommin läsnäyleisölle näkyvällä isolla screenillä kuin striimikatsojalle läppärinsä ruudulla, kännykästä puhumattakaan, ole kovinkaan kummoinen.
 
-#Striimivaari® suositteleekin lämpimästi **esityskaukosäädintä**, joka nostaa esitysten laatua sekä paikan päällä olevalle yleisölle että ennen kaikkea striimin ja/tai tallenteen katsojille. Yksi sellainen oli esillä #Striimivaari®n [blogauksessa](https://www.infocrea.fi/blogi/2018/04/screeniosoittelut-nakymaan/) huhtikuussa 2018.
+#Striimivaari® suositteleekin lämpimästi **esityskaukosäädintä**, joka nostaa esitysten laatua sekä paikan päällä olevalle yleisölle että ennen kaikkea striimin ja/tai tallenteen katsojille. Yksi sellainen oli esillä #Striimivaari®n [blogauksessa](/blogi/2018/04/screeniosoittelut-nakymaan/) huhtikuussa 2018.
 
 Esitysmateriaaliin on hyvä viedä jo ennen tapahtumaa [SlideShare](https://www.slideshare.net/)- tai muun vastaavan palvelun kautta katsottavaksi omaan tahtiin. Ja antaa kalvojen katsomisosoite mielellään myös striimisivulta klikattavaksi.
 
@@ -48,4 +48,4 @@ Mutta käytetäänpä sitten some-hashtageja tai striimialustan **chattia**, nii
 
 Etäyleisöä, ja toki myös läsnäyleisöä, voidaan erilaisia **digitaalisia virtuaalityötiloja ja -kaluja** käyttäen myös osallistuttaa määrämuotoisemminkin tapahtuman aiheen tai jonkin sen osa-alueen työstöön sekä ennen tapahtumaa, sen aikana ja myös tapahtuman jälkeen.
 
-Yksi mainio digityökalu tapahtuman osanottajien osallistuttamiseen, sitouttamiseen ja vaikuttavuuden lisäämiseen löytyy **[Innoduel](https://www.innoduel.com/fi)**ilta. Se tuntui #Striimivaari®sta niin hyvältä, että se on nyt tarjolla nopeana mutta käyttökelpoisena **[“striimimaistiaisena”](https://www.infocrea.fi/blogi/2019/09/striimimaistiainen-tuo-etayleisonkin-mukaan-vaikuttamaan/)** Infocrea Oy:n striimi**[tarjouksissa](https://www.infocrea.fi/tarjous/)**. 
+Yksi mainio digityökalu tapahtuman osanottajien osallistuttamiseen, sitouttamiseen ja vaikuttavuuden lisäämiseen löytyy **[Innoduel](https://www.innoduel.com/fi)**ilta. Se tuntui #Striimivaari®sta niin hyvältä, että se on nyt tarjolla nopeana mutta käyttökelpoisena **[“striimimaistiaisena”](/blogi/2019/09/striimimaistiainen-tuo-etayleisonkin-mukaan-vaikuttamaan/)** Infocrea Oy:n striimi**[tarjouksissa](https://www.infocrea.fi/tarjous/)**. 

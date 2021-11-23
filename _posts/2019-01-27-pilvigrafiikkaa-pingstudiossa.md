@@ -4,7 +4,7 @@ title: "Pilvigrafiikkaa PINGstudiossa"
 date: 2019-01-27T12:07:26+0200
 ---
 
-Striimivaari® pisti loppiaisen aikoihin [ensikäpistelemänsä](https://www.infocrea.fi/blogi/2019/01/pilvigrafiikkaa-striimeihin/) LiveU Solo Cloud Graphicsin ensimmäisen kerran tuotantoon viime viikolla eli 23.1. "Kasvun työkalut 2019" -[PINGstudio](https://pinghelsinki.fi/pingstudio/)n striimissä:
+Striimivaari® pisti loppiaisen aikoihin [ensikäpistelemänsä](/blogi/2019/01/pilvigrafiikkaa-striimeihin/) LiveU Solo Cloud Graphicsin ensimmäisen kerran tuotantoon viime viikolla eli 23.1. "Kasvun työkalut 2019" -[PINGstudio](https://pinghelsinki.fi/pingstudio/)n striimissä:
 
 {% livestream https://livestream.com/accounts/190565/events/8522329/player %}
 

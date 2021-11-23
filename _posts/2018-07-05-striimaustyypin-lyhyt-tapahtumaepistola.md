@@ -33,5 +33,5 @@ Yllä siis muutama perusjuttu muistettavaksi tapahtumatilaa harkittaessa ja vara
 
 **Lue myös:**
 
-- [Striimaustyyppi aukaisee työkalupakkinsa](http://www.infocrea.fi/blogi/2018/03/onnistuneen-striimin-resepti/)
-- [Tällä esityskaukosäätimellä lisää laatua esityksiin](http://www.infocrea.fi/blogi/2018/04/screeniosoittelut-nakymaan/)
+- [Striimaustyyppi aukaisee työkalupakkinsa](/blogi/2018/03/onnistuneen-striimin-resepti/)
+- [Tällä esityskaukosäätimellä lisää laatua esityksiin](/blogi/2018/04/screeniosoittelut-nakymaan/)
