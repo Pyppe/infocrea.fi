@@ -25,7 +25,7 @@ Infocrea Oy tarjosi ja toteutti 2010-luvulla videotallennus- ja etenkin -striima
 
 **Mutta ei siis toteuta enää:-)**
 
-(Monikamerakuvattujen suoratoistojen eli striimien tallenteita löytyy vuoden 2021 loppuun asti Infocrea Oy:n Livestream.com -kanavilla [Infocrea-fi](https://new.livestream.com/Infocrea-fi) ja [ITstriimIT](https://livestream.com/itstriimit).)
+(Monikamerakuvattujen suoratoistojen eli striimien tallenteita löytyy vuoden 2021 loppuun asti Infocrea Oy:n Livestream.com -kanavilla [Infocrea-fi](https://new.livestream.com/Infocrea-fi) ja [ITstriimIT](https://livestream.com/itstriimit). - Löydätkö itsesi? [Tsekkaa tämä](/blogi/2021/04/historiasi-havinoita/) ja myös sen kommentit, joita seuraamalla löytyy itsepalvelulinkki...)
 
 ## Jarmo Lahti ?
 
