@@ -21,9 +21,9 @@ preContent: |
 
 ## Infocrea Oy ?
 
-Infocrea Oy tarjosi ja toteutti 2010-luvulla videotallennus- ja etenkin -striimauspalveluita.
+Infocrea Oy tarjosi ja toteutti 2000-luvulla videotallennus- ja etenkin -striimauspalveluita. (Viime vuosituhat: katso perustaja Jarmo Lahden CV alempana.)
 
-**Mutta ei siis toteuta enää:-)**
+**Mutta ei toteuta enää. Striimauksia, siis**
 
 (Monikamerakuvattujen suoratoistojen eli striimien tallenteita löytyy vuoden 2021 loppuun asti Infocrea Oy:n Livestream.com -kanavilla [Infocrea-fi](https://new.livestream.com/Infocrea-fi) ja [ITstriimIT](https://livestream.com/itstriimit). - Löydätkö itsesi? [Tsekkaa tämä](/blogi/2021/04/historiasi-havinoita/) ja myös sen kommentit, joita seuraamalla löytyy itsepalvelulinkki...)
 
