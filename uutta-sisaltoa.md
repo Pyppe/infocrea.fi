@@ -41,6 +41,12 @@ Koulun Jarmo aloitti vuonna 1959 eli 6-vuotiaana silloisessa Harvialan kansakoul
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/f5c529df-6c68-46e6-24f4-0125a2878a00/public 
 
+Kuvassa (yllä) Jarmo alarivissä oikealla.
+
+[Oppikoulun](https://fi.wikipedia.org/wiki/Oppikoulu) Jarmo aloitti vuonna 1963 asuessaan jo Sääjärveä paljon urbaanimmassa paikassa eli Hikiällä Hausjärven kunnassa. Koulu oli [Riihimäen yhteiskoulu](https://www.yksityiskoulut.fi/yksityiskoulujenmatrikkeli/riihimaen2.htm), jonka kaikkien aikojen ensimmäinen luokka aloitti syksyllä 1963. Ja kaikkien aikojen ensimmäiset Riihimäen yhteiskoulun ylioppilaat lakitettiin 1971, kuvassa alla Jarmo takarivissä toinen oikealta:
+
+https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/d5ab537d-5f0e-4bf6-6ce8-02c4d47cb900/public
+
 TBC...
 
 **Blogi**
