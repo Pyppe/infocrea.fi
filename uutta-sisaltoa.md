@@ -22,7 +22,9 @@ Siksi siis nämä sivut tällä verkko-osoitteella.
 
 *Blogi*ssa Jarmo avautuu säännöllisen epäsäännöllisesti milloin mistäkin itselleen ja ehkä joskus yleisemminkin ajankohtaisesta tai kiinnostavasta asiasta.
 
-*Uutiset*-sivulla on ideana, että siellä herätellään eloon wanhoja Infocrea Oy:n vuonna 1993-1995 julkaiseman InfoLinja-lehden sekä Jarmo Lahden [ITviikko](https://fi.wikipedia.org/wiki/It-viikko)-lehteen vuosina 2000-2009 kirjoittamia juttuja tai juttujen aiheita. Tai jos eivät ole kuolleita, niin katsotaan asiaa uudelleen tai uudesta ajan avartamasta näkövinkkelistä.
+*Uutiset*-sivulla on ideana, että siellä herätellään eloon wanhoja Infocrea Oy:n vuonna 1993-1995 julkaiseman InfoLinja-lehden sekä Jarmo Lahden [ITviikko](https://fi.wikipedia.org/wiki/It-viikko)-lehteen vuosina 2000-2009 kirjoittamia juttuja tai juttujen aiheita. Tai jos eivät ole kuolleita, niin katsotaan asiaa uudelleen ja uudesta ajan avartamasta näkövinkkelistä.
+
+https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587cdcc00/public 
 
 
 **Jarmo**
