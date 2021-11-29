@@ -22,7 +22,7 @@ Siksi siis nämä sivut tällä verkko-osoitteella.
 
 *Blogi*ssa Jarmo avautuu säännöllisen epäsäännöllisesti milloin mistäkin itselleen ja ehkä joskus yleisemminkin ajankohtaisesta tai kiinnostavasta asiasta.
 
-*Uutiset*-sivulla on ideana, että siellä herätellään eloon wanhoja Infocrea Oy:n vuonna 1993-1995 julkaiseman InfoLinja-lehden sekä Jarmo Lahden [ITviikko](https://fi.wikipedia.org/wiki/It-viikko)-lehteen vuosina 2000-2009 kirjoittamia juttuja tai juttujen aiheita. Tai jos eivät ole kuolleita, niin katsotaan asiaa uudelleen ja uudesta ajan avartamasta näkövinkkelistä.
+*Uutiset*-sivulla on ideana, että siellä herätellään eloon wanhoja Infocrea Oy:n vuonna 1993-1995 julkaiseman InfoLinja-lehden sekä Jarmo Lahden [ITviikko](https://fi.wikipedia.org/wiki/It-viikko)-lehteen vuosina 2000-2009 kirjoittamia juttuja tai juttujen aiheita. Tai jos eivät ole vielä kuolleita, niin katsotaan asiaa uudelleen ja uudesta ajan avartamasta näkövinkkelistä.
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587cdcc00/public 
 
@@ -37,19 +37,23 @@ Lapsuus ennen kouluikää kului Sääjärven kylässä. Lapsuuskoti oli entisen 
 
 Kämppä ja Jarmon äiti kämppäemäntänä vuonna 1956 näkyy [Felix Forsmanin](https://www.hs.fi/muistot/art-2000002627634.html) vuonna 1957 valmistuneessa teollisuusdokumenttivideossa ["Suomi sahaa"](https://elonet.finna.fi/Record/kavi.elonet_elokuva_612441), 3m33s alusta. Filmi oli Suomen Sahanomistajayhdistyksen tilaama ja palkittiin Torinon teollisuuselokuvafestivaaleilla vuonna 1959. Se oli ensimmäisiä suomalaisia tilauskuvia, jotka filmattiin Eastmancolor -väreihin, tiedettiin Kansallisesta audiovisuaalisesta instituutista eli [Kavista](https://kavi.fi/) kertoa vuonna 2016.
 
+Koulun Jarmo aloitti vuonna 1959 eli 6-vuotiaana silloisessa Harvialan kansakoulussa jonka paikalla nykyään toimii Janakkalan kunnan esi- ja perusopetusta antava [Harvialan koulu](https://www.janakkala.fi/palvelut/esi-ja-perusopetus/koulut/harvialan-koulu/). 
+
+https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/f5c529df-6c68-46e6-24f4-0125a2878a00/public 
+
 TBC...
 
 **Blogi**
 
-*Mitä tänään?*
+*Mitä nyt? Entä sitten?*
 
-Tätä päivitellään blogi-pulaattorilla - ?
+(Tätä siis päivitellään blogi-pulaattorilla - ?)
 
-Ensimmäinen blogi logosta ja uuden sivuston tekniikasta (ainakin jotain). Sivustolla voisi olla pysyvästi näkyvillä oleva linkki vanhaan blogiin. Ensin lupaus siitä, ja sitten linkki, kun on käytettävissä. 
+(Ensimmäinen blogi logosta ja uuden sivuston tekniikasta (ainakin jotain). Sivustolla voisi olla pysyvästi näkyvillä oleva linkki vanhaan blogiin. Ensin lupaus siitä, ja sitten linkki, kun on käytettävissä.)
 
 
 **Uutiset**
 
-*Mitä joskus? Mitä sitten?*
+*Mitä joskus? Entä sitten?*
 
-Tätä päivitellään uutinen-pulaattorilla - ? 
+(Tätä päivitellään uutinen-pulaattorilla - ?)
