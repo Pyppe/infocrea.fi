@@ -22,7 +22,7 @@ Siksi siis nämä sivut tällä verkko-osoitteella.
 
 *Blogi*ssa Jarmo avautuu säännöllisen epäsäännöllisesti milloin mistäkin itselleen ja ehkä joskus yleisemminkin ajankohtaisesta tai kiinnostavasta asiasta.
 
-*Uutiset*-sivulla on ideana, että siellä herätellään eloon wanhoja Infocrea Oy:n vuonna 1993-1995 julkaiseman InfoLinja-lehden sekä Jarmo Lahden [ITviikko](https://fi.wikipedia.org/wiki/It-viikko)-lehteen vuosina 2000-2009 kirjoittamia juttuja tai juttujen aiheita. Tai jos eivät ole vielä kuolleita, niin katsotaan asiaa uudelleen ja uudesta ajan avartamasta näkövinkkelistä.
+*[En/Uu]tiset*-sivulla on ideana, että siellä herätellään eloon wanhoja Infocrea Oy:n vuonna 1993-1995 julkaiseman InfoLinja-lehden sekä Jarmo Lahden [ITviikko](https://fi.wikipedia.org/wiki/It-viikko)-lehteen vuosina 2000-2009 kirjoittamia juttuja tai juttujen aiheita. Tai jos eivät ole vielä kuolleita, niin katsotaan asiaa uudelleen ja uudesta ajan avartamasta näkövinkkelistä.
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587cdcc00/public 
 
@@ -43,7 +43,7 @@ https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/f5c529df-6c68-46e6-24f4-0125a28
 
 Kuvassa (yllä) Jarmo alarivissä oikealla.
 
-[Oppikoulun](https://fi.wikipedia.org/wiki/Oppikoulu) Jarmo aloitti vuonna 1963 asuessaan jo Sääjärveä paljon urbaanimmassa paikassa eli Hikiällä Hausjärven kunnassa. Koulu oli [Riihimäen yhteiskoulu](https://www.yksityiskoulut.fi/yksityiskoulujenmatrikkeli/riihimaen2.htm), jonka kaikkien aikojen ensimmäinen luokka aloitti syksyllä 1963. Ja kaikkien aikojen ensimmäiset Riihimäen yhteiskoulun ylioppilaat lakitettiin 1971, kuvassa alla Jarmo takarivissä toinen oikealta:
+[Oppikoulun](https://fi.wikipedia.org/wiki/Oppikoulu) Jarmo aloitti vuonna 1963 asuessaan jo Sääjärveä paljon urbaanimmassa paikassa eli Hikiällä Hausjärven kunnassa. Koulu oli [Riihimäen yhteiskoulu](https://www.yksityiskoulut.fi/yksityiskoulujenmatrikkeli/riihimaen2.htm), jonka kaikkien aikojen ensimmäinen luokka aloitti syksyllä 1963. Ja kaikkien aikojen ensimmäiset Riihimäen yhteiskoulun ylioppilaat lakitettiin 1971; kuvassa alla Jarmo takarivissä toinen oikealta:
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/d5ab537d-5f0e-4bf6-6ce8-02c4d47cb900/public
 
@@ -58,7 +58,7 @@ TBC...
 (Ensimmäinen blogi logosta ja uuden sivuston tekniikasta (ainakin jotain). Sivustolla voisi olla pysyvästi näkyvillä oleva linkki vanhaan blogiin. Ensin lupaus siitä, ja sitten linkki, kun on käytettävissä.)
 
 
-**Uutiset**
+**[En/Uu]tiset**
 
 *Mitä joskus? Entä sitten?*
 
