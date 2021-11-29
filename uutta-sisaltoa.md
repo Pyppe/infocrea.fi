@@ -60,6 +60,6 @@ TBC...
 
 **[En/Uu]tiset**
 
-*Mitä joskus? Entä sitten?*
+*Mitä joskus? Entä nyt?*
 
 (Tätä päivitellään uutinen-pulaattorilla - ?)
