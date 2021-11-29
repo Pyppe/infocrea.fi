@@ -5,7 +5,10 @@ permalink: /uutta-sisaltoa/
 title: "Uutta sisältöä"
 ---
 
-Oletus, että lähdetään liikkeelle [Vercel-lauoutilla](https://jarmolahti-fi.vercel.app/)
+Oletus, että lähdetään liikkeelle [Vercel-lauoutilla](https://jarmolahti-fi.vercel.app/) 
+
+Yleistä: some-ikonit LinkedIn Twitter Facebook Instagram 
+Jakolinkit bloausten ja uutisten yhteyteen
 
 **Etusivu**
 
@@ -24,10 +27,19 @@ Siksi siis nämä sivut tällä verkko-osoitteella.
 
 **Jarmo**
 
-TBD 
+*Kuka päivittää?*
 
+Jarmo Lahti syntyi tammikuussa 1953 entisessä Vanajan kunnassa Hämeessä.
+
+Lapsuus ennen kouluikää kului Sääjärven kylässä. Lapsuuskoti oli entisen [Rosenlewin](https://fi.wikipedia.org/wiki/Rosenlew) "kämpän" tiloissa.
+
+Kämppä ja Jarmon äiti kämppäemäntänä vuonna 1956 näkyy [Felix Forsmanin](https://www.hs.fi/muistot/art-2000002627634.html) vuonna 1957 valmistuneessa teollisuusdokumenttivideossa ["Suomi sahaa"](https://elonet.finna.fi/Record/kavi.elonet_elokuva_612441), 3m33s alusta. Filmi oli Suomen Sahanomistajayhdistyksen tilaama ja palkittiin Torinon teollisuuselokuvafestivaaleilla vuonna 1959. Se oli ensimmäisiä suomalaisia tilauskuvia, jotka filmattiin Eastmancolor -väreihin, tiedettiin Kansallisesta audiovisuaalisesta instituutista eli [Kavista](https://kavi.fi/) kertoa vuonna 2016.
+
+TBC...
 
 **Blogi**
+
+*Mitä tänään?*
 
 Tätä päivitellään blogi-pulaattorilla - ?
 
@@ -35,5 +47,7 @@ Ensimmäinen blogi logosta ja uuden sivuston tekniikasta (ainakin jotain). Sivus
 
 
 **Uutiset**
+
+*Mitä joskus? Mitä sitten?*
 
 Tätä päivitellään uutinen-pulaattorilla - ? 
