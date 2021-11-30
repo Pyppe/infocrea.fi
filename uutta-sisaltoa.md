@@ -24,7 +24,7 @@ Siksi siis nämä sivut tällä verkko-osoitteella.
 
 [*Blogi*]ssa Jarmo avautuu säännöllisen epäsäännöllisesti milloin mistäkin itselleen ja ehkä joskus yleisemminkin ajankohtaisesta tai kiinnostavasta asiasta.
 
-*[En/Uu]tiset*-sivulla on ideana, että siellä herätellään eloon wanhoja Infocrea Oy:n vuonna 1993-1995 julkaiseman InfoLinja-lehden sekä Jarmo Lahden [ITviikko](https://fi.wikipedia.org/wiki/It-viikko)-lehteen vuosina 2000-2009 kirjoittamia juttuja tai juttujen aiheita. Tai jos eivät ole vielä kuolleita, niin katsotaan asiaa uudelleen ja uudesta ajan avartamasta näkövinkkelistä.
+*[En/Uu]tiset*-sivulla on ideana, että siellä herätellään eloon wanhoja Infocrea Oy:n vuonna 1993-1995 julkaiseman InfoLinja-lehden sekä Jarmo Lahden [ITviikko](https://fi.wikipedia.org/wiki/It-viikko)-lehteen vuosina 1999-2009 kirjoittamia juttuja tai juttujen aiheita. Tai jos eivät ole vielä kuolleita, niin katsotaan asiaa uudelleen tai uudesta ajan avartamasta näkövinkkelistä.
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587cdcc00/public 
 
@@ -83,7 +83,7 @@ Diplomityö valmistui saatuani kirjallisuusosion typistetyksi kohtuulliseen mitt
 
 *Mitä joskus? Entä nyt?*
 
-InfoLinjan (1993-1995) ja Jarmo Lahden ITviikkoon 2000-2009 kirjoittamia vanhoja juttuja uudelleenlämmitettynä
+InfoLinjan (1993-1995) ja Jarmo Lahden ITviikkoon 1999-2009 kirjoittamia vanhoja juttuja uudelleenlämmitettynä
 
 (Tätä päivitellään uutinen-pulaattorilla - ?) 
 
@@ -104,3 +104,25 @@ Sähköpostista viestintä onkin jo aikaa sitten siirtynyt sosiaaliseen mediaan.
 InfoLinjan toimitus ei vuonna 1993 löytänyt Suomen presidentti Mauno Koiviston sähkpostiosoitetta. Tätä naputellessa presidentti Sauli Niinistön sensijaan löytää [Twitteristä](https://twitter.com/niinisto) kuka tahansa ja hänellä onkin siellä lähes 300000 seuraajaa ja Tasavallan presidentin [kansliallakin](https://twitter.com/TPKanslia) kohta 75000. 
 
 Suomen presidentillä on myös sähköpostiosoite presidentti@tpk.fi, kerrotaan [TPK](https://www.presidentti.fi/kanslia-ja-yhteystiedot/tasavallan-presidentti/)sta. Kuitenkin kirje- ja viestimäärä sinne on vuosittain vain "useita tuhansia kirjeitä ja viestejä".
+
+---- 
+
+Yksittäinen ITviikko-uutispostaus
+
+**Suomi oli jo vuonna 1999 sähköisen kaupankäynnin kärkimaa (?)**
+
+Vuoden 1999 loppupuolella yritykseni Infocrea Oy tarjosi "vuokratoimittaja"-palveluitani Helsinki Media Company Oy:lle, joka starttaili uutta viikkolehteä nopeasti kasvaville IT-alan markkinoille.
+
+ITviikon ensimmäisessä numerossa 18.11.1999 kirjoittamassani markkinatutkimusuutisessa otsikko julistaakin "Suomi sähköisen kaupan kärkimaa":
+
+https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/f4a49269-fe29-406e-e821-534803552e00/fhd 
+
+Juttu perustui Bathwick Groupin markkinatutkimukselle Eurooopan sähköisestä liiketoiminnasta. Tutkimuksen tilaajat olivat verkkolaitetoimittaja Cisco ja tiedonhallintaratkaisuja tarjoava Oracle.
+
+Käytännössä tutkimus perustui yli 2000 yrityksen ja 500 julkishallinnon organisaation liiketoimintajohtajien puhelinhaastatteluihin; Suomesta vastaajia oli 250.
+
+Täältä loppuvuodesta 2021 noin 22 vuoden taakse katsellen ei jostain syystä kuitenkaan enää tunnu, että jo silloin oltaisiin oltu nettikaupan kärkimaassa.
+
+Huomasin, että en ole LinkedIn-verkostoitunut silloisen Oracle Finland Oy:n toimitusjohtaja [Matti Viljon](https://www.linkedin.com/in/matti-viljo-32307722/) kanssa, jota sitatoitiin jutussa. Pistinkin hänelle verkostoitumispyynnön voidakseni pyytää 2020-luvulta kommenttia juttuun vuodelta 1999.  
+
+Viljo on 8-vuotisen kansainvälisen Oracle-uransa (1998-2006) jälkeenkin ollut sähköisen kaupan näköalapaikoilla eli hänellä erittäin todennäköisesti on omaani parempi nykyinen näkemys silloiseen ja myös nykyiseen Suomen asemaan sähköisen kaupankäynnin kisassa. 
