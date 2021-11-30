@@ -50,7 +50,22 @@ Kuvassa (yllä) Jarmo alarivissä oikealla.
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/d5ab537d-5f0e-4bf6-6ce8-02c4d47cb900/public
 
-Syksyllä 1971 aloitin opinnot silloisessa [Teknillisessä korkeakoulussa](https://fi.wikipedia.org/wiki/Teknillinen_korkeakoulu) eli nykyistä [Aalto-yliopistoa]() ajatellen sen [Sähköteknillisessä korkeakoulussa]().
+Syksyllä 1971 aloitin opinnot silloisessa [Teknillisessä korkeakoulussa](https://fi.wikipedia.org/wiki/Teknillinen_korkeakoulu) eli nykyistä [Aalto-yliopistoa](https://www.aalto.fi) ajatellen lähinnä sen [Sähkötekniikan korkeakoulussa](https://www.aalto.fi/fi/sahkotekniikan-korkeakoulu).
+
+Ammattiaineeksi parin vuoden jälkeen valitsin "sähkölaitokset" silloisella osastolla, joka nykyään on lähinnä kai [Sähkötekniikan ja automaation laitos](https://www.aalto.fi/fi/sahkotekniikan-ja-automaation-laitos). Olisin sivumennen sanoen pyrkinyt aloittamaan sen sijaan ohjelmoinnin opiskelun, jos silloin ei monesta suunnasta olisi kuullut viisaiden varoituksia, että "nyt Suomeen koulutetaan liikaa ohjelmoijia"...
+
+Opiskelun ohella aloitin monipuolista liikuntaa saadakseni judon Polyteknikkojen Judoseura PoJu:ssa, jonka harjoitukset hoituivat Helsingin yliopiston judoseura [Finndai](http://finndai.fi/index.php/finndain-historiaa/)n silloisella dojolla Kasarmikadulla. Ensimmäinen [sensei](https://fi.wikipedia.org/wiki/Sensei)ni oli Suomen judon [pioneereihin](https://www.judolehti.fi/historia/muistojen-kansiosta-terveisia-japanista/) kuuluva Pertti “Pepe” Pimiä (RIP). - Judosta hieman lisää jatkossakin.
+
+Opiskelupuolela diplomityön aiheeksi osui niinkin "mielenkiintoiselta" kuulostava aihe kuin *"Kyllästetty puupylväs sähkö- ja telejohdon osana"*.
+
+Onneksi kävi niin, että pääsin mukaan johonkin Teknillisen korkeakoulun kirjaston kokeiluun, jossa sain mahdollisuuden teettää informaatikoilla hakuja tekstitietokantoihin, joista sitten sain valittavaksi otsikkoja ja mielenkiintoiseksi harkitsemistani täystekstit.
+
+En olisi ikimaailmassa uskonut, että pelkästään puupylväiden lujuus- ja myös sähköteknisistä ominaisuuksista (ajatellen esimerkiksi vuotovirtoja ja salamoiden aiheuttamia syöksyjännitteitä) voisi pelkästään kirjallisuusosioon löytyä **niin** paljon ja niin nopeasti tietoa - infoähkyä kymmeniä vuosia ennen Googlea...
+
+Diplomityö valmistui saatuani kirjallisuusosion typistetyksi kohtuulliseen mittaan ajatellen mm. puhtaaksikirjoitusta mekaanisella kirjoituskoneella. En kuitenkaan uskonut, että sen avulla koskaan löytyisi työpaikkaa...
+
+
+
 
 ----------------------------
 
@@ -82,7 +97,7 @@ Infocrea Oy:n omakustannelehti InfoLinjan kaikkien aikojen ensimmäinen numero s
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/97ec9946-ac0f-42e7-2393-1865e2ab4200/fhd 
 
-Ihan jokainen silloinen diginatiivikaan (nykyinen boomer) ei toki vielä tänäänkään saa inboxiinsa tuollaista viestimäärää. Ei vaikka mukaan laskettaisiin kaikki somekanavien tykkäykset ja dissauksetkin.
+Ihan jokainen silloinen diginatiivikaan (nykyinen boomer) ei toki vielä tänäänkään saa inboxiinsa tuollaista viestimäärää. Ei vaikka mukaan laskettaisiin kaikki somekanavien tykkäykset ja vielä dissauksetkin.
 
 Sähköpostista viestintä onkin jo aikaa sitten siirtynyt sosiaaliseen mediaan.
 
