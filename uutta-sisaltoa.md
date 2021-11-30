@@ -10,6 +10,8 @@ Oletus, että lähdetään liikkeelle [Vercel-lauoutilla](https://jarmolahti-fi.
 Yleistä: some-ikonit LinkedIn Twitter Facebook Instagram 
 Jakolinkit bloausten ja uutisten yhteyteen
 
+----------------------
+
 **Etusivu**
 
 *Mikä sivusto?* 
@@ -20,12 +22,13 @@ Siksi siis nämä sivut tällä verkko-osoitteella.
 
 *Jarmo*-sivulla löytyy hieman tietoa sivuston "(pää)toimittajan" taustoista ("cv") ja myös edesmenneestä Infocrea Oy:stä.
 
-*Blogi*ssa Jarmo avautuu säännöllisen epäsäännöllisesti milloin mistäkin itselleen ja ehkä joskus yleisemminkin ajankohtaisesta tai kiinnostavasta asiasta.
+[*Blogi*]ssa Jarmo avautuu säännöllisen epäsäännöllisesti milloin mistäkin itselleen ja ehkä joskus yleisemminkin ajankohtaisesta tai kiinnostavasta asiasta.
 
 *[En/Uu]tiset*-sivulla on ideana, että siellä herätellään eloon wanhoja Infocrea Oy:n vuonna 1993-1995 julkaiseman InfoLinja-lehden sekä Jarmo Lahden [ITviikko](https://fi.wikipedia.org/wiki/It-viikko)-lehteen vuosina 2000-2009 kirjoittamia juttuja tai juttujen aiheita. Tai jos eivät ole vielä kuolleita, niin katsotaan asiaa uudelleen ja uudesta ajan avartamasta näkövinkkelistä.
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587cdcc00/public 
 
+--------------------------
 
 **Jarmo**
 
@@ -43,11 +46,13 @@ https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/f5c529df-6c68-46e6-24f4-0125a28
 
 Kuvassa (yllä) Jarmo alarivissä oikealla.
 
-[Oppikoulun](https://fi.wikipedia.org/wiki/Oppikoulu) Jarmo aloitti vuonna 1963 asuessaan jo Sääjärveä paljon urbaanimmassa paikassa eli Hikiällä Hausjärven kunnassa. Koulu oli [Riihimäen yhteiskoulu](https://www.yksityiskoulut.fi/yksityiskoulujenmatrikkeli/riihimaen2.htm), jonka kaikkien aikojen ensimmäinen luokka aloitti syksyllä 1963. Ja kaikkien aikojen ensimmäiset Riihimäen yhteiskoulun ylioppilaat lakitettiin 1971; kuvassa alla Jarmo takarivissä toinen oikealta:
+[Oppikoulun](https://fi.wikipedia.org/wiki/Oppikoulu) Jarmo aloitti vuonna 1963 asuessaan jo Sääjärveä paljon urbaanimmassa paikassa eli Hikiällä Hausjärven kunnassa. Koulu oli [Riihimäen yhteiskoulu](https://www.yksityiskoulut.fi/yksityiskoulujenmatrikkeli/riihimaen2.htm), jonka kaikkien aikojen ensimmäinen luokka aloitti syksyllä 1963. Ja kaikkien aikojen ensimmäiset Riihimäen yhteiskoulun ylioppilaat lakitettiin keväällä 1971; kuvassa alla Jarmo takarivissä toinen oikealta:
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/d5ab537d-5f0e-4bf6-6ce8-02c4d47cb900/public
 
-TBC...
+Syksyllä 1971 aloitin opinnot silloisessa [Teknillisessä korkeakoulussa](https://fi.wikipedia.org/wiki/Teknillinen_korkeakoulu) eli nykyistä [Aalto-yliopistoa]() ajatellen sen [Sähköteknillisessä korkeakoulussa]().
+
+----------------------------
 
 **Blogi**
 
@@ -57,9 +62,30 @@ TBC...
 
 (Ensimmäinen blogi logosta ja uuden sivuston tekniikasta (ainakin jotain). Sivustolla voisi olla pysyvästi näkyvillä oleva linkki vanhaan blogiin. Ensin lupaus siitä, ja sitten linkki, kun on käytettävissä.)
 
+------------------------------
 
 **[En/Uu]tiset**
 
 *Mitä joskus? Entä nyt?*
 
-(Tätä päivitellään uutinen-pulaattorilla - ?)
+InfoLinjan (1993-1995) ja Jarmo Lahden ITviikkoon 2000-2009 kirjoittamia vanhoja juttuja uudelleenlämmitettynä
+
+(Tätä päivitellään uutinen-pulaattorilla - ?) 
+
+----
+
+Yksittäinen InfoLinja-uutispostaus
+
+**Presidentillisen paljon sähköpostia jo 1993**
+
+Infocrea Oy:n omakustannelehti InfoLinjan kaikkien aikojen ensimmäinen numero syyskuussa 1993 paljasti [etusivullaan](https://www.dropbox.com/s/o06fbkprqnxts2g/InfoLinja-1-1993-09-29-page-01.pdf?dl=0) muun muassa, että Yhdysvaltojen silloisen presidentti Clintonin muutama kuukausi aikaisemmin julkistettuun sähköpostiosoitteeseen tuli päivittäin 1000-6000 viestiä:
+
+https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/97ec9946-ac0f-42e7-2393-1865e2ab4200/fhd 
+
+Ihan jokainen silloinen diginatiivikaan (nykyinen boomer) ei toki vielä tänäänkään saa inboxiinsa tuollaista viestimäärää. Ei vaikka mukaan laskettaisiin kaikki somekanavien tykkäykset ja dissauksetkin.
+
+Sähköpostista viestintä onkin jo aikaa sitten siirtynyt sosiaaliseen mediaan.
+
+InfoLinjan toimitus ei vuonna 1993 löytänyt Suomen presidentti Mauno Koiviston sähkpostiosoitetta. Tätä naputellessa presidentti Sauli Niinistön sensijaan löytää [Twitteristä](https://twitter.com/niinisto) kuka tahansa ja hänellä onkin siellä lähes 300000 seuraajaa ja Tasavallan presidentin [kansliallakin](https://twitter.com/TPKanslia) kohta 75000. 
+
+Suomen presidentillä on myös sähköpostiosoite presidentti@tpk.fi, kerrotaan [TPK](https://www.presidentti.fi/kanslia-ja-yhteystiedot/tasavallan-presidentti/)sta. Kuitenkin kirje- ja viestimäärä sinne on vuosittain vain "useita tuhansia kirjeitä ja viestejä".
