@@ -36,9 +36,11 @@ https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587c
 
 Jarmo Lahti syntyi tammikuussa 1953 entisessä Vanajan kunnassa Hämeessä.
 
-Lapsuus ennen kouluikää kului Sääjärven kylässä. Lapsuuskoti oli entisen [Rosenlewin](https://fi.wikipedia.org/wiki/Rosenlew) entisen "metsäkämpän" tiloissa.
+*(Tämä sivu ei muuten lopu ruudun alareunaan - ei lähimainkaan...)*
 
-Metsäkämppä ja Jarmon äiti kämppäemäntänä vuonna 1956 näkyy [Felix Forsmanin](https://www.hs.fi/muistot/art-2000002627634.html) vuonna 1957 valmistuneessa teollisuusdokumenttivideossa ["Suomi sahaa"](https://elonet.finna.fi/Record/kavi.elonet_elokuva_612441), 3m33s alusta. Filmi oli Suomen Sahanomistajayhdistyksen tilaama ja palkittiin Torinon teollisuuselokuvafestivaaleilla vuonna 1959. Se oli ensimmäisiä suomalaisia tilauskuvia, jotka filmattiin Eastmancolor -väreihin, tiedettiin Kansallisesta audiovisuaalisesta instituutista eli [Kavista](https://kavi.fi/) kertoa vuonna 2016.
+Jarmon lapsuus ennen kouluikää kului Sääjärven kylässä. Lapsuuskoti oli entisen [Rosenlewin](https://fi.wikipedia.org/wiki/Rosenlew) entisen "metsäkämpän" tiloissa.
+
+Kyseinen metsäkämppä ja Jarmon äiti kämppäemäntänä vuonna 1956 näkyy [Felix Forsmanin](https://www.hs.fi/muistot/art-2000002627634.html) vuonna 1957 valmistuneessa teollisuusdokumenttivideossa ["Suomi sahaa"](https://elonet.finna.fi/Record/kavi.elonet_elokuva_612441), 3m33s alusta. Filmi oli Suomen Sahanomistajayhdistyksen tilaama ja palkittiin Torinon teollisuuselokuvafestivaaleilla vuonna 1959. Se oli ensimmäisiä suomalaisia tilauskuvia, jotka filmattiin Eastmancolor -väreihin, tiedettiin Kansallisesta audiovisuaalisesta instituutista eli [Kavista](https://kavi.fi/) kertoa vuonna 2016.
 
 Koulun Jarmo aloitti vuonna 1959 eli 6-vuotiaana silloisessa Harvialan kansakoulussa jonka paikalla nykyään toimii Janakkalan kunnan esi- ja perusopetusta antava [Harvialan koulu](https://www.janakkala.fi/palvelut/esi-ja-perusopetus/koulut/harvialan-koulu/). 
 
@@ -70,9 +72,11 @@ Diplomityökin valmistui, kun kirjallisuusosion sai typistetyksi kohtuulliseen m
 
 Sähköalan diplomi-insinööriksi vuonna 1978 valmistuttuaan Jarmo suoritti asevelvollisuuden Viestirykmentin Puhelinkomppaniassa Riihimäellä *("en mä mitään tiedä, mä kelaan vaan")* ja [Reserviupseerikoulun](https://fi.wikipedia.org/wiki/Reserviupseerikoulu) Haminassa talvikurssilla 159 ("Paavo") 1.12.-15.3.1979.
 
-Asevelvollisuuden suorittamisen jälkeen alkoi työpaikan etsintä. Ja koska [Loviisan ydinvoimalaitoksen](https://fi.wikipedia.org/wiki/Loviisan_ydinvoimalaitos) valmistumisen jälkeen tekniikkaosaajien työmarkkinoilla oli liikkeellä paljon kokeneita sähkölaitostekniikan projekti-insinöörejä, niin vastavalmistunut sähkölaitos-DI ei helposti päässyt valintatilanteissa edes ns. lyhyelle listalle.
+Asevelvollisuuden suorittamisen jälkeen alkoi työpaikan etsintä. Koska [Loviisan ydinvoimalaitoksen](https://fi.wikipedia.org/wiki/Loviisan_ydinvoimalaitos) valmistumisen jälkeen tekniikkaosaajien työmarkkinoilla kuitenkin oli liikkeellä paljon kokeneita sähkölaitostekniikan projekti-insinöörejä, niin vastavalmistunut sähkölaitos-DI ei helposti päässyt valintatilanteissa edes ns. lyhyelle listalle.
 
-Ja kun Jarmon silmiin osui Insinööriuutisista (nykyäään [Tekniikka&Talous](https://fi.wikipedia.org/wiki/Tekniikka%26Talous)) sen oma insinöritoimittajaa etsivä ilmoitus. Koska Jarmo oli kouluaikana ollut ns. kympin ainekirjoittaja, niin hän ajatteli että *"miksipä ei vähäksi aikaa..."* ja haki paikkaa. Ja myös sai. Jarmo aloitti Insinöörilehdet Oy:n kustantaman Insinööriuutiset-lehden insinööritoimittajana elokuussa 1979. 
+Ja kun Jarmon silmiin osui Insinööriuutisista (nykyäään [Tekniikka&Talous](https://fi.wikipedia.org/wiki/Tekniikka%26Talous)) sen oma insinöritoimittajaa etsivä ilmoitus. Koska Jarmo oli kouluaikana ollut ns. kympin ainekirjoittaja, niin hän ajatteli että *"miksipä ei vähäksi aikaa..."* ja haki paikkaa. Ja myös sai sen.
+
+Jarmo aloitti [Insinöörilehdet Oy](https://www.porssitieto.fi/poistuneet/insinoorilehdet.shtml):n kustantaman Insinööriuutiset-lehden insinööritoimittajana elokuussa 1979. 
 
 Kykyä kirjoittaa kiitettäviä suomenkielen aineita koulun äidinkielen tunneilla ja jopa ylioppilaskirjoituksissa työnantaja petrautti heti aluksi yksityisenä kurssituksena, opettajana Sanoma Osakeyhtiön toimittakoulun legendaarinen rehtori [Antero Okkonen](https://www.hs.fi/muistot/art-2000002626977.html). Journalistinen lehtijuttu on kuitenkin vähän eri asia kuin kiva ainekirjoitelma.
 
@@ -80,17 +84,35 @@ Runsaan kahden vuoden kuluttua, ajatellessaan (väärin...) oppineensa jo kaiken
 
 Ja tähän tehtäväänhän Jarmon muutaman vuoden takainen diplomityö ja etenkin sen tekeminen oli antanut mahtavan pohjan. Etenkin kun yritys eli Fintrepo Oy (Finnish Treated Poles Manufacturers Ltd.) oli, kuten kävi ilmi, yksi hänen diplomityönsä tilaajista, vaikka Jarmo itse kokikin tehneensä sen lähinnä TKK:n sähkövoimatekniikan laitokselle, jonka suurjännitehallissa hän oli mittaillut mm. suomalaisten kreosoottikyllästettyjen puupylväsjohtojen vuotovirta- ja syöksyjännitekestoisuutta.
 
-Jarmo aloitti Finntrepossa "technical managerina" vuoden 1982 alussa. 
+Jarmo aloittikin Finntrepossa "technical managerina" vuoden 1982 alussa. 
 
-Yrityksen toimipiste oli Helsingissä Herttoniemessä. Se oli muutaman Suomen suurimman pylväskyllästämön vientimyyntiyhtiö, jonka toimitusjohtaja mukaan lukien kolme myynnin sekä pari hallinnollisen työn tekijää saivat aikaan pääasiassa Lähi-itään parhaimmillaan parin sadan miljoonan markan eli kymmenien miljoonien euron myynnin.
+Yrityksen toimipiste oli Helsingissä Herttoniemessä. Finntrepo oli muutaman Suomen suurimman pylväskyllästämön vientimyyntiyhtiö, jonka toimitusjohtaja mukaan lukien kolme myynnin sekä pari hallinnollisen työn tekijää saivat aikaan pääasiassa Lähi-itään parhaimmillaan parin sadan miljoonan markan eli kymmenien miljoonien euron myynnin.
 
-Uuden resurssin eli siis Jarmon tehtävä oli olla tiedon välittäjä myynnin ja kohdemaiden sähkölaitosten johdonrakennustyöstä vastaavien välillä, puhua samaa kieltä sähkö- ja telelaitosasiakkaiden edustajien kanssa.
+Uuden resurssin eli siis Jarmon tehtävä oli olla tiedon välittäjä ja sitä myöden luottamuksen lisärakentaja myynnin ja kohdemaiden sähkölaitosten johdonrakennustyöstä vastaavien välillä, puhua samaa kieltä sähkö- ja telelaitosasiakkaiden edustajien kanssa.
 
+Ensimmäisen vuoden aikana Jarmo tuotti esittelytarkoituksiin "teollisuuselokuvan" työnimellä (taisi se olla aika lopullinenkin) "Impregnated wooden poles from Finland - High Tech of Nature". Kuvausryhmän kanssa kierrettiin kuvaamassa mm. pylväsmäntymetsiä ja kyllästämöiden (Höljäkässä, Mäntässä ja Haminassa) kyllästysprosesseja ja -varastoja sekä vientilogistiikkaa laivoihin asti. Ja sen "high tech" -lupauksen lunastamiseksi käytiin kuvaamassa myös visuaalisesti vaikuttavaa syöksyjännitetestausta (vain kuvausta varten) TKK:n Sähkövoimatekniikan suurjännitehallissa:-).
 
+Visuaalisen vaikuttamisen lisäksi Jarmo tuotti lujuuslaskentaosaajalla toisena "high tech -hankkeena" mm. oikean pylväspaksuuden määrittämiseen [BASIC](https://fi.wikipedia.org/wiki/BASIC)-kielisen ohjelman, jonka demoamista varten hankittiin varmaan ensimmäisten Suomeen ehtineiden kannettavien tietokoneiden joukkoon kuuluva [Osborne-1](https://fi.wikipedia.org/wiki/Osborne_1). Lisäksi ohjelmasta tehtiin kevytversio (ainakin pompan)takintaskuun mahtuvalle BASIC-ohjelmia ajammaan pystyvälle laskimelle. 
 
+Kentälle Jarmo ehti kokeneiden myyjien kanssa maihin, joissa ei välttämättä muuten olisi tullut käyneeksi kuten Libyaan, Syyriaan, Saudi-Arabiaan ja Irakiin.
 
+Irak-työmatkasta keväällä 1983 tuli sitten Jarmolle ehkä eniten urakehitykseen vaikuttava etappi tai suorastaan vedenjakaja. Johon liittyi toinen merkittävä perherintaman etappi: esikoinen (Pyry-Samuli) oli syntynyt tammikuussa 1983.
 
+Työmatkat erilaisiiin keskusteluihin ja neuvotteluihin Lähi-idän valtiollisten sähkölaitosten kanssa kestivät yleensäkin viikon ellei parikin - niiden aikana sai useinkin käyttää aikaa enemmänkin mm. odotteluun milloin minkin organisaation tiloissa ko. organisaation pylväskaupan kannalta avainhenkilöiden pakeille.  
 
+Näin oli asia myös Irak-matkalla keväällä 1983. Lisäksi kannattaa muistaa, että Irak näytti (jo) tuolloin enemmmistölle Suomesta katsellen erittäin levottomalta ja suorastaan (Iranin kanssa) sotaa käyvältä maalta.
+
+Tällä nimenomaisella matkalla kävi niin, että joidenkin levottomuuksien takia lentoja Bagdadista oli peruttu siihen malliin, että paluuaikataulu petti useilla vuorokausilla, eikä vuonna 1983 ollut vielä mahdollisuutta  matkapuhelimella ilmoittaa asiasta kotiväelle. Eikä se onnistunut tuolloin niiden levottomuuksien takia lankapuhelimellakaan.
+
+Kotiin päästyä Jarmolle valkeni, että noiden muutaman vuorokauden aikana kotona yksin vauvan (joka aloitteli 8 kuukauden koliikkia) kanssa odottava nuori äiti oli ollut todella huolestunut ja hermoromahduksen partaalla. 
+
+Tapaus johti siihen, että Jarmo alkoi vahvasti tuntea, että pitkiä ulkomaan työmatkoja vaativa työ ei ole pienen poikavauvan isälle sopivaa hommaa.
+
+Jonkin aikaa Irakkin matkan jälkeen Jarmo soitti Insinöörilehtien toimitusjohtajalle [Heikki Lehmustolle](https://www.linkedin.com/in/heikki-lehmusto-61ba221/) kysyäkseen, josko "Suomen tekniikkajournalistisen median kentällä olisi tilausta freelancer-tekstintuottajille..." (tai jotain sinne päin). Lehmusto nauroi ja pyysi odottamaan hetken, ja hän soittaa takaisin. Ja soittikin - sekä tarjosi paikkaa Insinööriuutisten toimituksessa.
+
+Jarmo aloitti uudelleen Insinöörilehdissä Insinööriuutisten toimituksessa elokuun alussa 1983. Ja oli lähes välittömäst mukana pikahankkeessa, jonka tuloksena syntyi mikrotietoneiden sekä yritys- että kotikäyttäjille suunnattu uusi lehti [Mikro](). Mikron ensimmäinen numero ilmestyi vuoden 1983 joulumarkkinoille Pertti "Spede" Pasanen kansikuvassa kannettavan tietokoneen kera.
+
+https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/598215da-1b1a-485b-4ec8-69aea6d82000/fhd 
 
 
 ----------------------------
