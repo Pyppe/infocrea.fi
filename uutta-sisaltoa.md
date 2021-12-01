@@ -108,9 +108,9 @@ Kotiin päästyä Jarmolle valkeni, että noiden muutaman vuorokauden aikana kot
 
 Tapaus johti siihen, että Jarmo alkoi vahvasti tuntea, että pitkiä ulkomaan työmatkoja vaativa työ ei ole pienen poikavauvan isälle sopivaa hommaa.
 
-Jonkin aikaa Irakkin matkan jälkeen Jarmo soitti Insinöörilehtien toimitusjohtajalle [Heikki Lehmustolle](https://www.linkedin.com/in/heikki-lehmusto-61ba221/) kysyäkseen, josko "Suomen tekniikkajournalistisen median kentällä olisi tilausta freelancer-tekstintuottajille..." (tai jotain sinne päin). Lehmusto nauroi ja pyysi odottamaan hetken, ja hän soittaa takaisin. Ja soittikin - sekä tarjosi paikkaa Insinööriuutisten toimituksessa.
+Jonkin aikaa Irakin matkan jälkeen Jarmo soitti Insinöörilehtien toimitusjohtajalle [Heikki Lehmustolle](https://www.linkedin.com/in/heikki-lehmusto-61ba221/) kysyäkseen, josko "Suomen tekniikkajournalistisen median kentällä olisi tilausta freelancer-tekstintuottajille..." (tai jotain sinne päin). Lehmusto nauroi ja pyysi odottamaan hetken, että hän soittaa takaisin. Ja soittikin - sekä tarjosi paikkaa Insinööriuutisten toimituksessa.
 
-Jarmo aloitti uudelleen Insinöörilehdissä Insinööriuutisten toimituksessa elokuun alussa 1983. Ja oli lähes välittömäst mukana pikahankkeessa, jonka tuloksena syntyi mikrotietoneiden sekä yritys- että kotikäyttäjille suunnattu uusi lehti [Mikro](). Mikron ensimmäinen numero ilmestyi vuoden 1983 joulumarkkinoille Pertti "Spede" Pasanen kansikuvassa kannettavan tietokoneen kera.
+Jarmo aloitti uudelleen Insinöörilehdissä Insinööriuutisten toimituksessa elokuun alussa 1983. Ja oli lähes välittömästi mukana pikahankkeessa, jonka tuloksena syntyi mikrotietoneiden sekä yritys- että kotikäyttäjille suunnattu uusi lehti "Mikro". Mikron ensimmäinen numero ilmestyi vuoden 1983 joulumarkkinoille Pertti ["Spede" Pasanen](https://fi.wikipedia.org/wiki/Spede_Pasanen) kansikuvassa kannettavan tietokoneen kera.
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/598215da-1b1a-485b-4ec8-69aea6d82000/fhd 
 
