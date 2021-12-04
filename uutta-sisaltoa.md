@@ -32,7 +32,7 @@ https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587c
 
 **Jarmo**
 
-<h1>Kuka päivittää?<h1>
+<h1>Kuka päivittää?</h1>
 
 Jarmo Lahti syntyi tammikuussa 1953 entisessä Vanajan kunnassa Hämeessä.
 
