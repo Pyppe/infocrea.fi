@@ -36,7 +36,7 @@ https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587c
 
 Jarmo Lahti syntyi tammikuussa 1953 entisessä Vanajan kunnassa Hämeessä.
 
-*(Tämä sivu ei muuten lopu ruudun alareunaan - ei lähimainkaan...)*
+> *(Tämä sivu ei muuten lopu ruudun alareunaan - ei lähimainkaan...)*
 
 Jarmon lapsuus ennen kouluikää kului Sääjärven kylässä. Lapsuuskoti oli entisen [Rosenlewin](https://fi.wikipedia.org/wiki/Rosenlew) entisen "metsäkämpän" tiloissa.
 
