@@ -108,7 +108,7 @@ Kentälle Jarmo ehti kokeneiden myyjien kanssa maihin, joissa ei välttämättä
 
 Irak-työmatkasta keväällä 1983 tuli sitten Jarmolle ehkä eniten urakehitykseen vaikuttava etappi tai suorastaan vedenjakaja. Johon liittyi toinen merkittävä perherintaman etappi: esikoinen (Pyry-Samuli) oli syntynyt tammikuussa 1983.
 
-</h2>Liian pitkiä työmatkoja</h2>
+<h2>Liian pitkiä työmatkoja</h2>
 
 Työmatkat erilaisiiin keskusteluihin ja neuvotteluihin Lähi-idän valtiollisten sähkölaitosten kanssa kestivät yleensäkin viikon ellei parikin - niiden aikana sai useinkin käyttää aikaa enemmänkin mm. odotteluun milloin minkin organisaation tiloissa ko. organisaation pylväskaupan kannalta avainhenkilöiden pakeille.  
 
@@ -128,6 +128,7 @@ Jarmo aloitti uudelleen Insinöörilehdissä Insinööriuutisten toimituksessa e
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/598215da-1b1a-485b-4ec8-69aea6d82000/fhd 
 
+... jatkuu...
 
 ----------------------------
 
