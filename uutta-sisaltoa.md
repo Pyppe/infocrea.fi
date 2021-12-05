@@ -32,7 +32,7 @@ https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587c
 
 **Jarmo**
 
-<h1>Kuka päivittää?</h1>
+# Kuka päivittää?
 
 Jarmo Lahti syntyi tammikuussa 1953 entisessä Vanajan kunnassa Hämeessä.
 
@@ -42,7 +42,7 @@ Jarmon lapsuus ennen kouluikää kului Sääjärven kylässä. Lapsuuskoti oli e
 
 Kyseinen metsäkämppä ja Jarmon äiti kämppäemäntänä vuonna 1956 näkyy [Felix Forsmanin](https://www.hs.fi/muistot/art-2000002627634.html) vuonna 1957 valmistuneessa teollisuusdokumenttivideossa ["Suomi sahaa"](https://elonet.finna.fi/Record/kavi.elonet_elokuva_612441), 3m33s alusta. Filmi oli Suomen Sahanomistajayhdistyksen tilaama ja palkittiin Torinon teollisuuselokuvafestivaaleilla vuonna 1959. Se oli ensimmäisiä suomalaisia tilauskuvia, jotka filmattiin Eastmancolor -väreihin, tiedettiin Kansallisesta audiovisuaalisesta instituutista eli [Kavista](https://kavi.fi/) kertoa vuonna 2016. (Jarm etsi ja löysi filmin Kavin avulla; vinkki etsintään tuli vieraskirjamerkinnästä vuodelta 1956.)
 
-<h2>Koulutielle</h2>
+### Koulutielle
 
 Koulun Jarmo aloitti vuonna 1959 eli 6-vuotiaana silloisessa Harvialan kansakoulussa jonka paikalla nykyään toimii Janakkalan kunnan esi- ja perusopetusta antava [Harvialan koulu](https://www.janakkala.fi/palvelut/esi-ja-perusopetus/koulut/harvialan-koulu/). 
 
@@ -54,7 +54,7 @@ Kuvassa (yllä) Jarmo alarivissä oikealla.
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/d5ab537d-5f0e-4bf6-6ce8-02c4d47cb900/public
 
-<h2>Korkeakoulutusta ja judoa</h2>
+### Korkeakoulutusta ja judoa
 
 Syksyllä 1971 Jarmo aloitti opinnot silloisessa [Teknillisessä korkeakoulussa](https://fi.wikipedia.org/wiki/Teknillinen_korkeakoulu) eli nykyistä [Aalto-yliopistoa](https://www.aalto.fi) ajatellen lähinnä sen [Sähkötekniikan korkeakoulussa](https://www.aalto.fi/fi/sahkotekniikan-korkeakoulu).
 
@@ -66,7 +66,7 @@ Kasarmikadulla sijainneen dojon eli harjoitussalin tatamilla Jarmo tutustui Hels
 
 Judoseuraksi oli siinä vaiheessa jo vaihtunut kilpajudoon FinnDaita enemmän panostava [Meido-kan](https://meidokan.fi/meido-kan/), jonka mestaruussarjajoukkkueessakin Jarmo pääsi muutaman kerran ottelemaan vyön värin noustua ruskeaan (1.kyu) eli 1.dan mustaa vyötä edeltävään [asteeseen](http://dan-kollegio.com/judon-vyojarjestelma/).
 
-<h2>Pylvästietoa infoähkyksi asti</h2>
+### Pylvästietoa infoähkyksi asti
 
 Opiskelupuolela diplomityön aiheeksi osui niinkin "mielenkiintoiselta" kuulostava aihe kuin *"Kyllästetty puupylväs sähkö- ja telejohdon osana"*.
 
@@ -78,7 +78,7 @@ Diplomityökin valmistui, kun kirjallisuusosion sai typistetyksi kohtuulliseen m
 
 Sähköalan diplomi-insinööriksi vuonna 1978 valmistuttuaan Jarmo suoritti asevelvollisuuden Viestirykmentin Puhelinkomppaniassa Riihimäellä *("en mä mitään tiedä, mä kelaan vaan")* ja [Reserviupseerikoulun](https://fi.wikipedia.org/wiki/Reserviupseerikoulu) Haminassa talvikurssilla 159 ("Paavo") 1.12.-15.3.1979.
 
-<h2>Aine-sta journalistiksi</h2>
+### Aine-sta journalistiksi
 
 Asevelvollisuuden suorittamisen jälkeen alkoi työpaikan etsintä. Koska [Loviisan ydinvoimalaitoksen](https://fi.wikipedia.org/wiki/Loviisan_ydinvoimalaitos) valmistumisen jälkeen tekniikkaosaajien työmarkkinoilla kuitenkin oli liikkeellä paljon kokeneita sähkölaitostekniikan projekti-insinöörejä, niin vastavalmistunut sähkölaitos-DI ei helposti päässyt valintatilanteissa edes ns. lyhyelle listalle.
 
@@ -90,7 +90,7 @@ Kykyä kirjoittaa kiitettäviä suomenkielen aineita koulun äidinkielen tunneil
 
 Runsaan kahden vuoden kuluttua, ajatellessaan (väärin...) oppineensa jo kaiken toimittajan työstä, Jarmo huomasi työpaikkailmoituksen, jossa haettiin insinööriä kyllästettyjen puupylväiden vientimyynnin ja -markkinoinnin tekniseen tukeen.
 
-<h2>Oikeisiin diplomitöihin</h2>
+### Oikeisiin diplomitöihin
 
 Ja tähän tehtäväänhän Jarmon muutaman vuoden takainen diplomityö ja etenkin sen tekeminen oli antanut mahtavan pohjan. Etenkin kun yritys eli Fintrepo Oy (Finnish Treated Poles Manufacturers Ltd.) oli, kuten kävi ilmi, yksi hänen diplomityönsä tilaajista, vaikka Jarmo itse kokikin tehneensä sen lähinnä TKK:n sähkövoimatekniikan laitokselle, jonka suurjännitehallissa hän oli mittaillut mm. suomalaisten kreosoottikyllästettyjen puupylväsjohtojen vuotovirta- ja syöksyjännitekestoisuutta.
 
@@ -108,7 +108,7 @@ Kentälle Jarmo ehti kokeneiden myyjien kanssa maihin, joissa ei välttämättä
 
 Irak-työmatkasta keväällä 1983 tuli sitten Jarmolle ehkä eniten urakehitykseen vaikuttava etappi tai suorastaan vedenjakaja. Johon liittyi toinen merkittävä perherintaman etappi: esikoinen (Pyry-Samuli) oli syntynyt tammikuussa 1983.
 
-<h2>Liian pitkiä työmatkoja</h2>
+### Liian pitkiä työmatkoja
 
 Työmatkat erilaisiiin keskusteluihin ja neuvotteluihin Lähi-idän valtiollisten sähkölaitosten kanssa kestivät yleensäkin viikon ellei parikin - niiden aikana sai useinkin käyttää aikaa enemmänkin mm. odotteluun milloin minkin organisaation tiloissa ko. organisaation pylväskaupan kannalta avainhenkilöiden pakeille.  
 
@@ -120,7 +120,7 @@ Kotiin päästyä Jarmolle valkeni, että noiden muutaman vuorokauden aikana kot
 
 Tapaus johti siihen, että Jarmo alkoi vahvasti tuntea, että pitkiä ulkomaan työmatkoja vaativa työ ei ole pienen poikavauvan isälle sopivaa hommaa.
 
-<h2>Mikromanageriksi</h2>
+### Mikromanageriksi
 
 Jonkin aikaa Irakin matkan jälkeen Jarmo soitti Insinöörilehtien toimitusjohtajalle [Heikki Lehmustolle](https://www.linkedin.com/in/heikki-lehmusto-61ba221/) kysyäkseen, josko "Suomen tekniikkajournalistisen median kentällä olisi tilausta freelancer-tekstintuottajille..." (tai jotain sinne päin). Lehmusto nauroi ja pyysi odottamaan hetken, että hän soittaa takaisin. Ja soittikin - sekä tarjosi paikkaa Insinööriuutisten toimituksessa.
 
@@ -128,7 +128,18 @@ Jarmo aloitti uudelleen Insinöörilehdissä Insinööriuutisten toimituksessa e
 
 https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/598215da-1b1a-485b-4ec8-69aea6d82000/fhd 
 
-... jatkuu...
+Mikro-lehteä Jarmo teki sen ensimmäisen kokonaisen ilmestymisvuoden lehden ainoana päätoimisena toimituksen jäsenenä tittelillä toimituspäällikkö. Päätoimittaja oli oman toimensa ohella emolehden, Insinöörilehtien tytäryhtiön Tietoviikko Ky:n kustantaman vain vuotta aikaisemmin perustetun [Tietoviikko](https://fi.wikipedia.org/wiki/Tietoviikko)-lehden (nykyään [Tivi](https://www.tivi.fi/)) päätoimittaja Timo Tolsa.
+
+Kerran kuussa noin ja joskus ylikin 100-sivuisen lehden sisällön ideointi, juttujen tilaus, briefaus, peräänkuuluttelu ja käsittely (paperilla...) ja omien juttujen kirjoittaminen sekä  merkinnät ladontaa ja sivutaittoa varten jne. yms. vetivät takin tyhjäksi noin vuodessa.
+
+"Siinä vitsit vähenee, kun dead line lähenee" - ja jos jokaisella jutulla on oma dead line, jota lisäksi noudatetaan, niin silloin myös koko lehden dead line pitää ilman isompaa stressiä paketin kokoajalle. Siis jos.
+
+Vuodevaihteessa 1984/85 Jarmo vaihtoi tehtäviä Insinööriuutiset-lehden toimituspäällikkö Kari Tyllilän kanssa eli palasi Insinööriuutisiin tuottamaan jotain säännöllisesti ilmestyvää osastoa, jonka nimeä ei enää muista:-)
+
+### Päätoimittajaksi
+
+...jatkuu...
+
 
 ----------------------------
 
