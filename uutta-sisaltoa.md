@@ -46,13 +46,13 @@ Kyseinen metsäkämppä ja Jarmon äiti kämppäemäntänä vuonna 1956 näkyy [
 
 Koulun Jarmo aloitti vuonna 1959 eli 6-vuotiaana silloisessa Harvialan kansakoulussa jonka paikalla nykyään toimii Janakkalan kunnan esi- ja perusopetusta antava [Harvialan koulu](https://www.janakkala.fi/palvelut/esi-ja-perusopetus/koulut/harvialan-koulu/). 
 
-https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/f5c529df-6c68-46e6-24f4-0125a2878a00/public 
+<img src="https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/f5c529df-6c68-46e6-24f4-0125a2878a00/public">
 
 Kuvassa (yllä) Jarmo alarivissä oikealla.
 
 [Oppikoulun](https://fi.wikipedia.org/wiki/Oppikoulu) Jarmo aloitti vuonna 1963 asuessaan jo Sääjärveä paljon urbaanimmassa paikassa eli Hikiällä Hausjärven kunnassa. Koulu oli [Riihimäen yhteiskoulu](https://www.yksityiskoulut.fi/yksityiskoulujenmatrikkeli/riihimaen2.htm), jonka kaikkien aikojen ensimmäinen luokka aloitti syksyllä 1963. Ja kaikkien aikojen ensimmäiset Riihimäen yhteiskoulun ylioppilaat lakitettiin keväällä 1971; kuvassa alla Jarmo takarivissä toinen oikealta:
 
-https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/d5ab537d-5f0e-4bf6-6ce8-02c4d47cb900/public
+<img src="https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/d5ab537d-5f0e-4bf6-6ce8-02c4d47cb900/public">
 
 ### Korkeakoulutusta ja judoa
 
@@ -126,7 +126,7 @@ Jonkin aikaa Irakin matkan jälkeen Jarmo soitti Insinöörilehtien toimitusjoht
 
 Jarmo aloitti uudelleen Insinöörilehdissä Insinööriuutisten toimituksessa elokuun alussa 1983. Ja oli lähes välittömästi mukana pikahankkeessa, jonka tuloksena syntyi mikrotietoneiden sekä yritys- että kotikäyttäjille suunnattu uusi lehti "Mikro". Mikron ensimmäinen numero ilmestyi vuoden 1983 joulumarkkinoille Pertti ["Spede" Pasanen](https://fi.wikipedia.org/wiki/Spede_Pasanen) kansikuvassa kannettavan tietokoneen kera.
 
-https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/598215da-1b1a-485b-4ec8-69aea6d82000/fhd 
+<img src="https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/598215da-1b1a-485b-4ec8-69aea6d82000/fhd">
 
 Mikro-lehteä Jarmo teki sen ensimmäisen kokonaisen ilmestymisvuoden lehden ainoana päätoimisena toimituksen jäsenenä tittelillä toimituspäällikkö. Päätoimittaja oli oman toimensa ohella emolehden, Insinöörilehtien tytäryhtiön Tietoviikko Ky:n kustantaman vain vuotta aikaisemmin perustetun [Tietoviikko](https://fi.wikipedia.org/wiki/Tietoviikko)-lehden (nykyään [Tivi](https://www.tivi.fi/)) päätoimittaja Timo Tolsa.
 
@@ -134,7 +134,7 @@ Kerran kuussa noin ja joskus ylikin 100-sivuisen lehden sisällön ideointi, jut
 
 "Siinä vitsit vähenee, kun dead line lähenee" - ja jos jokaisella jutulla on oma dead line, jota lisäksi noudatetaan, niin silloin myös koko lehden dead line pitää ilman isompaa stressiä paketin kokoajalle. Siis jos.
 
-Vuodevaihteessa 1984/85 Jarmo vaihtoi tehtäviä Insinööriuutiset-lehden toimituspäällikkö Kari Tyllilän kanssa eli palasi Insinööriuutisiin tuottamaan jotain säännöllisesti ilmestyvää osastoa, jonka nimeä ei enää muista:-)
+Vuodenvaihteessa 1984/85 Jarmo vaihtoi tehtäviä Insinööriuutiset-lehden toimituspäällikkö Kari Tyllilän kanssa eli palasi Insinööriuutisiin tuottamaan jotain säännöllisesti ilmestyvää osastoa, jonka nimeksi muistelee:-) Pop-tech ja sisältökentäksi viihde-elektroniikan ym. populaaritekniikan.  
 
 ### Päätoimittajaksi
 
