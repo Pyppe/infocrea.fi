@@ -26,7 +26,7 @@ Siksi siis nämä sivut tällä verkko-osoitteella.
 
 *[En/Uu]tiset*-sivulla on ideana, että siellä herätellään eloon wanhoja Infocrea Oy:n vuonna 1993-1995 julkaiseman InfoLinja-lehden sekä Jarmo Lahden [ITviikko](https://fi.wikipedia.org/wiki/It-viikko)-lehteen vuosina 1999-2009 kirjoittamia juttuja tai juttujen aiheita. Tai jos eivät ole vielä kuolleita, niin katsotaan asiaa uudelleen tai uudesta ajan avartamasta näkövinkkelistä.
 
-https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587cdcc00/public 
+<img src="https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/92b96c9b-fea9-4aa7-b6bb-374587cdcc00/public">
 
 --------------------------
 
@@ -169,7 +169,7 @@ Yksittäinen InfoLinja-uutispostaus
 
 Infocrea Oy:n omakustannelehti InfoLinjan kaikkien aikojen ensimmäinen numero syyskuussa 1993 paljasti [etusivullaan](https://www.dropbox.com/s/o06fbkprqnxts2g/InfoLinja-1-1993-09-29-page-01.pdf?dl=0) muun muassa, että Yhdysvaltojen silloisen presidentti Clintonin muutama kuukausi aikaisemmin julkistettuun sähköpostiosoitteeseen tuli **päivittäin** 1000-6000 viestiä:
 
-https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/97ec9946-ac0f-42e7-2393-1865e2ab4200/fhd 
+<img src="https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/97ec9946-ac0f-42e7-2393-1865e2ab4200/fhd">
 
 Ihan jokainen silloinen diginatiivikaan (nykyinen boomer) ei toki vielä tänäänkään saa inboxiinsa tuollaista viestimäärää. Ei vaikka mukaan laskettaisiin kaikki somekanavien tykkäykset ja vielä dissauksetkin.
 
@@ -189,7 +189,7 @@ Vuoden 1999 loppupuolella yritykseni Infocrea Oy tarjosi "vuokratoimittaja"-palv
 
 ITviikon ensimmäisessä numerossa **18.11.1999** kirjoittamassani markkinatutkimusuutisessa otsikko julistaakin "Suomi sähköisen kaupan kärkimaa":
 
-https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/f4a49269-fe29-406e-e821-534803552e00/fhd 
+<img src="https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/f4a49269-fe29-406e-e821-534803552e00/fhd">
 
 Juttu perustui Bathwick Groupin markkinatutkimukselle Eurooopan sähköisestä liiketoiminnasta. Tutkimuksen tilaajat olivat verkkolaitetoimittaja [Cisco](https://www.cisco.com/) ja tiedonhallintaratkaisuja tarjoava [Oracle](https://www.oracle.com).
 
