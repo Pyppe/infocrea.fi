@@ -36,7 +36,9 @@ Siksi siis nämä sivut tällä verkko-osoitteella.
 
 Jarmo Lahti syntyi tammikuussa 1953 entisessä Vanajan kunnassa Hämeessä.
 
-> *(Tämä sivu ei muuten lopu ruudun alareunaan - ei lähimainkaan...)*
+> *Tämä sivu ei muuten lopu ruudun alareunaan - ei lähimainkaan...*
+> *Pikaesittely lähti sivuston protoiluvaiheessa paisumaan elämänkerraksi*
+> *työotsikolla "DI:n seikkailut tekniikkajournalismin maailmassa"...*
 
 Jarmon lapsuus ennen kouluikää kului Sääjärven kylässä. Lapsuuskoti oli entisen [Rosenlewin](https://fi.wikipedia.org/wiki/Rosenlew) entisen "metsäkämpän" tiloissa.
 
@@ -74,7 +76,14 @@ Onneksi kävi niin, että Jarmo pääsi mukaan johonkin Teknillisen korkeakoulun
 
 Jarmo ei olisi ikimaailmassa uskonut, että pelkästään puupylväiden lujuus- ja myös sähköteknisistä ominaisuuksista (ajatellen esimerkiksi vuotovirtoja ja salamoiden aiheuttamia syöksyjännitteitä) voisi pelkästään kirjallisuusosioon löytyä **niin** paljon ja niin nopeasti tietoa - infoähkyä kymmeniä vuosia ennen Googlea...
 
-Diplomityökin valmistui, kun kirjallisuusosion sai typistetyksi kohtuulliseen mittaan ajatellen mm. puhtaaksikirjoitusta mekaanisella kirjoituskoneella. Jarmo ei kuitenkaan uskonut, että sen avulla koskaan löytyisi työpaikkaa...
+Diplomityökin valmistui, kun kirjallisuusosion sai typistetyksi kohtuulliseen mittaan ajatellen mm. puhtaaksikirjoitusta mekaanisella kirjoituskoneella. Ja myös tehdyksi omia mm. syöksyjännitemittauksia TKK:n Sähkövoimatekniikan laboratorion suujännitehallissa (nykyään [Fortumin suurjännitehalli](https://www.aalto.fi/fi/uutiset/suurjannitehalli-otaniemessa-fortumin-kayttoon)).
+
+<figure>
+    <img src='https://imagedelivery.net/VYkNhfvtYhLdPawugfftZg/2e77b931-4637-434c-2497-1cd3bf3d9f00/public' alt='missing' />
+    <figcaption>Syöksyjännitegeraattori - kuvan lähde: twitter.com/sallasalovaara/status/1088859572398370816</figcaption>
+</figure>
+
+Jarmo ei kuitenkaan uskonut, että puupylväs-diplomityön avulla koskaan löytyisi työpaikkaa...
 
 Sähköalan diplomi-insinööriksi vuonna 1978 valmistuttuaan Jarmo suoritti asevelvollisuuden Viestirykmentin Puhelinkomppaniassa Riihimäellä *("en mä mitään tiedä, mä kelaan vaan")* ja [Reserviupseerikoulun](https://fi.wikipedia.org/wiki/Reserviupseerikoulu) Haminassa talvikurssilla 159 ("Paavo") 1.12.-15.3.1979.
 
