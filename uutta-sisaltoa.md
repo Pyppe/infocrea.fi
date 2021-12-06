@@ -139,11 +139,13 @@ Jarmo aloitti uudelleen Insinöörilehdissä Insinööriuutisten toimituksessa e
 
 Mikro-lehteä Jarmo teki sen ensimmäisen kokonaisen ilmestymisvuoden lehden ainoana päätoimisena toimituksen jäsenenä tittelillä toimituspäällikkö. Päätoimittaja oli oman toimensa ohella emolehden, Insinöörilehtien tytäryhtiön Tietoviikko Ky:n kustantaman vain vuotta aikaisemmin perustetun [Tietoviikko](https://fi.wikipedia.org/wiki/Tietoviikko)-lehden (nykyään [Tivi](https://www.tivi.fi/)) päätoimittaja Timo Tolsa.
 
+Kumpikin ehti itse kirjoittaa muutaman jutun per lehti, loput tilattiin ulkoa free lancereilta ja asiantuntijoilta.
+
 Kerran kuussa noin ja joskus ylikin 100-sivuisen lehden sisällön ideointi, juttujen tilaus, briefaus, peräänkuuluttelu ja käsittely (paperilla...) ja omien juttujen kirjoittaminen sekä  merkinnät ladontaa ja sivutaittoa varten jne. yms. vetivät takin tyhjäksi noin vuodessa.
 
 "Siinä vitsit vähenee, kun dead line lähenee" - ja jos jokaisella jutulla on oma dead line, jota lisäksi noudatetaan, niin silloin myös koko lehden dead line pitää ilman isompaa stressiä paketin kokoajalle. Siis jos.
 
-Vuodenvaihteessa 1984/85 Jarmo vaihtoi tehtäviä Insinööriuutiset-lehden toimituspäällikkö Kari Tyllilän kanssa eli palasi Insinööriuutisiin tuottamaan jotain säännöllisesti ilmestyvää osastoa, jonka nimeksi muistelee:-) Pop-tech ja sisältökentäksi viihde-elektroniikan ym. populaaritekniikan.  
+Vuodenvaihteessa 1984/85 Jarmo vaihtoi tehtäviä Insinööriuutiset-lehden toimituspäällikkö Kari Tyllilän kanssa ja palasi Insinööriuutisiin toimituspäälliköksi mm. tuottamaan huipputeknologiajuttuja "Hi Tech"- ja viihde-elektroniikka yms. populaaritekniikkajuttuja "Pop Tech" -osastoille.
 
 ### Päätoimittajaksi
 
