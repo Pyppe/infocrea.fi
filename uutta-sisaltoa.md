@@ -162,6 +162,19 @@ Vuodenvaihteessa 1984/85 Jarmo vaihtoi tehtäviä Insinööriuutiset-lehden toim
 
 (Ensimmäinen blogi logosta ja uuden sivuston tekniikasta (ainakin jotain). Sivustolla voisi olla pysyvästi näkyvillä oleva linkki vanhaan blogiin. Ensin lupaus siitä, ja sitten linkki, kun on käytettävissä.)
 
+# Hei, me blogataan! Ja uudella alustalla
+
+Jos selaimen osoiterivillä näkyy domainina jarmolahti.fi, niin ollaan jo jopa aika pitkällä. Kiitos, [Pyppe](https://pyppe.fi):-)
+
+Ihan vastahan ehdin todeta, että ["Infocrea Oy is dead - long live Jarmo Lahti"](/blogi/2021/11/infocrea-oy-is-dead-long-live-jarmo-lahti/). Ja nyt on [protoiluvaiheesta](/blogi/2021/11/protoiluvaiheessa-jo/) siis päästy jo tuotantoon.
+
+Koko vanha blogi löytyy osoitteesta [infocrea.jarmolahti.fi/blogi/](https://infocrea.jarmolahti.fi/blogi/) - ja itseasiassa koko vanha infocrea.fi.
+
+Kyllä tämä tästä:-) 
+
+
+
+
 ------------------------------
 
 **[En/Uu]tiset**
