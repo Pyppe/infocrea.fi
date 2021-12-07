@@ -44,5 +44,6 @@ rm -f $TARGET/*.iml
 rm -rf $TARGET/sass
 rm -rf $TARGET/node_modules
 
-rsync -hrvz --checksum --delete --stats $TARGET/ $SSH_HOST:$SSH_DIR/
+#rsync -hrvz --checksum --delete --stats $TARGET/ $SSH_HOST:$SSH_DIR/
+echo 'Drag and drop _site folder to https://app.netlify.com/sites/infocrea-fi/deploys'
 

@@ -29,7 +29,7 @@
   {% if page.css %}<link rel="stylesheet" href="/css/{{ page.css }}" />{% endif %}
   <script type="text/javascript">
     (function() {
-      var isProd = window.location.hostname === 'www.infocrea.fi';
+      var isProd = window.location.hostname.endsWith('.fi');
       window.infocrea = {
         isProd: isProd,
         showComments: isProd,
