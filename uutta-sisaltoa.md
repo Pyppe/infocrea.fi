@@ -8,7 +8,7 @@ title: "Uutta sisältöä"
 Oletus, että lähdetään liikkeelle [Vercel-lauoutilla](https://jarmolahti-fi.vercel.app/) 
 
 Yleistä: some-ikonit LinkedIn Twitter Facebook Instagram 
-Jakolinkit bloausten ja uutisten yhteyteen
+Jakolinkit blogausten ja uutisten yhteyteen - tai ainakin "footeriin"
 
 ----------------------
 
@@ -35,14 +35,15 @@ Siksi siis nämä sivut tällä verkko-osoitteella.
 # Kuka päivittää?
 
 Jarmo Lahti syntyi tammikuussa 1953 entisessä Vanajan kunnassa Hämeessä.
-
-> *Tämä sivu ei muuten lopu ruudun alareunaan - ei lähimainkaan...*
-> *Pikaesittely lähti sivuston protoiluvaiheessa paisumaan elämänkerraksi*
+> *Tämä [“CV”](https://fi.wikipedia.org/wiki/Ansioluettelo)-sivu ei muuten lopu ruudun alareunaan - ei lähimainkaan...*
+> *Pikaesittely lähti jo sivuston protoiluvaiheessa lapasesta ja kohti elämänkertaa*
 > *työotsikolla "DI:n seikkailut tekniikkajournalismin maailmassa"...*
 
 Jarmon lapsuus ennen kouluikää kului Sääjärven kylässä. Lapsuuskoti oli entisen [Rosenlewin](https://fi.wikipedia.org/wiki/Rosenlew) entisen "metsäkämpän" tiloissa.
 
-Kyseinen metsäkämppä ja Jarmon äiti kämppäemäntänä vuonna 1956 näkyy [Felix Forsmanin](https://www.hs.fi/muistot/art-2000002627634.html) vuonna 1957 valmistuneessa teollisuusdokumenttivideossa ["Suomi sahaa"](https://elonet.finna.fi/Record/kavi.elonet_elokuva_612441), 3m33s alusta. Filmi oli Suomen Sahanomistajayhdistyksen tilaama ja palkittiin Torinon teollisuuselokuvafestivaaleilla vuonna 1959. Se oli ensimmäisiä suomalaisia tilauskuvia, jotka filmattiin Eastmancolor -väreihin, tiedettiin Kansallisesta audiovisuaalisesta instituutista eli [Kavista](https://kavi.fi/) kertoa vuonna 2016. (Jarm etsi ja löysi filmin Kavin avulla; vinkki etsintään tuli vieraskirjamerkinnästä vuodelta 1956.)
+Kyseinen metsäkämppä ja Jarmon äiti kämppäemäntänä vuonna 1956 näkyy [Felix Forsmanin](https://www.hs.fi/muistot/art-2000002627634.html) vuonna 1957 valmistuneessa teollisuusdokumenttivideossa ["Suomi sahaa"](https://elonet.finna.fi/Record/kavi.elonet_elokuva_612441), 3m33s alusta.
+
+Filmi oli Suomen Sahanomistajayhdistyksen tilaama ja palkittiin Torinon teollisuuselokuvafestivaaleilla vuonna 1959. Se oli ensimmäisiä suomalaisia tilauskuvia, jotka filmattiin Eastmancolor -väreihin, tiedettiin Kansallisesta audiovisuaalisesta instituutista eli [Kavista](https://kavi.fi/) kertoa vuonna 2016. (Jarm etsi ja löysi filmin Kavin avulla; vinkki etsintään tuli vieraskirjamerkinnästä vuodelta 1956.)
 
 ### Koulutielle
 
