@@ -7,8 +7,16 @@ title: "Uutta sisältöä"
 
 Oletus, että lähdetään liikkeelle [Vercel-lauoutilla](https://jarmolahti-fi.vercel.app/) 
 
-Yleistä: some-ikonit LinkedIn Twitter Facebook Instagram 
-Jakolinkit blogausten ja uutisten yhteyteen - tai ainakin "footeriin"
+Some-ikonit kuten Pyppe.fi -sivulla olis siistii, järjestys LinkedIn, Twitter, Facebook, Instagram 
+
+Jos samantyyppisesti kuin Pyppe.fi -sivustolla(...) footerissa on “Pyppe productions…” niin ja minulla nyt “JarmoLahti.fi”, niiin saako sen tekstin sijaan logolla:
+https://www.dropbox.com/s/qi6x8pmqj5354z2/JarmoLahti_fi-logo.png?dl=0 
+
+Voisiko sivulla Uutiset siinä etusivulla ja kunkin blogaisun ylänurkassa tms. olla joku kysymysmerkki-kuva tai -ikoni, jonka päälle kursorin viedessä näkyisi jopa edes klikkaamatta parin rivin pikainfo tyyliin
+“Vanhoja Jarmo Lahden InfoLinjaan vuosina 1993-1995 ja ITviikkoon vuosina 1999-2009 kirjoittamia juttuja uudelleenlämmitettynä”
+
+Vähän leikittelen edelleen ajatuksella, että voisi olla vielä välilehti “Striimivaari®”
+jonka alla “markkinoisin” striimauspalveluja jollain rajauksilla laskutuspalvelua kuten Ukko.fi (sopisi vaarille) käyttäen. Tai voisihan se olla jo nyt, kirjoittaisin sinne tässä vaiheessa vain Striimivaari® -”tarinan”
 
 ----------------------
 
