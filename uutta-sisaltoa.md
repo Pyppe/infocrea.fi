@@ -45,7 +45,7 @@ Siksi siis nämä sivut tällä verkko-osoitteella.
 Jarmo Lahti syntyi tammikuussa 1953 entisessä [Vanajan](https://fi.wikipedia.org/wiki/Vanaja_(kunta)) kunnassa Hämeessä.
 
 > *Tämä [“CV”](https://fi.wikipedia.org/wiki/Ansioluettelo)-sivu ei muuten lopu ruudun alareunaan - ei lähimainkaan...*
-> *- Pikaesittely lähti jo sivuston protoiluvaiheessa lapasesta ja alkoi muotoutua elämänkerraksi*
+> *- Pikaesittely lähti jo sivuston protoiluvaiheessa lapasesta ja alkoi muotoutua vähitellen päivittyväksi elämänkerraksi*
 > *työotsikolla "DI:n seikkailut tekniikkajournalismin maailmassa"...*
 
 Jarmon lapsuus ennen kouluikää kului Sääjärven kylässä. Lapsuuskoti oli entisen [Rosenlewin](https://fi.wikipedia.org/wiki/Rosenlew) entisen "metsäkämpän" tiloissa.
