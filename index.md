@@ -29,6 +29,4 @@ Infocrea Oy tarjosi ja toteutti 2000-luvulla videotallennus- ja etenkin -striima
 
 ## Jarmo Lahti ?
 
-Loppuvuoden 2021/alkuvuoden 2022 aikana sivuston osoite muuttuu **infocrea.fi**:stä **jarmolahti.fi**:ksi. "Blogi"-välilehti pysynee entisellään, mutta "Palvelut" ja "Yhteystiedot"-välilehtien otsikko muuttuu ja niiden alle tullee muunlaista sisältöä, jonka osaamis-, kokemus- ja muistipohjaltaaan tuottaaa:
-
-[**Jarmo Lahti ("CV")**](./cv) 
+Loppuvuoden 2021/alkuvuoden 2022 aikana **infocrea.fi**:n päivitys loppuu ja alkaa **[jarmolahti.fi](http://jarmolahti.fi)**:ssä. Sieltä löytyy myös linkki vanhaan infocrea.fi-sisältöön.
